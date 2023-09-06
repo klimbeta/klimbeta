@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "BetaComp"
   text: "New Olypmpic Game"
-  tagline: My great project tagline
+  tagline: Creativity Elegance  
   actions:
     - theme: brand
       text: Markdown Examples
