@@ -103,49 +103,130 @@ function sidebarReference() {
           text: '🟠 MoveSequence',
           collapsed: true,
           items: [
-            { text: '🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
+            { text: '🟠🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
           ]
         },
         {
           text: '🟠 BodyMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is Move?', link: '/reference/Move/BodyMove/Overview' }
+            { text: '🟠🟠 What is BodyMove?', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/BodyMove/Overview' },
           ]
         },
         {
           text: '🟠 ArmMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is Move?', link: '/reference/Move/ArmMove/Overview' }
+            { text: '🟠🟠 What is ArmMove?', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/ArmMove/Overview' },
           ]
         },
         {
           text: '🟠 HandMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is Move?', link: '/reference/Move/HandMove/Overview' }
+            { text: '🟠🟠 What is Move?', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/HandMove/Overview' },
           ]
         },
         {
           text: '🟠 LegMove',
           collapsed: true,
           items: [
-            { text: 'What is Move?', link: '/reference/Move/LegMove/Overview' }
+            { text: '🟠🟠 What is LegMove?', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
+            { text: '🟠 Overview', link: '/reference/Move/LegMove/Overview' },
           ]
         },
         {
           text: '🟠 FootMove',
           collapsed: true,
           items: [
-            { text: 'What is Move?', link: '/reference/Move/FootMove/Overview' }
+            { text: '🟠🟠 What is FootMove?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
+            { text: '🟠 Overview?', link: '/reference/Move/FootMove/Overview' },
           ]
         },
         {
           text: '🟠 ToolMove',
           collapsed: true,
           items: [
-            { text: 'What is a Tool?', link: '/reference/Move/ToolMove/Overview' }
+            { text: '🟠 What is ToolMove?', link: '/reference/Move/ToolMove/Overview' }
           ]
         },
       ]
