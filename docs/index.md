@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 
 hero:
@@ -8,11 +8,23 @@ hero:
   tagline: Express your Climbing Creativity!  
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /What/WhatBetaComp
+    - theme: brand
+      text: 🔷🔺💜🟠🟩
+      link: /reference/ReferenceOverview
+    - theme: brand
+      text: Develop
+      link: /Development/DevelopmentOverview
+    - theme: brand
+      text: Test
+      link: /Tests/TestsOverview
+    - theme: brand
+      text: Sponsor
+      link: /sponsor/Sponsor
+
+
+
 
 features:
   - title: Feature A

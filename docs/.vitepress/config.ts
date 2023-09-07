@@ -64,7 +64,7 @@ function nav() {
 function sidebarGuide() {
   return [
     {
-      text: 'Introduction',
+      text: 'What?',
       collapsed: false,
       items: [
         { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
@@ -72,16 +72,48 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'Who',
+      text: 'Why?',
       collapsed: false,
       items: [
-        { text: 'Spectator', link: '/guide/Who/Spectator' },
-        { text: 'Gym', link: '/guide/Who/Gym' },
+        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+      ]
+    },
+    {
+      text: 'Who?',
+      collapsed: false,
+      items: [
         { text: 'Climber', link: '/guide/Who/Climber' },
+        { text: 'Spectator', link: '/guide/Who/Spectator' },
         { text: 'Coach', link: '/guide/Who/Coach' },
+        { text: 'Gym', link: '/guide/Who/Gym' },
         { text: 'Gear Company', link: '/guide/Who/GearCompany' },
       ]
-    }
+    },
+    {
+      text: 'When?',
+      collapsed: false,
+      items: [
+        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+      ]
+    },
+    {
+      text: 'Where?',
+      collapsed: false,
+      items: [
+        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+      ]
+    },
+    {
+      text: 'How?',
+      collapsed: false,
+      items: [
+        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+      ]
+    },
   ]
 }
 
