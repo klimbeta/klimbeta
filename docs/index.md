@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "BetaComp"
-  text: "New Olypmpic Game"
-  tagline: Creativity Elegance  
+  text: "A New Olympic Game"
+  tagline: Express your Climbing Creativity!  
   actions:
     - theme: brand
       text: Markdown Examples
