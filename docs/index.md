@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "🔷 BetaComp 🔷"
-  tagline: 🔷 Climbing's New Olympic Event! 🔷  
+  tagline: Climbing's New Olympic Event!
   actions:
     - theme: brand
       text: Get Started
