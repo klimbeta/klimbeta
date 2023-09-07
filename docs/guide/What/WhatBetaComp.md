@@ -50,3 +50,8 @@ Differences from BetaComp
 - Competitors try to get to the top of [Wall]().
 - Forced Movements
 - Forced [Route]()
+
+
+
+
+
