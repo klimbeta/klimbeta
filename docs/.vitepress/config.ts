@@ -89,56 +89,63 @@ function sidebarReference() {
   return [
     {
       text: '🔷 Beta System',
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: 'What is Beta?', link: '/reference/Beta/WhatBeta' }
+        { text: '🔷🔷 What is Beta?', link: '/reference/Beta/WhatBeta' }
       ]
     },
     {
       text: '🟠 Move Subsystem',
       collapsed: true,
       items: [
-        { text: '🟠 What is Move?', link: '/reference/Move/MoveOverview' },
+        { text: '🟠🟠 What is Move?', link: '/reference/Move/MoveOverview' },
+        {
+          text: '🟠 MoveSequence',
+          collapsed: true,
+          items: [
+            { text: '🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
+          ]
+        },
         {
           text: '🟠 BodyMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is Move?', link: '/reference/Move/MoveOverview' }
+            { text: '🟠 What is Move?', link: '/reference/Move/BodyMove/Overview' }
           ]
         },
         {
           text: '🟠 ArmMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is Move?', link: '/reference/Move/MoveOverview' }
+            { text: '🟠🟠 What is Move?', link: '/reference/Move/ArmMove/Overview' }
           ]
         },
         {
           text: '🟠 HandMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is Move?', link: '/reference/Move/MoveOverview' }
+            { text: '🟠 What is Move?', link: '/reference/Move/HandMove/Overview' }
           ]
         },
         {
           text: '🟠 LegMove',
           collapsed: true,
           items: [
-            { text: 'What is Move?', link: '/reference/Move/MoveOverview' }
+            { text: 'What is Move?', link: '/reference/Move/LegMove/Overview' }
           ]
         },
         {
           text: '🟠 FootMove',
           collapsed: true,
           items: [
-            { text: 'What is Move?', link: '/reference/Move/MoveOverview' }
+            { text: 'What is Move?', link: '/reference/Move/FootMove/Overview' }
           ]
         },
         {
           text: '🟠 ToolMove',
           collapsed: true,
           items: [
-            { text: 'What is a Tool?', link: '/reference/Move/MoveOverview' }
+            { text: 'What is a Tool?', link: '/reference/Move/ToolMove/Overview' }
           ]
         },
       ]
@@ -147,21 +154,21 @@ function sidebarReference() {
       text: '🔺 Route Subsystem',
       collapsed: true,
       items: [
-        { text: '🔺 What is Route?', link: '/reference/Route/RouteOverview' }
+        { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' }
       ]
     },
     {
       text: '🟩 Wall Subsystem',
       collapsed: true,
       items: [
-        { text: '🟩 What is Wall?', link: '/reference/Wall/WallOverview' }
+        { text: '🟩🟩 What is Wall?', link: '/reference/Wall/WallOverview' }
       ]
     },
     {
       text: ' 💜 Neuro Subsystem',
       collapsed: true,
       items: [
-        { text: '💜 What is Neuro?', link: '/reference/Neuro/NeuroOverview' }
+        { text: '💜💜 What is Neuro?', link: '/reference/Neuro/NeuroOverview' }
       ]
     },
     { text: 'Gallery', link: '/reference/Gallery/Gallery' },

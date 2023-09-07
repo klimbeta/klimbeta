@@ -1,0 +1,1806 @@
+{
+    "1Dimensional": {
+      "1DimensionalAbsorb": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "1Dimensional_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "1Dimensional_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "2Dimensional": {
+      "2DimensionalAbsorb": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "2Dimensional_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "2Dimensional_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "3Dimensional": {
+      "3DimensionalAbsorb": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "3Dimensional_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "3Dimensional_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "4Dimensional": {
+      "4Dimensional_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "4Dimensional_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Align": {
+        "Supermovement": ["Balance", "OptimizeFriction", "Posture"],
+        "Submovement": [],
+        "LegAlign": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "ArmAlign": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "BodyAlign": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "SpineAlign": {
+            "Supermovement": [],
+            "Submovement": []
+          }
+      },
+    "Abduction": {
+      "ArmAbduction": {
+        "ArmHorizontalAbduction": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "ArmVerticalAbduction": {
+          "Supermovement": [],
+          "Submovement": []
+        }
+      },
+      "LegAbduction": {
+        "LegHorizontalAbduction": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "LegVerticalAbduction": {
+          "Supermovement": [],
+          "Submovement": []
+        }
+      },
+      "FingerAbduction": {
+        "Supermovement": ["Pinch", "Grip"],
+        "Submovement": ["MuscleActivation"]
+      },
+      "Abduction_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Abduction_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Absorb": {
+      "ArmAbsorb": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "BodyAbsorb": {
+        "Supermovement": [],
+        "Submovement": [],
+        "BodyRotateAbsorb": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "BodyTwistAbsorb": {
+            "Supermovement": [],
+            "Submovement": []
+          }
+      },
+      "LegAbsorb": {
+        "Supermovement": [],
+        "Submovement": [],
+        "LegWhipAbsorb": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "LegArcAbsorb": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "LegKneeUpAbsorb": {
+            "Supermovement": [],
+            "Submovement": [
+                "LegFlexion"
+            ]
+          },
+        "LegTangentAbsorb": {
+            "Supermovement": [],
+            "Submovement": []
+          }
+      },
+      "HeadAbsorb": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Accurate": {
+      "Supermovement": [],
+      "Submovement": []
+    },
+    "Aggressive": {
+      "Supermovement": [],
+      "Submovement": []
+    },
+    "Alignment": {
+      "Alignment_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Alignment_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Arc": {
+      "ArmArc": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegArc": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Arc_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Arc_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Arch": {
+      "ArmArch": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegArch": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "ArmAboveShoulder": {
+      "ArmAboveShoulderCatch": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "ArmBelowShoulder": {
+      "ArmBelowShoulder_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ArmBelowShoulder_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Asymmetric": {
+      "Asymmetric_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Asymmetric_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Balance": {},
+    "Brachiation": {
+      "RicochetBrachiation": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Brush": {
+      "Brush_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Brush_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Buckle": {
+      "ArmBuckle": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegBuckle": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "FingerBuckle": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Bump": {
+      "ArmBump": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegBump": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Bump_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Bump_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Carabiner": {
+      "Supermovement": [],
+      "Submovement": []
+    },
+    "Catch": {
+      "HandCatch": {
+        "PinchCatch": {
+          "Supermovement": [],
+          "Submovement": []
+        }
+      },
+      "FootCatch": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ToeCatch": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Chalk": {
+      "ChalkUp": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ChalkBlow": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ChalkTicMark": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Chalk_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Chalk_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Clamp": {},
+    "Clipping": {
+      "Clipping_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Clipping_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Compression": {
+      "ArmArmCompression": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegLegCompression": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ArmLegCompression": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "ArmChestCompression": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Compression_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Compression_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Curve": {
+      "Curve_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Curve_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Deadpoint": {
+      "VerticalDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "HorizontalDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DiagonalDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "AnteriorDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "PosteriorDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LateralDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DownDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Deflection": {
+      "TwistDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "AngularDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "CurvedDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DownDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "UpDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "OverDeflection": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Delicate": {
+      "Delicate_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Delicate_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Distal": {},
+    "Down": {
+      "DownClimb": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DownDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Drop": {
+      "ArmDrop": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "LegDrop": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "BodyDrop": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Dynamic": {},
+    "Dyno": {
+      "VerticalDyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "HorizontalDyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DownDyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "DiagonalDyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "PosteriorDyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "180Dyno": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "90Dyno": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Expansion": {
+      "Expansion_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Expansion_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Thumb": {
+        "Supermovement": [],
+        "Submovement": [],
+        "ThumbAbduction": {
+            "Supermovement": [],
+            "Submovement": ["MuscleActivation"]
+          },
+        "ThumbRadialAbduction": {
+            "Supermovement": [],
+            "Submovement": ["MuscleActivation"]
+          },
+        "ThumbPalmarAbduction": {
+            "Supermovement": [],
+            "Submovement": ["MuscleActivation"]
+          },
+        "ThumbFlexion": {
+            "Supermovement": [],
+            "Submovement": ["MuscleActivation"]
+          },
+        "ThumbExtension": {
+            "Supermovement": [],
+            "Submovement": ["MuscleActivation"]
+          },
+        "ThumbOpposition": {
+            "Supermovement": ["Pinch"],
+            "Submovement": ["MuscleActivation"]
+          }  
+      },
+    "Extension": {
+        "ArmExtension": {
+            "Supermovement": [],
+            "Submovement": ["TricepContraction"]
+          },
+        "LegExtension": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "FingerExtension": {
+            "Supermovement": [],
+            "Submovement": ["FingerExtensorContraction"]
+          },
+        "SpineExtension": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "NeckExtension": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "Extension_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Extension_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Fall": {
+      "ControlledFall": {
+        "Supermovement": [],
+        "Submovement": [
+            "Landing",
+            "Absorb"
+        ]
+      },
+      "UncontrolledFall": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "TwistFall": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Figure8": {
+      "Supermovement": [],
+      "Submovement": [
+        "LegHook",
+        "ArmHook",
+        "JugGrip"
+      ]
+    },
+    "Figure9": {
+      "Supermovement": [],
+      "Submovement": [
+        "LegHook",
+        "ArmHook"
+      ]
+    },
+    "Flag": {
+      "ArmFlag": {
+        "ArmAnteriorFlag": {
+            "Supermovement": [],
+            "Submovement": ["ArmAbduction"],
+          "ArmAnteriorFlag.HorizontalCornerWall": {
+            "Supermovement": [],
+            "Submovement": []
+          }
+        },
+        "ArmPosteriorFlag": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "ArmLateralFlag": {
+            "Supermovement": [],
+            "Submovement": []
+          }
+      },
+      "LegFlag": {
+        "Supermovement": [],
+        "Submovement": [],
+        "LegPosteriorFlag": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "LegAnteriorFlag": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "LegLateralFlag": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "LegPosteriorCrossFlag": {
+          "Supermovement": [],
+          "Submovement": []
+        },
+        "LegAnteriorCrossFlag": {
+          "Supermovement": [],
+          "Submovement": []
+        }
+      }
+    },
+   
+   
+    "Flexion": {
+        "ArmFlexion": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "LegFlexion": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "FingerFlexion": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+        "NeckFlexion": {
+            "Supermovement": [],
+            "Submovement": []
+          },
+          "HipFlexion": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "Supermovement": [],
+        "Submovement": [
+            "MuscleActivation"
+        ],
+        "Flexion_Dynamic": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "Flexion_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Fluid": {
+        "Fluid_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "Fluid_Static": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "FootInferiorHip": {
+      "Supermovement": [],
+      "Submovement": []
+    },
+    "FootSuperiorShoulder": {
+      "Supermovement": [],
+      "Submovement": []
+    },
+    "Pinch": {
+      "ThumbPinch": {
+        "Supermovement": [],
+        "Submovement": []
+      },
+      "CrimpPinch": {
+        "Supermovement": [],
+        "Submovement": []
+      }
+    },
+    "Grip": {
+    "Supermovement": [],
+    "Submovement": [
+        "FingerFlexion",
+        "FingerAbduction"
+    ],
+    "JugGrip": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "2FingerGrip": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "3FingerGrip": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "4FingerGrip": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "HandInferiorShoulder": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "HandSuperiorShoulder": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Hang": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Hook": {
+    "FingerHook": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmHook": {
+        "WristHook": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ElbowHook": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ShoulderHook": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "LegHook": {
+        "KneeHook": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "AnkleHook": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "Straddle": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    }
+    },
+    "Horizontal": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Jam": {
+    "Jam_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Jam_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Lateral": {
+    "Lateral_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Lateral_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Lean": {
+    "Lean_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Lean_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Lever": {
+    "ArmLever": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegLever": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "BodyLever": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Light": {
+    "Light_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Light_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Lock": {
+    "ArmLock": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegLock": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerLock": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "BodyLock": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Mantle": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Match": {
+    "Match_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Match_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandMatch": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootMatch": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Medial": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Nudge": {
+    "Nudge_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Nudge_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootNudge": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandNudge": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerNudge": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HipNudge": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "OptimizeFriction": {
+    "OptimizeToPerpendicular": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "OptimizeToParallel": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "OptimizeFriction_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "OptimizeFriction_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Sit": {
+    "Supermovement": [],
+    "Submovement": [
+        "LegFlexion",
+        "LegSmear",
+        "HipFlexion"
+    ]
+    },
+    "Stand": {
+    "Supermovement": [],
+    "Submovement": [
+        "LegExtension"
+    ],
+    "ToStand": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "Overlap": {
+    "FootOverlap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandOverlap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerOverlap": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Passive": {
+    "Passive_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Passive_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+   
+    "HandDeviation": {
+    "Supermovement": [],
+    "Submovement": [],
+    "RadialDeviation": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "UlnarDeviation": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "Scapula": {
+    "Supermovement": [],
+    "Submovement": [],
+    "ScapulaProtraction": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "ScapulaElevation": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "ScapulaRetraction": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "ScapulaDepression": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "ScapulaUpRotation": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "ScapulaDownRotation": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "Pivot": {
+    "FingerPivot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "PalmPivot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootPivot": {
+        "Supermovement": [],
+        "Submovement": [],
+        "HeelPivot": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ToePivot": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "HipPivot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "KneePivot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HeadPivot": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Position": {
+    "Position_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Position_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Position;Expansion": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Position;Expansion_Dynamic": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Position;Expansion_Static": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Position;Posture": {
+    "Position;Posture_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Position;Posture_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Positioning": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Positioning_Dynamic": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Positioning_Static": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Posture": {
+    "Posture_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Posture_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Precise": {
+    "Precise_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Precise_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "ProjectileMotion": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "ProjectileMotion_Dynamic": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Prop": {
+    "LegProp": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmProp": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerProp": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Proximal": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Pull": {
+    "Pull_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Pull_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Pump": {
+    "ArmPump": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegPump": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Push": {
+    "Push_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Push_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "PushAway": {
+    "PushAway_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "PushAway_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Radius": {
+    "Radius_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Radius_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Reach": {
+    "ArmReach": {
+        "ArmLateralReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmMedialReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmDownReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmUpReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmPosteriorReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmDistalReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmCrossReach": {
+        "ArmCrossArmReach": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "ArmCrossLegReach": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "ArmCrossMidlineReach": {
+            "Supermovement": [],
+            "Submovement": []
+        }
+        }
+    },
+    "LegReach": {
+        "LegLateralReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegMedialReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegDownReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegUpReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegPosteriorReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegDistalReach": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "LegCrossReach": {
+        "LegCrossLegReach": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "LegCrossArmReach": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "LegCrossMidlineReach": {
+            "Supermovement": [],
+            "Submovement": []
+        }
+        }
+    }
+    },
+    "ReciprocalInhibition": {
+    "ReciprocalInhibition_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ReciprocalInhibition_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Relative": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Relative_Dynamic": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Relative_Static": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Rest": {
+    "Rest_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Rest_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "RockOver": {
+    "LegRockOver": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmRockOver": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "RockOver_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "RockOver_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Roll": {
+    "FootRoll": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerRoll": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandRoll": {
+        "WristRoll": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    }
+    },
+    "Rope": {
+    "Rope_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Rope_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Rotation": {
+    "ArmRotation": {
+        "ArmInternalRotation": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ArmExternalRotation": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ShoulderRotation": {
+        "ShoulderAboveRotation": {},
+        "ShoulderBelowRotation": {
+            "Supermovement": [],
+            "Submovement": []
+        }
+        }
+    },
+    "LegRotation": {
+        "Supermovement": [],
+        "Submovement": [],
+        "LegInternalRotation": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "FootRotation": {
+        "Supermovement": [],
+        "Submovement": [],
+        "FootPronation": {
+            "Supermovement": [],
+            "Submovement": []
+            },
+        "FootSupination": {
+            "Supermovement": [],
+            "Submovement": []
+            }
+        },
+    "HandRotation": {
+        "Supermovement": [],
+        "Submovement": [],
+        "HandSupination": {
+            "Supermovement": [],
+            "Submovement": []
+            },
+        "HandPronation": {
+            "Supermovement": [],
+            "Submovement": []
+            }
+        }
+    },
+    "Run": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "ShakeOut": {
+    "ArmShake": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegShake": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Slide": {
+    "HandSlide": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FingerSlide": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+    "FootSlide": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Slot": {
+    "Slot_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Slot_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandSlot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootSlot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegSlot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmSlot": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "BodySlot": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Stack": {},
+    "Smear": {
+    "HandSmear": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootSmear": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegSmear": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HipSmear": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HeadSmear": {
+        "ChinSmear": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "CrownSmear": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    }
+    },
+    "Smooth": {
+    "Smooth_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Smooth_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Space": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Spotting": {
+    "Spotting_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Spotting_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Stab": {
+    "FootStab": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandStab": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Stabilizer": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Static": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Subtle": {
+    "Subtle_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Subtle_Static": {}
+    },
+    "Swap": {
+    "HandSwap": {
+        "PianoSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "FootSwap": {
+        "FootHopSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "FootSmearSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "FootRollSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "FingerSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandFootSwap": {
+        "HandHeelSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "HandToeSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "HandHipSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "FootHandSwap": {
+        "HeelHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ToeHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+        }
+    },
+    "HipHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ShoulderHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "KneeHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandKneeSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HeadHandSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "HandHeadSwap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Swap_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Swap_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Swing": {
+    "ArmSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "BackSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "InitiationSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ForeSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "TwistSwing": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Symmetrical": {
+    "Symmetrical_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Symmetrical_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Tangent": {
+    "LegTangent": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmTangent": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Tenuous": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Thuggy": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Tool": {
+    "Rope": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Carabiner": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Quickdraw": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Sling": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Harness": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ChalkBag": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Helmet": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Protection": {
+        "ProtectionInsert": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ProtectionRemove": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "ProtectionTest": {
+        "Supermovement": [],
+        "Submovement": []
+        },
+        "Nut": {
+        "NutInsert": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "NutTest": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "NutRemove": {
+            "Supermovement": [],
+            "Submovement": []
+        }
+        },
+        "Piton": {
+        "PitonInsert": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "PitonRemove": {
+            "Supermovement": [],
+            "Submovement": []
+        },
+        "PitonTest": {
+            "Supermovement": [],
+            "Submovement": []
+        }
+        }
+    },
+    "Tool_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Tool_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "TopOut": {
+    "Supermovement": [],
+    "Submovement": []
+    },
+    "Transition": {
+    "HangingFootTransfer": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Transition_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Transition_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Twist": {
+    "Twist_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Twist_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Up": {
+    "UpDyno": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "UpReach": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "UpDeadpoint": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Vertical": {
+    "Vertical_Dynamic": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "Vertical_Static": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Whip": {
+    "ArmWhip": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "LegWhip": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "BodyWhip": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    },
+    "Wrap": {
+    "LegWrap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ArmWrap": {
+        "Supermovement": [],
+        "Submovement": []
+    },
+    "ThumbWrap": {
+        "Supermovement": [],
+        "Submovement": []
+    }
+    }
+}
+
