@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BetaComp",
   description: "Climbing's new Olympic Game",
-  base: '/betacomp/',
+  base: '/BetaComp/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
