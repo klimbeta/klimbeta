@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /What/WhatBetaComp
+      link: /guide/What/WhatBetaComp
     - theme: brand
       text: 🔷🔺💜🟠🟩
       link: /reference/ReferenceOverview

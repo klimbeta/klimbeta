@@ -64,24 +64,23 @@ function nav() {
 function sidebarGuide() {
   return [
     {
-      text: 'What?',
-      collapsed: false,
+      text: 'What ❔',
+      collapsed: true,
       items: [
         { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
         { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
       ]
     },
     {
-      text: 'Why?',
-      collapsed: false,
+      text: 'Why ❔',
+      collapsed: true,
       items: [
-        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+        { text: 'Why have a BetaComp?', link: '/guide/Why/WhyBetaComp' },
       ]
     },
     {
-      text: 'Who?',
-      collapsed: false,
+      text: 'Who ❔',
+      collapsed: true,
       items: [
         { text: 'Climber', link: '/guide/Who/Climber' },
         { text: 'Spectator', link: '/guide/Who/Spectator' },
@@ -91,27 +90,18 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'When?',
-      collapsed: false,
+      text: 'Where ❔',
+      collapsed: true,
       items: [
-        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+        { text: 'Where is BetaComp held?', link: '/guide/Where/WhereBetaComp' },
       ]
     },
     {
-      text: 'Where?',
-      collapsed: false,
+      text: 'How ❔',
+      collapsed: true,
       items: [
-        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
-      ]
-    },
-    {
-      text: 'How?',
-      collapsed: false,
-      items: [
-        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+        { text: 'How is BetaComp being created?', link: '/guide/How/HowBetaComp' },
+        { text: 'OtherSport', link: '/guide/How/OtherSport' }
       ]
     },
   ]
@@ -123,26 +113,51 @@ function sidebarReference() {
       text: '🔷 Beta System',
       collapsed: true,
       items: [
-        { text: '🔷🔷 What is Beta?', link: '/reference/Beta/WhatBeta' }
+        { text: '❔ What is Beta?', link: '/reference/Beta/WhatBeta' },
+        {
+          text: '🔷 Beta Sequence',
+          collapsed: true,
+          items: [
+            { text: '🔷🔷 What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
+          ]
+        },
+        {
+          text: '🔷 Beta Action',
+          collapsed: true,
+          items: [
+            { text: '❔ What are Beta Actions?', link: '/reference/Beta/BetaAction/Overview' },
+            { text: '🔷 AskBeta', link: '/reference/Beta/BetaAction/AskBeta' },
+            { text: '🔷 ChangeBeta', link: '/reference/Beta/BetaAction/ChangeBeta' },
+            { text: '🔷 GetBeta', link: '/reference/Beta/BetaAction/GetBeta' },
+            { text: '🔷 GiveBeta', link: '/reference/Beta/BetaAction/GiveBeta' },
+            { text: '🔷 LinkBeta', link: '/reference/Beta/BetaAction/LinkBeta' },
+            { text: '🔷 MimeBeta', link: '/reference/Beta/BetaAction/MimeBeta' },
+            { text: '🔷 ParseBeta', link: '/reference/Beta/BetaAction/ParseBeta' },
+            { text: '🔷 PerformBeta', link: '/reference/Beta/BetaAction/PerformBeta' },
+            { text: '🔷 RecordBeta', link: '/reference/Beta/BetaAction/RecordBeta' },
+            { text: '🔷 SprayBeta', link: '/reference/Beta/BetaAction/SprayBeta' },
+            { text: '🔷 TestBeta', link: '/reference/Beta/BetaAction/TestBeta' },
+          ]
+        },
       ]
     },
     {
       text: '🟠 Move Subsystem',
       collapsed: true,
       items: [
-        { text: '🟠🟠 What is Move?', link: '/reference/Move/MoveOverview' },
+        { text: '❔ What is Move?', link: '/reference/Move/MoveOverview' },
         {
-          text: '🟠 MoveSequence',
+          text: '🟠🟠🟠 Move Sequence',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
+            { text: '❔ What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
           ]
         },
         {
           text: '🟠 BodyMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is BodyMove?', link: '/reference/Move/BodyMove/Overview' },
+            { text: '❔ What is BodyMove?', link: '/reference/Move/BodyMove/Overview' },
             { text: '🟠 BodyAbsorb', link: '/reference/Move/BodyMove/BodyAbsorb' },
             { text: '🟠 BodyAlign', link: '/reference/Move/BodyMove/BodyAlign' },
             { text: '🟠 BodyArch', link: '/reference/Move/BodyMove/BodyArch' },
@@ -165,7 +180,7 @@ function sidebarReference() {
           text: '🟠 ArmMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is ArmMove?', link: '/reference/Move/ArmMove/Overview' },
+            { text: '❔ What is ArmMove?', link: '/reference/Move/ArmMove/Overview' },
             { text: '🟠 ArmAbduction', link: '/reference/Move/ArmMove/ArmAbduction' },
             { text: '🟠 ArmAbsorb', link: '/reference/Move/ArmMove/ArmAbsorb' },
             { text: '🟠 ArmAlign', link: '/reference/Move/ArmMove/ArmAlign' },
@@ -196,7 +211,7 @@ function sidebarReference() {
           text: '🟠 HandMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is Move?', link: '/reference/Move/HandMove/Overview' },
+            { text: '❔ What is Move?', link: '/reference/Move/HandMove/Overview' },
             { text: '🟠 HandCatch', link: '/reference/Move/HandMove/HandCatch' },
             { text: '🟠 HandMatch', link: '/reference/Move/HandMove/HandMatch' },
             { text: '🟠 HandNudge', link: '/reference/Move/HandMove/HandNudge' },
@@ -215,7 +230,7 @@ function sidebarReference() {
           text: '🟠 LegMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is LegMove?', link: '/reference/Move/LegMove/Overview' },
+            { text: '❔ What is LegMove?', link: '/reference/Move/LegMove/Overview' },
             { text: '🟠 LegAbduction', link: '/reference/Move/LegMove/LegAbduction' },
             { text: '🟠 LegAbsorb', link: '/reference/Move/LegMove/LegAbsorb' },
             { text: '🟠 LegAlign', link: '/reference/Move/LegMove/LegAlign' },
@@ -275,14 +290,28 @@ function sidebarReference() {
       text: '🔺 Route Subsystem',
       collapsed: true,
       items: [
-        { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' }
+        { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' },
+        {
+          text: '🔺 Route Sequence',
+          collapsed: true,
+          items: [
+            { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' }
+          ]
+        },
       ]
     },
     {
       text: '🟩 Wall Subsystem',
       collapsed: true,
       items: [
-        { text: '🟩🟩 What is Wall?', link: '/reference/Wall/WallOverview' }
+        { text: '🟩🟩 What is Wall?', link: '/reference/Wall/WallOverview' },
+        {
+          text: '🟩🟩 Wall Sequence',
+          collapsed: true,
+          items: [
+            { text: '🟩 What is Wall Sequence?', link: '/reference/Wall/WallSequence/Overview' }
+          ]
+        },
       ]
     },
     {
