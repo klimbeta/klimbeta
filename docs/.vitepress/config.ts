@@ -5,6 +5,7 @@ export default defineConfig({
   title: "BetaComp",
   description: "Climbing's new Olympic Game",
   base: '/BetaComp/',
+  ignoreDeadLinks: true,
   themeConfig: {
     socialLinks: [
       { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
@@ -115,10 +116,10 @@ function sidebarReference() {
       items: [
         { text: '❔ What is Beta?', link: '/reference/Beta/WhatBeta' },
         {
-          text: '🔷 Beta Sequence',
+          text: '🔷🔷🔷 Beta Sequence',
           collapsed: true,
           items: [
-            { text: '🔷🔷 What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
+            { text: '❔ What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
           ]
         },
         {
@@ -262,7 +263,7 @@ function sidebarReference() {
           text: '🟠 FootMove',
           collapsed: true,
           items: [
-            { text: '🟠🟠 What is FootMove?', link: '/reference/Move/FootMove/Overview' },
+            { text: '❔ What is FootMove?', link: '/reference/Move/FootMove/Overview' },
             { text: '🟠 FootCatch', link: '/reference/Move/FootMove/FootCatch' },
             { text: '🟠 FootMatch', link: '/reference/Move/FootMove/FootMatch' },
             { text: '🟠 FootNudge', link: '/reference/Move/FootMove/FootNudge' },
@@ -281,7 +282,7 @@ function sidebarReference() {
           text: '🟠 ToolMove',
           collapsed: true,
           items: [
-            { text: '🟠 What is ToolMove?', link: '/reference/Move/ToolMove/Overview' }
+            { text: '❔ What is ToolMove?', link: '/reference/Move/ToolMove/Overview' }
           ]
         },
       ]
@@ -290,12 +291,12 @@ function sidebarReference() {
       text: '🔺 Route Subsystem',
       collapsed: true,
       items: [
-        { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' },
+        { text: '❔ What is Route?', link: '/reference/Route/RouteOverview' },
         {
-          text: '🔺 Route Sequence',
+          text: '🔺🔺🔺 Route Sequence',
           collapsed: true,
           items: [
-            { text: '🔺🔺 What is Route?', link: '/reference/Route/RouteOverview' }
+            { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
           ]
         },
       ]
@@ -304,12 +305,12 @@ function sidebarReference() {
       text: '🟩 Wall Subsystem',
       collapsed: true,
       items: [
-        { text: '🟩🟩 What is Wall?', link: '/reference/Wall/WallOverview' },
+        { text: '❔ What is Wall?', link: '/reference/Wall/WallOverview' },
         {
-          text: '🟩🟩 Wall Sequence',
+          text: '🟩🟩🟩 Wall Sequence',
           collapsed: true,
           items: [
-            { text: '🟩 What is Wall Sequence?', link: '/reference/Wall/WallSequence/Overview' }
+            { text: '❔ What is a Wall Sequence?', link: '/reference/Wall/WallSequence/Overview' }
           ]
         },
       ]
@@ -318,9 +319,17 @@ function sidebarReference() {
       text: ' 💜 Neuro Subsystem',
       collapsed: true,
       items: [
-        { text: '💜💜 What is Neuro?', link: '/reference/Neuro/NeuroOverview' }
+        { text: '❔ What is Neuro?', link: '/reference/Neuro/NeuroOverview' },
+        {
+          text: ' 💜 Neuro Sequence',
+          collapsed: true,
+          items: [
+            { text: '❔ What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
+          ]
+        },
       ]
     },
+
     { text: 'Gallery', link: '/reference/Gallery/Gallery' },
     { text: 'Glossary', link: '/reference/Glossary/Glossary' }
 

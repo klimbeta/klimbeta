@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "BetaComp"
-  text: "A New Olympic Game"
+  text: "Climbing's new Olympic Game"
   tagline: Express your Climbing Creativity!  
   actions:
     - theme: brand
