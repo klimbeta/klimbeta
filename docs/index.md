@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "🔷 BetaComp 🔷"
   tagline: Climbing's New Olympic Event!
+  image:
+    src: /OlympicRings.png
+    alt: Olympic Rings
   actions:
     - theme: brand
       text: Get Started

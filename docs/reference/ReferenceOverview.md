@@ -1,11 +1,12 @@
 # Reference Overview
 
-## [🔷🔷 Beta System 🔷🔷](/reference/Beta/BetaOverview)
 
-## [🟠🟠 Move Subsystem 🟠🟠](/reference/Move/MoveOverview)
+## [🔷 Beta System 🔷](/reference/Beta/BetaOverview)
 
-## [🔺🔺 Route Subsystem 🔺🔺](/reference/Route/RouteOverview)
+## [🟠 Move Subsystem 🟠](/reference/Move/MoveOverview)
 
-## [🟩🟩 Wall Subsystem 🟩🟩](/reference/Wall/WallOverview)
+## [🔺 Route Subsystem 🔺](/reference/Route/RouteOverview)
 
-## [💜💜 Neuro Subsystem 💜💜](/reference/Neuro/NeuroOverview)
+## [🟩 Wall Subsystem 🟩](/reference/Wall/WallOverview)
+
+## [💜 Neuro Subsystem 💜](/reference/Neuro/NeuroOverview)

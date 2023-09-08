@@ -7,6 +7,7 @@ export default defineConfig({
   base: '/BetaComp/',
   ignoreDeadLinks: true,
   themeConfig: {
+    logo: '/blue-diamond-48.png',
     socialLinks: [
       { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
       { icon: 'instagram', link: 'https://www.instagram.com/klimbeta/' }
@@ -105,11 +106,14 @@ function sidebarGuide() {
         { text: 'OtherSport', link: '/guide/How/OtherSport' }
       ]
     },
+    { text: 'Go to Reference', link: '/reference/ReferenceOverview' }
+
   ]
 }
 
 function sidebarReference() {
   return [
+    { text: 'Go to Guide', link: '/guide/What/WhatBetaComp' },
     {
       text: '🔷 Beta System',
       collapsed: true,
