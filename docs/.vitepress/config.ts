@@ -102,6 +102,7 @@ function sidebarGuide() {
       text: 'How ❔',
       collapsed: true,
       items: [
+        { text: 'How to Score BetaComp?', link: '/guide/How/Scoring' },        
         { text: 'How is BetaComp being created?', link: '/guide/How/HowBetaComp' },
         { text: 'OtherSport', link: '/guide/How/OtherSport' }
       ]
@@ -333,7 +334,7 @@ function sidebarReference() {
         },
       ]
     },
-
+    
     { text: 'Gallery', link: '/reference/Gallery/Gallery' },
     { text: 'Glossary', link: '/reference/Glossary/Glossary' }
 
