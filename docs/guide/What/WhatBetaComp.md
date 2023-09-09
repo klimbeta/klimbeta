@@ -1,5 +1,21 @@
 # What is BetaComp?
 
+A climbing competition which tests a climber's beta.
+
+Wall Climbing
+
+Route Climbing
+
+Move Climbing
+
+Beta Climbing
+
+Flow Climbing
+
+Freestyle Climbing Competition
+
+Artistic Climbing Competition
+
 ## How is BetaComp compare to the current Sport Climbing Competitions?
 
 
