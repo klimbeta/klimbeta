@@ -104,7 +104,18 @@ function sidebarGuide() {
       items: [
         { text: 'How to Score BetaComp?', link: '/guide/How/Scoring' },        
         { text: 'How is BetaComp being created?', link: '/guide/How/HowBetaComp' },
-        { text: 'OtherSport', link: '/guide/How/OtherSport' }
+        {
+          text: 'Mimic other competitions ❔',
+          collapsed: true,
+          items: [
+            { text: 'OtherSport', link: '/guide/How/OtherSport' },
+            { text: 'Breaking', link: '/guide/How/Breaking' },
+            { text: 'Dance', link: '/guide/How/Dance' },
+            { text: 'Gymnastics', link: '/guide/How/Gymnastics' },
+            { text: 'Skateboarding', link: '/guide/How/Skateboarding' },
+            { text: 'Skiing', link: '/guide/How/Skiing' },
+          ]
+        },
       ]
     },
     { text: 'Go to Reference', link: '/reference/ReferenceOverview' }
@@ -115,6 +126,20 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     { text: 'Go to Guide', link: '/guide/What/WhatBetaComp' },
+    {
+      text: 'Competition Types',
+      collapsed: false,
+      items: [
+        { text: 'Overview', link: '/reference/CompType/Overview' }
+      ]
+    },
+    {
+      text: 'Difficulty',
+      collapsed: false,
+      items: [
+        { text: 'Overview', link: '/reference/Difficulty/Overview' }
+      ]
+    },
     {
       text: '🔷 Beta System',
       collapsed: true,

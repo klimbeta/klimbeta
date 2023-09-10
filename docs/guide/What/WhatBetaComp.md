@@ -1,20 +1,37 @@
 # What is BetaComp?
 
-A climbing competition which tests a climber's beta.
+The technical term for a BetaComp is "Freestyle Climbing Competition" (like Freestyle Skiing) or "Artistic Climbing Competition" (like Artistic Gymnastics).
 
-Wall Climbing
+A climbing competition which tests a climber's Beta.
 
-Route Climbing
+## Other types of Climbing
 
-Move Climbing
+### Wall Climbing
+Use any means necessary to get to the top of a wall.
 
-Beta Climbing
+- Aid Climbing
 
-Flow Climbing
 
-Freestyle Climbing Competition
+### Route Climbing
+Complete a defined Route on a Wall.
 
-Artistic Climbing Competition
+- Speed Climbing
+- Dyno Competition
+
+### Move Climbing
+
+
+
+### Beta Climbing
+
+### Flow Climbing
+
+- Requires a SprayWall with a high density of Holds.
+- Meditative
+- Autobelay or Bouldering
+- Usually lots of Traversing
+
+
 
 ## How is BetaComp compare to the current Sport Climbing Competitions?
 
