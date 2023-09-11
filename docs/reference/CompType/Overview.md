@@ -40,3 +40,6 @@ No oppposing competitor during performance.
 ### Individual Freestyle
 
 ### Team Freestyle
+
+
+

@@ -128,14 +128,14 @@ function sidebarReference() {
     { text: 'Go to Guide', link: '/guide/What/WhatBetaComp' },
     {
       text: 'Competition Types',
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: 'Overview', link: '/reference/CompType/Overview' }
       ]
     },
     {
       text: 'Difficulty',
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: 'Overview', link: '/reference/Difficulty/Overview' }
       ]
