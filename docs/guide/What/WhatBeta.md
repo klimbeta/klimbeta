@@ -51,6 +51,7 @@ BetaComp formally defines Beta as a system composed of four subsystems:
 
 :::
 
+
 ::: tip Neuro
 
 ![InsertImage]() of FreeSolo
@@ -61,3 +62,77 @@ BetaComp formally defines Beta as a system composed of four subsystems:
 
 :::
 
+
+## What is your focus when Climbing?
+
+[InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing
+
+It is important to remember that every type of climbing uses Beta, each of the four types of climbing just emphasize different aspects of Beta.
+
+## Beta Climbing
+
+Climbing which puts equal focus on all aspects of a climber's experience.
+
+## Wall Climbing
+
+![InsertImage]() which contains with all Forms of WallClimbing
+
+::: tip Climbing focused on reaching a location in an [Environment]() by any means necessary.
+
+- Aid Climbing
+- Ice Climbing
+- Mixed Climbing
+    - See The Alpinist Film
+:::
+
+## Route Climbing
+
+![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics
+![InsertImage]() of Route climbing Dyno Psico Buildering
+
+::: tip Climbing focused on completing a [Route]().
+
+- Bouldering
+- Lead Climbing
+- Speed Climbing
+- Dyno Competition
+- Psicobloc Competition
+- Buildering
+:::
+
+## Move Climbing
+
+![InsertImage] of Move Climbing
+
+::: tip Climbing focused on performing a [Move]().
+
+- Deadhang Competition
+- Grip Strength Competition
+    - Squamish Boulder
+:::
+
+## Neuro Climbing 
+
+![InsertImage]() of Free Solo, Free Base, Alain Robert over knives
+
+::: tip Neuro Climbing focuses on [Neuropsychological]() experience of climbing. 
+
+- Free Solo Climbing
+- Free Base Climbing
+:::
+
+## Flow Climbing
+
+![FlowClimbing_02](/FlowClimbing_02.png)
+
+::: tip A subset of Neuro Climbing is Flow Climbing.
+
+- Requires a SprayWall with a high density of Holds.
+- Meditative
+- Since Flow Climbing often involves Down Climbing, it is difficult to belay so an Autobelay must be used or Flow Climbing is performed low to the ground like Bouldering.
+- Flow Climbing usually has lots of Traversing, Down Climbing and Climbing in circles. 
+- Climbers grip what ever hold they happen to be in a position to use. 
+- Flow Climbing is only possible when the gym is not crowded.
+:::
+
+![FlowClimbing_01](/FlowClimbing_01.png)

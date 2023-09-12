@@ -111,7 +111,6 @@ function sidebarGuide() {
           items: [
             { text: 'OtherSport', link: '/guide/How/OtherSport' },
             { text: 'Breaking', link: '/guide/How/Breaking' },
-            { text: 'Dance', link: '/guide/How/Dance' },
             { text: 'Gymnastics', link: '/guide/How/Gymnastics' },
             { text: 'Skateboarding', link: '/guide/How/Skateboarding' },
             { text: 'Skiing', link: '/guide/How/Skiing' },
@@ -145,7 +144,7 @@ function sidebarReference() {
       text: '🔷 Beta System',
       collapsed: true,
       items: [
-        { text: '❔ What is Beta?', link: '/reference/Beta/WhatBeta' },
+        { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
         {
           text: '🔷🔷🔷 Beta Sequence',
           collapsed: true,
@@ -382,6 +381,7 @@ function sidebarTests() {
 function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/Overview' },
+    { text: 'DevilsAdvocate', link: '/development/DevilsAdvocate' },
     { text: 'Downloads', link: '/development/Download' },
     { text: 'ToDo', link: '/development/ToDo' },
 

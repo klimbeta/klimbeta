@@ -2,57 +2,9 @@
 
 The technical term for a BetaComp is "Freestyle Climbing Competition" (like Freestyle Skiing) or "Artistic Climbing Competition" (like Artistic Gymnastics).
 
-A climbing competition which tests a climber's Beta.
+A climbing competition which tests a climber's [Beta](/guide/What/WhatBeta), not just a climber's ability to complete a Route.
 
-## Other types of Climbing
 
-[InsertImage] of BetaComp in ecosystem map 
-
-### Beta Climbing
-
-Climbing which puts equal focus on all aspects of a climber's experience.
-
-### Wall Climbing
-
-Climbing focused on reaching a location in an [Envrionment]() by any means necessary.
-
-- Aid Climbing
-- Ice Climbing
-- Mixed Climbing
-    - See The Alpinist Film
-
-### Route Climbing
-
-Climbing focused on completing a [Route]().
-
-- Every time a climber climbs on Rock.
-- Bouldering
-- Lead Climbing
-- Speed Climbing
-- Dyno Competition
-- Psicobloc Competition
-- Buildering
-
-### Move Climbing
-
-Climbing focused on performing a [Move]().
-
-- Deadhang Competition
-- Grip Strength Competition
-    - Squamish Boulder
-
-### Beta Climbing
-
-### Flow Climbing 
-
-Climbing focuses on [Neuropsychological]() experience of climbing.
-
-- Free Solo Climbing
-- Free Base Climbing
-- Requires a SprayWall with a high density of Holds.
-- Meditative
-- Autobelay or Bouldering
-- Usually lots of Traversing
 
 
 

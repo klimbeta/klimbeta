@@ -1,5 +1,13 @@
 # Reference Overview
 
+::: tip 
+
+Use the Reference section to learn all the Beta Elements
+
+:::
+
+
+
 
 ## [🔷 Beta System 🔷](/reference/Beta/BetaOverview)
 

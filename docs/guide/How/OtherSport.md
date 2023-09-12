@@ -16,61 +16,92 @@ There is no opposition to the competitors of these sports. Each athelete or team
 ::: info Click on each Sport to view their official Olympic profile. 
 :::
 
+
+::: tip
 ![InsertImage]() of OtherSport
-- [Acrobatic Gymnastics](https://olympics.com/en/sports/acrobatic-gymnastics/)
-
-![InsertImage]() of OtherSport
-- [Artistic Gymnastics](https://olympics.com/en/sports/artistic-gymnastics/)
-
-![InsertImage]() of OtherSport
-- [Artistic Swimming](https://olympics.com/en/sports/artistic-swimming/)
-
-![InsertImage]() of OtherSport
-- [Breakdancing](https://olympics.com/en/sports/breaking/)
-
-![InsertImage]() of OtherSport
-- [BMX Freestyle](https://olympics.com/en/sports/cycling-bmx-freestyle/)
-
-![InsertImage]() of OtherSport
-- [Diving](https://olympics.com/en/sports/diving/)
-
-![InsertImage]() of OtherSport
-- [Equestrian Dressage](https://olympics.com/en/sports/equestrian/)
-
-![InsertImage]() of OtherSport
-- [Figure Skating](https://olympics.com/en/sports/figure-skating/)
-
-![InsertImage]() of OtherSport
-- [Freestyle Skiing](https://olympics.com/en/sports/freestyle-skiing/)
-
-![InsertImage]() of OtherSport
-- [Kitesurfing]()
-
-![InsertImage]() of OtherSport
-- [Rhythmic Gymnastics](https://olympics.com/en/sports/rhythmic-gymnastics/)
-
-![InsertImage]() of OtherSport
-- [Scooter](https://www.unitedscoot.com/)
-
-![InsertImage]() of OtherSport
-- [Skateboarding](https://olympics.com/en/sports/skateboarding/)
-
-![InsertImage]() of OtherSport
-- [Snowboarding](https://olympics.com/en/sports/snowboard/)
-
-![InsertImage]() of OtherSport
-- [Surfing](https://olympics.com/en/sports/surfing/)
-
-![InsertImage]() of OtherSport
-- [Windsurfing](https://www.pwaworldtour.com/index.php?id=920)
-
-::: details Full List of Olympic Sports
-
-- https://olympics.com/en/sports/
-
+## [Acrobatic Gymnastics](https://olympics.com/en/sports/acrobatic-gymnastics/)
 :::
 
+::: tip
+![InsertImage]() of OtherSport
+## [Artistic Gymnastics](https://olympics.com/en/sports/artistic-gymnastics/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Artistic Swimming](https://olympics.com/en/sports/artistic-swimming/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Breakdancing](https://olympics.com/en/sports/breaking/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [BMX Freestyle](https://olympics.com/en/sports/cycling-bmx-freestyle/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Diving](https://olympics.com/en/sports/diving/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Equestrian Dressage](https://olympics.com/en/sports/equestrian/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Figure Skating](https://olympics.com/en/sports/figure-skating/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Freestyle Skiing](https://olympics.com/en/sports/freestyle-skiing/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Kitesurfing]()
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Rhythmic Gymnastics](https://olympics.com/en/sports/rhythmic-gymnastics/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Scooter](https://www.unitedscoot.com/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Skateboarding](https://olympics.com/en/sports/skateboarding/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Snowboarding](https://olympics.com/en/sports/snowboard/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Surfing](https://olympics.com/en/sports/surfing/)
+:::
+
+::: tip
+![InsertImage]() of OtherSport
+## [Windsurfing](https://www.pwaworldtour.com/index.php?id=920)
+:::
+
+
 ## Reference Class Forecasting
+
+
+
 
 - Kahneman
 
