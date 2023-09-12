@@ -9,27 +9,59 @@ The competitors are scored on the difficulty and excecution of their performance
 
 There is no opposition to the competitors of these sports. Each athelete or team performs their routines alone without any opposition, unlike combat sports or ball sports.
 
-**A perfectly executed easy performance can lose to a very strenous performance with some errors.**
+::: tip A perfectly executed easy performance can lose to a very strenous performance with some errors.
+:::
 
 
 ::: info Click on each Sport to view their official Olympic profile. 
 :::
 
+![InsertImage]() of OtherSport
 - [Acrobatic Gymnastics](https://olympics.com/en/sports/acrobatic-gymnastics/)
+
+![InsertImage]() of OtherSport
 - [Artistic Gymnastics](https://olympics.com/en/sports/artistic-gymnastics/)
+
+![InsertImage]() of OtherSport
 - [Artistic Swimming](https://olympics.com/en/sports/artistic-swimming/)
+
+![InsertImage]() of OtherSport
 - [Breakdancing](https://olympics.com/en/sports/breaking/)
+
+![InsertImage]() of OtherSport
 - [BMX Freestyle](https://olympics.com/en/sports/cycling-bmx-freestyle/)
+
+![InsertImage]() of OtherSport
 - [Diving](https://olympics.com/en/sports/diving/)
+
+![InsertImage]() of OtherSport
 - [Equestrian Dressage](https://olympics.com/en/sports/equestrian/)
+
+![InsertImage]() of OtherSport
 - [Figure Skating](https://olympics.com/en/sports/figure-skating/)
+
+![InsertImage]() of OtherSport
 - [Freestyle Skiing](https://olympics.com/en/sports/freestyle-skiing/)
+
+![InsertImage]() of OtherSport
 - [Kitesurfing]()
+
+![InsertImage]() of OtherSport
 - [Rhythmic Gymnastics](https://olympics.com/en/sports/rhythmic-gymnastics/)
+
+![InsertImage]() of OtherSport
 - [Scooter](https://www.unitedscoot.com/)
+
+![InsertImage]() of OtherSport
 - [Skateboarding](https://olympics.com/en/sports/skateboarding/)
+
+![InsertImage]() of OtherSport
 - [Snowboarding](https://olympics.com/en/sports/snowboard/)
+
+![InsertImage]() of OtherSport
 - [Surfing](https://olympics.com/en/sports/surfing/)
+
+![InsertImage]() of OtherSport
 - [Windsurfing](https://www.pwaworldtour.com/index.php?id=920)
 
 ::: details Full List of Olympic Sports

@@ -1,5 +1,11 @@
 # Why?
 
+## Movement Literacy
+
+Udini
+
+Beta is a Language expressed with the Body, Graphically, and Verbally 
+
 ## Climber Bias
 
 Climber Height

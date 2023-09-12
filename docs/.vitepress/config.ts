@@ -69,8 +69,9 @@ function sidebarGuide() {
       text: 'What ❔',
       collapsed: true,
       items: [
-        { text: 'What isBetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' }
+        { text: 'What is Beta?', link: '/guide/What/WhatBeta' },
+        { text: 'What is BetaComp?', link: '/guide/What/WhatBetaComp' },
+
       ]
     },
     {
@@ -103,9 +104,9 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: 'How to Score BetaComp?', link: '/guide/How/Scoring' },        
-        { text: 'How is BetaComp being created?', link: '/guide/How/HowBetaComp' },
+        { text: 'How to Set Up a BetaComp ', link: '/guide/How/BetaCompSetUp' },
         {
-          text: 'Mimic other competitions ❔',
+          text: 'How is BetaComp being created?',
           collapsed: true,
           items: [
             { text: 'OtherSport', link: '/guide/How/OtherSport' },
@@ -380,13 +381,10 @@ function sidebarTests() {
 
 function sidebarDevelopment() {
   return [
-    {
-      text: 'Introduction',
-      collapsed: false,
-      items: [
-        { text: 'What BetaComp', link: '/guide/What/WhatBetaComp' }
-      ]
-    }
+    { text: 'Overview', link: '/development/Overview' },
+    { text: 'Downloads', link: '/development/Download' },
+    { text: 'ToDo', link: '/development/ToDo' },
+
   ]
 }
 

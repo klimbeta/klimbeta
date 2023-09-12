@@ -14,7 +14,7 @@ Do Not SprayBeta.
 
 - Beta is "sprayed" when Beta is given without being asked for it.
 
-- Closely related to "mansplaining"
+- Can be a form of "mansplaining"
 
 ## Why not SprayBeta?
 
@@ -26,5 +26,19 @@ Sometimes the sprayed Beta isn't even useful.
 
 Beta can be sprayed from one climber to another in a normal speaking volume or Beta can be sprayed over a larger range when it is yelled at a climber who is on the wall. 
 
+
+## Can you SprayBeta by Miming?
+
+## BetaSpray on Social Media
+
+::: danger
+
+Even when you're not climbing, you can still get sprayed with Beta!
+
+:::
+
+Spoiler Alert at the beginning of a video or as the cover of an image collection.
+
+Climbers SprayBeta graphically on Instagram 
 
 
