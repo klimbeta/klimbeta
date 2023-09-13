@@ -132,8 +132,9 @@ function sidebarReference() {
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
         { text: '🔷 BetaBattle', link: '/reference/CompType/Battle' },
-        { text: '🔷 Route Comp', link: '/reference/CompType/RouteComp' },
-        { text: '🔷 Move Comp', link: '/reference/CompType/MoveComp' },
+        { text: '🔷 Route+ Comp', link: '/reference/CompType/RouteComp' },
+        { text: '🔷 Move+ Comp', link: '/reference/CompType/MoveComp' },
+        { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
 
       ]
     },
