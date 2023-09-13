@@ -12,7 +12,7 @@ What are move errors and how to avoid them.
 
 ## Intermediate Climber
 
-[InsertDiagram]() Value Exchange between BetaComp and Gym
+![InsertDiagram]() Value Exchange between BetaComp and Gym
 
 - Understand the Physics of climbing
 - Understand why you fell

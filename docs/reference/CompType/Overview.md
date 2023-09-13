@@ -6,7 +6,7 @@ There are many types of BetaComps.
 
 A each climber adds their own element to a Beta Sequence.
 
-[InsertInfographic] of 
+![InsertInfographic] of 
 
 ### AddOn Route
 

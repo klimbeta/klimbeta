@@ -2,9 +2,10 @@
 
 ## Definition
 
-- Probability
+- Probability of Negative Environment
     - Improbable, Remote, Occasional, Probable, Frequent
-- Consequence
+- Consequence of Negative Environment 
+    - Negligible, Marginal, Moderate, Critical, Catastrophic
 
 
 

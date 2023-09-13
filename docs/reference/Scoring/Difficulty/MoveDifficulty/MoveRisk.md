@@ -5,7 +5,8 @@
 - Probability
     - Move Risk is about a move's probability of success, not risk of injury. **There should be no risk of injury while climbing**
     - Improbable, Remote, Occasional, Probable, Frequent
-
+- Consequence of MoveError
+    - Negligible, Marginal, Moderate, Critical, Catastrophic
 Risky Moves have a small margin for error. 
 
 
@@ -29,4 +30,6 @@ To minimize the Risk of Injury climbers **MUST** avoid these moves:
 - FootSwap on featureless SlabWall.
 - Catching a HiddenHold
 - Dynamic SlotMove
+- No Recovery
+- Irreversible
 

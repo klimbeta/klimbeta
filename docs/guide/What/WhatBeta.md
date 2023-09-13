@@ -23,7 +23,7 @@ Office québécois de la langue française
 
 BetaComp formally defines Beta as a system composed of four subsystems: 
 
-[InsertSetCircleDiagram] of Beta 
+![InsertSetCircleDiagram] of Beta 
 
 ::: tip Environment
 
@@ -69,7 +69,7 @@ BetaComp formally defines Beta as a system composed of four subsystems:
 
 ## What is your focus when Climbing?
 
-[InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing
+![InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing
 
 It is important to remember that every type of climbing uses Beta, each of the four types of climbing just emphasize different aspects of Beta.
 

@@ -1,4 +1,4 @@
-[InsertImage] Olympic Rings Banner
+![InsertImage] Olympic Rings Banner
 
 # What is BetaComp?
 
