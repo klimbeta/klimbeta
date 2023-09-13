@@ -127,17 +127,83 @@ function sidebarReference() {
   return [
     { text: 'Go to Guide', link: '/guide/What/WhatBetaComp' },
     {
-      text: 'Competition Types',
+      text: '🔷 Competition Types',
       collapsed: true,
       items: [
-        { text: 'Overview', link: '/reference/CompType/Overview' }
+        { text: '🔷 Overview', link: '/reference/CompType/Overview' },
+        { text: '🔷 BetaBattle', link: '/reference/CompType/Battle' },
+        { text: '🔷 Route Comp', link: '/reference/CompType/RouteComp' },
+        { text: '🔷 Move Comp', link: '/reference/CompType/MoveComp' },
+
       ]
     },
     {
-      text: 'Difficulty',
+      text: '🔷 Difficulty Score',
       collapsed: true,
       items: [
-        { text: 'Overview', link: '/reference/Difficulty/Overview' }
+        { text: 'Overview', link: '/reference/Difficulty/Overview' },
+        {
+          text: '🔷 Beta Difficulty',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/reference/Difficulty/BetaDifficulty/Overview' },
+            { text: '🔷 Beta Risk', link: '/reference/Difficulty/BetaDifficulty/BetaRisk' },
+            { text: '🔷 Beta Intensity', link: '/reference/Difficulty/BetaDifficulty/BetaIntensity' },
+            { text: '🔷 Beta Complexity', link: '/reference/Difficulty/BetaDifficulty/BetaComplexity' },
+            
+          ]
+        },
+        {
+          text: '🟠 Move Difficulty',
+          collapsed: true,
+          items: [
+            { text: '🟠 Overview', link: '/reference/Difficulty/MoveDifficulty/Overview' },
+            { text: '🟠 Move Risk', link: '/reference/Difficulty/MoveDifficulty/MoveRisk' },
+            { text: '🟠 Move Intensity', link: '/reference/Difficulty/MoveDifficulty/MoveIntensity' },
+            { text: '🟠 Move Complexity', link: '/reference/Difficulty/MoveDifficulty/MoveComplexity' },            
+          ]
+        },
+        {
+          text: '🔺 Route Difficulty',
+          collapsed: true,
+          items: [
+            { text: '🔺 Overview', link: '/reference/Difficulty/RouteDifficulty/Overview' },
+            { text: '🔺 Route Risk', link: '/reference/Difficulty/RouteDifficulty/RouteRisk' },
+            { text: '🔺 Route Intensity', link: '/reference/Difficulty/RouteDifficulty/RouteIntensity' },
+            { text: '🔺 Route Complexity', link: '/reference/Difficulty/RouteDifficulty/RouteComplexity' },
+          ]
+        },
+        {
+          text: '🟩 Wall Difficulty',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Difficulty/WallDifficulty/Overview' },
+            { text: '🟩 Wall Risk', link: '/reference/Difficulty/WallDifficulty/WallRisk' },
+            { text: '🟩 Wall Intensity', link: '/reference/Difficulty/WallDifficulty/WallIntensity' },
+            { text: '🟩 Wall Complexity', link: '/reference/Difficulty/WallDifficulty/WallComplexity' },
+          ]
+        },
+        {
+          text: '💜 Neuro Difficulty',
+          collapsed: true,
+          items: [
+            { text: '💜 Overview', link: '/reference/Difficulty/NeuroDifficulty/Overview' },
+            { text: '💜 Neuro Risk', link: '/reference/Difficulty/NeuroDifficulty/NeuroRisk' },
+            { text: '💜 Neuro Intensity', link: '/reference/Difficulty/NeuroDifficulty/NeuroIntensity' },
+            { text: '💜 Neuro Complexity', link: '/reference/Difficulty/NeuroDifficulty/NeuroComplexity' },
+          ]
+        },
+      ]
+    },
+    {
+      text: '🔷 Execution Score',
+      collapsed: true,
+      items: [
+        { text: '🔷 Overview', link: '/reference/Execution/Overview' },
+        { text: '🟠 Move Execution', link: '/reference/Execution/MoveExecution' },
+        { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },
+        { text: '💜 Neuro Execution', link: '/reference/Execution/NeuroExecution' },
+        
       ]
     },
     {
