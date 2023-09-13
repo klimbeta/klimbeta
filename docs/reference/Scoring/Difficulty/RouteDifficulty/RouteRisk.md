@@ -3,6 +3,8 @@
 ## Definition
 
 - Probability of completing a Route or Route section.
+    - Improbable, Remote, Occasional, Probable, Frequent
+- Consequences of 
 
 ## Examples of Route Risk
 

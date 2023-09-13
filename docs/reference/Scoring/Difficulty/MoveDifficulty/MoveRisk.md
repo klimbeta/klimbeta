@@ -1,7 +1,10 @@
 # Move Risk
 
 ## Definition
-Move Risk is about a move's probability of success, not risk of injury. **There should be no risk of injury while climbing**
+
+- Probability
+    - Move Risk is about a move's probability of success, not risk of injury. **There should be no risk of injury while climbing**
+    - Improbable, Remote, Occasional, Probable, Frequent
 
 Risky Moves have a small margin for error. 
 
