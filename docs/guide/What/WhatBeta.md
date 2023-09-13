@@ -1,6 +1,10 @@
-# What is Beta?
+# What is 'Beta' used in Climbing?
 
-Any climber who has spent some time climbing has heard the term 'Beta'. 
+Any climber who has spent some time climbing has heard the term 'Beta'. Beta is essentially any information that a climber uses to ascend a route. 
+
+- Information about what moves to perform.
+- Information about where to go.
+- Information about what to pay attention to.  
 
 ::: details Click here to view links to 'Beta' defined on other websites
 
@@ -136,3 +140,5 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 :::
 
 ![FlowClimbing_01](/FlowClimbing_01.png)
+
+- https://www.youtube.com/watch?v=2WHTBh-MJbE

@@ -11,6 +11,9 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: tip Response
 
+- Most of the Move Errors are due to Physics.
+-   
+
 :::
 
 ## No body will want to play BetaComp.
@@ -37,6 +40,9 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: tip Response
 
+- Only the judges need to know every nuance of BetaComp.
+- Competitors should learn everything there is to know about BetaComp, then remember only what's necessary. 
+
 :::
 
 
@@ -56,7 +62,7 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: danger Argument
 
-Climbing is totally different from Gymnastics, Freestyle Skiing, and Breakdancing.
+Climbing is totally different from Gymnastics, Freestyle Skiing, and Breakdancing, so they can't be used to create a BetaComp in climbing.
 
 
 :::

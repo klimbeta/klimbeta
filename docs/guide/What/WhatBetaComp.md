@@ -1,15 +1,16 @@
+[InsertImage] Olympic Rings Banner
+
 # What is BetaComp?
 
-The technical term for a BetaComp is "Freestyle Climbing Competition" (like Freestyle Skiing) or "Artistic Climbing Competition" (like Artistic Gymnastics).
+Following the names of other Olympic Sports BetaComp would be called "Freestyle Climbing Competition" (like Freestyle Skiing) or "Artistic Climbing Competition" (like Artistic Gymnastics).
 
 A climbing competition which tests a climber's [Beta](/guide/What/WhatBeta), not just a climber's ability to complete a Route.
 
+## How does BetaComp compare to the other Olympic Climbing Events?
 
-
-
-
-## How is BetaComp compare to the current Sport Climbing Competitions?
-
+::: tip HOW not IF
+The main difference between BetaComp and all other Olympic Climbing Events is that **climbers are scored on HOW they climb a route  just IF they can climb the route.**
+:::
 
 ### BetaComp Compared to Speed Climbing Competition
 
@@ -17,11 +18,10 @@ Similarities to BetaComp
 - All competitors use the same [Wall]()
 
 Differences from BetaComp
-- Low [RouteComplexity]()
-- Low [MoveComplexity]()
+- Speed Climbing has a Low [RouteComplexity]()
 - Speed Climbing is mostly a test of [MoveIntensity]().
-- [RouteDifficulty]() is the same for each Competitor.
-- How fast can you climb the given [Wall]()?
+- In Speed Climbing the [RouteDifficulty]() is the same for each Competitor.
+
 
 
 ### BetaComp Compared to Bouldering Competition?
