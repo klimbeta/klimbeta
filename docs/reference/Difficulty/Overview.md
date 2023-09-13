@@ -1,1 +1,0 @@
-# Difficulty Score Overview

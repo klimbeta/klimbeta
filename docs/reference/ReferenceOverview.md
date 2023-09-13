@@ -6,8 +6,9 @@ Use the Reference section to learn all the Beta Elements
 
 :::
 
+## [🔷 Competition Types 🔷](/reference/CompType/Overview)
 
-
+## [🔷 Scoring System 🔷](/reference/Scoring/Overview)
 
 ## [🔷 Beta System 🔷](/reference/Beta/BetaOverview)
 

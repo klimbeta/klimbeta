@@ -139,18 +139,18 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🔷 Difficulty Score',
+      text: '🔷 Scoring',
       collapsed: true,
       items: [
-        { text: 'Overview', link: '/reference/Difficulty/Overview' },
+        { text: 'Overview', link: '/reference/Scoring/Difficulty/Overview' },
         {
           text: '🔷 Beta Difficulty',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Difficulty/BetaDifficulty/Overview' },
-            { text: '🔷 Beta Risk', link: '/reference/Difficulty/BetaDifficulty/BetaRisk' },
-            { text: '🔷 Beta Intensity', link: '/reference/Difficulty/BetaDifficulty/BetaIntensity' },
-            { text: '🔷 Beta Complexity', link: '/reference/Difficulty/BetaDifficulty/BetaComplexity' },
+            { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/BetaDifficulty/Overview' },
+            { text: '🔷 Beta Risk', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaRisk' },
+            { text: '🔷 Beta Intensity', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaIntensity' },
+            { text: '🔷 Beta Complexity', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaComplexity' },
             
           ]
         },
@@ -158,55 +158,56 @@ function sidebarReference() {
           text: '🟠 Move Difficulty',
           collapsed: true,
           items: [
-            { text: '🟠 Overview', link: '/reference/Difficulty/MoveDifficulty/Overview' },
-            { text: '🟠 Move Risk', link: '/reference/Difficulty/MoveDifficulty/MoveRisk' },
-            { text: '🟠 Move Intensity', link: '/reference/Difficulty/MoveDifficulty/MoveIntensity' },
-            { text: '🟠 Move Complexity', link: '/reference/Difficulty/MoveDifficulty/MoveComplexity' },            
+            { text: '🟠 Overview', link: '/reference/Scoring/Difficulty/MoveDifficulty/Overview' },
+            { text: '🟠 Move Risk', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveRisk' },
+            { text: '🟠 Move Intensity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveIntensity' },
+            { text: '🟠 Move Complexity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveComplexity' },            
           ]
         },
         {
           text: '🔺 Route Difficulty',
           collapsed: true,
           items: [
-            { text: '🔺 Overview', link: '/reference/Difficulty/RouteDifficulty/Overview' },
-            { text: '🔺 Route Risk', link: '/reference/Difficulty/RouteDifficulty/RouteRisk' },
-            { text: '🔺 Route Intensity', link: '/reference/Difficulty/RouteDifficulty/RouteIntensity' },
-            { text: '🔺 Route Complexity', link: '/reference/Difficulty/RouteDifficulty/RouteComplexity' },
+            { text: '🔺 Overview', link: '/reference/Scoring/Difficulty/RouteDifficulty/Overview' },
+            { text: '🔺 Route Risk', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteRisk' },
+            { text: '🔺 Route Intensity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteIntensity' },
+            { text: '🔺 Route Complexity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteComplexity' },
           ]
         },
         {
-          text: '🟩 Wall Difficulty',
+          text: '🟩 Envrionment Difficulty',
           collapsed: true,
           items: [
-            { text: '🟩 Overview', link: '/reference/Difficulty/WallDifficulty/Overview' },
-            { text: '🟩 Wall Risk', link: '/reference/Difficulty/WallDifficulty/WallRisk' },
-            { text: '🟩 Wall Intensity', link: '/reference/Difficulty/WallDifficulty/WallIntensity' },
-            { text: '🟩 Wall Complexity', link: '/reference/Difficulty/WallDifficulty/WallComplexity' },
+            { text: '🟩 Overview', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/Overview' },
+            { text: '🟩 Environment Risk', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
+            { text: '🟩 Environment Intensity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
+            { text: '🟩 Environment Complexity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
           ]
         },
         {
           text: '💜 Neuro Difficulty',
           collapsed: true,
           items: [
-            { text: '💜 Overview', link: '/reference/Difficulty/NeuroDifficulty/Overview' },
-            { text: '💜 Neuro Risk', link: '/reference/Difficulty/NeuroDifficulty/NeuroRisk' },
-            { text: '💜 Neuro Intensity', link: '/reference/Difficulty/NeuroDifficulty/NeuroIntensity' },
-            { text: '💜 Neuro Complexity', link: '/reference/Difficulty/NeuroDifficulty/NeuroComplexity' },
+            { text: '💜 Overview', link: '/reference/Scoring/Difficulty/NeuroDifficulty/Overview' },
+            { text: '💜 Neuro Risk', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroRisk' },
+            { text: '💜 Neuro Intensity', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroIntensity' },
+            { text: '💜 Neuro Complexity', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroComplexity' },
+          ]
+        },
+        {
+          text: '🔷 Execution Score',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/reference/Execution/Overview' },
+            { text: '🟠 Move Execution', link: '/reference/Execution/MoveExecution' },
+            { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },
+            { text: '💜 Neuro Execution', link: '/reference/Execution/NeuroExecution' },
+            
           ]
         },
       ]
     },
-    {
-      text: '🔷 Execution Score',
-      collapsed: true,
-      items: [
-        { text: '🔷 Overview', link: '/reference/Execution/Overview' },
-        { text: '🟠 Move Execution', link: '/reference/Execution/MoveExecution' },
-        { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },
-        { text: '💜 Neuro Execution', link: '/reference/Execution/NeuroExecution' },
-        
-      ]
-    },
+    
     {
       text: '🔷 Beta System',
       collapsed: true,
@@ -399,15 +400,15 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟩 Wall Subsystem',
+      text: '🟩 Environment Subsystem',
       collapsed: true,
       items: [
-        { text: '❔ What is Wall?', link: '/reference/Wall/WallOverview' },
+        { text: '❔ What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
         {
-          text: '🟩🟩🟩 Wall Sequence',
+          text: '🟩🟩🟩 Environment Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Wall Sequence?', link: '/reference/Wall/WallSequence/Overview' }
+            { text: '❔ What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' }
           ]
         },
       ]
