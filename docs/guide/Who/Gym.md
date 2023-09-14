@@ -2,6 +2,8 @@
 
 ![InsertDiagram]() Value Exchange between BetaComp and Gym
 
+## Play the Long Game
+
 ## How does BetaComp increase Revenue for Gyms?
 
 Increase Income
@@ -9,6 +11,18 @@ Increase Income
 - Fun to watch even if you have no experience climbing.
 
 Decrease Costs
+
+
+
+Educational Game for Routesetters, Coaches
+
+
+New Type of Test
+
+Demonstrate 
+
+
+They're all connected so why are they taught separately? How separated are they?
 
 
 
