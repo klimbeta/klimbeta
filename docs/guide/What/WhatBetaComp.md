@@ -1,4 +1,4 @@
-![InsertImage] Olympic Rings Banner
+![OlympicRings](/OlympicRings.png)
 
 # What is BetaComp?
 

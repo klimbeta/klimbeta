@@ -1,4 +1,4 @@
-# What is 'Beta' used in Climbing?
+# What does 'Beta' mean in Climbing?
 
 Any climber who has spent some time climbing has heard the term 'Beta'. Beta is essentially any information that a climber uses to ascend a route. 
 
@@ -23,7 +23,7 @@ Office québécois de la langue française
 
 BetaComp formally defines Beta as a system composed of four subsystems: 
 
-![InsertSetCircleDiagram] of Beta 
+![BetaVennDiagram](/BetaVenn.png) 
 
 ::: tip Environment
 
