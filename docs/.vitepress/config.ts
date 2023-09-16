@@ -57,6 +57,11 @@ function nav() {
       activeMatch: '/development/'
     },
     {
+      text: 'About',
+      link: '/about/About',
+      activeMatch: '/about/'
+    },
+    {
       text: 'Sponsors',
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
@@ -251,7 +256,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟠 Move Subsystem',
+      text: '🟠 Move',
       collapsed: true,
       items: [
         { text: '❔ What is Move?', link: '/reference/Move/MoveOverview' },
@@ -396,7 +401,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🔺 Route Subsystem',
+      text: '🔺 Route',
       collapsed: true,
       items: [
         { text: '❔ What is Route?', link: '/reference/Route/RouteOverview' },
@@ -410,7 +415,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟩 Environment Subsystem',
+      text: '🟩 Environment',
       collapsed: true,
       items: [
         { text: '❔ What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
@@ -424,7 +429,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: ' 💜 Neuro Subsystem',
+      text: ' 💜 Neuro',
       collapsed: true,
       items: [
         { text: '❔ What is Neuro?', link: '/reference/Neuro/NeuroOverview' },

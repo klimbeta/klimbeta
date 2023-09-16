@@ -2,26 +2,61 @@
 
 ![ValuePyramid](/ValuePyramid.png)
 
-## Self-Transcendence
+<!-- ---------------------------------------------------------------------------- -->
+## Attractiveness
 
-## Provides Hope
+<!-- ---------------------------------------------------------------------------- -->
+## Affiliation Belonging
 
-## Self-Actualization
 
-## Motivation
+<!-- ---------------------------------------------------------------------------- -->
+## Avoid Hassles
 
+
+<!-- ---------------------------------------------------------------------------- -->
+## BadgeValue
+
+If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb
+
+<!-- ---------------------------------------------------------------------------- -->
+## Connects
+
+
+<!-- ---------------------------------------------------------------------------- -->
+## Design and Aesthetics
+
+<!-- ---------------------------------------------------------------------------- -->
+## Fun and Entertainment
+
+
+<!-- ---------------------------------------------------------------------------- -->
 ## Heirloom
 
 BetaMap
 
 BeckyMap
 
-## Affiliation Belonging
+<!-- ---------------------------------------------------------------------------- -->
+## Informs
 
-## Reduces Anxiety
+For your **information**
 
-## Rewards Me
+FYI: There is a thing called Beta
 
+<!-- ---------------------------------------------------------------------------- -->
+## Integrates
+<!-- ---------------------------------------------------------------------------- -->
+## Makes Money
+
+Spectators
+
+People watch the Olympic Events that BetaComp [mimics](/guide/How/OtherSport).
+<!-- ---------------------------------------------------------------------------- -->
+## Motivation
+
+
+
+<!-- ---------------------------------------------------------------------------- -->
 ## Nostalgia
 
 Johnny Dawes was always talking about Sticky Rubber.
@@ -35,60 +70,138 @@ Gaston or Dulfer
 ::: tip Action Directe
 > Jump to a Pocket
 :::
-
-## Design and Aesthetics
-
-## BadgeValue
-
-If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb
-
-## Wellness
-
-Motivation to have more Mobility affects your whole life. Mobility Training
-
-## Therapeutic Value
-
-## Fun and Entertainment
-
-## Attractiveness
-
-## Provides Access
-
-## Saves Time
-
-## Simplifies
-
-## Makes Money
-
-## Reduces Risk
-
+<!-- ---------------------------------------------------------------------------- -->
 ## Organizes
 
-## Integrates
+Formalizes
 
-## Connects
+Systematizes
 
-## Reduces Effort
+DifficultyScore
 
-## Avoid Hassles
+ExecutionScore
 
-## Reduces Cost
+Movement Hierarchy
+
+BetaComp systematizes Climbing. 
+
+Beta System
+
+<!-- ---------------------------------------------------------------------------- -->
+## Provides Access
+
+
+### Level of Fitness
+
+A normal fitness person can climb with more elegance than the most physically fit climber. 
+
+Paxi Usobiaga Quote about not having technique so he just relies on strength
+
+### Movement Literacy
+
+Literacy provides access to knowledge.
+
+Udini
+
+- Beta is a Language expressed with the Body, Graphically, and Verbally
+
+- The reference section of BetaComp is a library of Movements. 
+
+
+### Climber Bias
+
+Advantages depending on Climber Height
+
+"morpho move"
+Short Person Beta
+Tall Person Beta
+
+<!-- ---------------------------------------------------------------------------- -->
+## Provides Hope
+
+Same Project
+Shared Project
+<!-- ---------------------------------------------------------------------------- -->
 
 ## Quality
 
 A climbers ability is easier to **qualify** than to quantify. 
+<!-- ---------------------------------------------------------------------------- -->
+## Reduces Anxiety
 
-## Variety
+<!-- ---------------------------------------------------------------------------- -->
+## Reduces Effort
 
-Creativity Competitions increase the **variety** of movements by finding producing novel moves, routes, walls, and ways of thinking.
+<!-- ---------------------------------------------------------------------------- -->
+## Reduces Risk
 
+<!-- ---------------------------------------------------------------------------- -->
+## Reduces Cost
+
+<!-- ---------------------------------------------------------------------------- -->
+## Rewards Me
+
+<!-- ---------------------------------------------------------------------------- -->
+## Saves Time
+
+<!-- ---------------------------------------------------------------------------- -->
+## Self-Actualization
+
+
+<!-- ---------------------------------------------------------------------------- -->
+## Self-Transcendence
+
+<!-- ---------------------------------------------------------------------------- -->
 ## Sensory Appeal
 
 "That move **looked** really cool"
 
-## Informs
+<!-- ---------------------------------------------------------------------------- -->
+## Simplifies
 
-For your **information**
 
-FYI: There is a thing called Beta
+<!-- ---------------------------------------------------------------------------- -->
+## Therapeutic Value
 
+
+
+
+<!-- ---------------------------------------------------------------------------- -->
+## Variety
+
+Creativity Competitions increase the **variety** of movements by finding producing novel moves, routes, walls, and ways of thinking.
+
+
+
+
+<!-- ---------------------------------------------------------------------------- -->
+## Wellness
+
+Motivation to have more Mobility affects your whole life. Mobility Training
+### RED-S
+
+What is RED-S?
+
+Lattice
+-https://www.youtube.com/watch?v=XpkWNOSrLyo&ab_channel=LatticeTraining
+
+MoveIntensity encourages eating disorders.
+
+::: warning Moves with High MoveIntensity
+CrimpGrip, One Arm Pull Up
+:::
+
+Udini
+
+- https://www.youtube.com/watch?v=YrNZ11FhaEg
+
+Megos
+
+- https://www.youtube.com/watch?v=w0Ev_b6w3GY&ab_channel=AlexanderMegos
+
+
+
+
+### Injury
+
+Reduce Emphasis on MoveIntensity
