@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Climbing's new Olympic Game",
   base: '/BetaComp/',
   ignoreDeadLinks: true,
+  lastUpdated: true,
   themeConfig: {
     logo: '/blue-diamond-48.png',
     socialLinks: [
@@ -70,7 +71,8 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: 'What is Beta?', link: '/guide/What/WhatBeta' },
-        { text: 'What is BetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: 'What is Vitepress?', link: '/guide/What/WhatVitepress' },
 
       ]
     },
@@ -79,6 +81,8 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: 'Why have a BetaComp?', link: '/guide/Why/WhyBetaComp' },
+        { text: 'How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
+        
       ]
     },
     {
@@ -147,6 +151,7 @@ function sidebarReference() {
           text: '🔷 Difficulty Score',
           collapsed: true,
           items: [
+            { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/Overview' },            
             {
               text: '🔷 Beta Difficulty',
               collapsed: true,
@@ -179,7 +184,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟩 Envrionment Difficulty',
+              text: '🟩 Environment Difficulty',
               collapsed: true,
               items: [
                 { text: '🟩 Overview', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/Overview' },

@@ -4,7 +4,9 @@
 
 Udini
 
-Beta is a Language expressed with the Body, Graphically, and Verbally 
+- Beta is a Language expressed with the Body, Graphically, and Verbally
+
+- The reference section of BetaComp is a library of Movements. 
 
 ## Climber Bias
 
@@ -12,19 +14,26 @@ Climber Height
 
 Tall Person Beta!!!
 
-## Eating Disorders
+## RED-S
+
+What is RED-S?
+
+Lattice
+-https://www.youtube.com/watch?v=XpkWNOSrLyo&ab_channel=LatticeTraining
 
 MoveIntensity encourages eating disorders.
 
-CrimpGrip
-
-- Anorexia
+::: warning Moves with High MoveIntensity
+CrimpGrip, One Arm Pull Up
+:::
 
 Udini
 
 - https://www.youtube.com/watch?v=YrNZ11FhaEg
 
 Megos
+
+- https://www.youtube.com/watch?v=w0Ev_b6w3GY&ab_channel=AlexanderMegos
 
 
 
