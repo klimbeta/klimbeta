@@ -49,7 +49,7 @@ Integrates the RICscale from Routesetting into mainstream climbing through the u
 Integrates the techniques used while training on a SprayWall into the current way that climbers compete.
 
 
-![SprayWall](SprayWall_00.png)
+![SprayWall](/SprayWall_00.png)
 
 
 
