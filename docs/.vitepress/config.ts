@@ -7,7 +7,9 @@ export default defineConfig({
   base: '/BetaComp/',
   ignoreDeadLinks: true,
   lastUpdated: true,
+  
   themeConfig: {
+    outline:[2,3],
     logo: '/blue-diamond-48.png',
     socialLinks: [
       { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
@@ -85,7 +87,6 @@ function sidebarGuide() {
       text: 'Why ❔',
       collapsed: true,
       items: [
-        { text: 'Why have a BetaComp?', link: '/guide/Why/WhyBetaComp' },
         { text: 'How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
         
       ]
@@ -140,6 +141,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
+        { text: '🔷 BetaComp', link: '/reference/CompType/BetaComp' },
         { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 Route+ Comp', link: '/reference/CompType/RouteComp' },
         { text: '🔷 Move+ Comp', link: '/reference/CompType/MoveComp' },
@@ -224,7 +226,7 @@ function sidebarReference() {
     },
 
     {
-      text: '🔷 Beta System',
+      text: '🔷 Beta',
       collapsed: true,
       items: [
         { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },

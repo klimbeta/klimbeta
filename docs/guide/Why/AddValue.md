@@ -1,12 +1,12 @@
-# Add Value
+# How BetaComp Adds Value to the Climbing Community
 
 ![ValuePyramid](/ValuePyramid.png)
 
-<!-- ---------------------------------------------------------------------------- -->
-## Attractiveness
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Affiliation Belonging
+
+
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -28,13 +28,10 @@ If climbers want to know their max Route Grade, then they'd probably want to kno
 <!-- ---------------------------------------------------------------------------- -->
 ## Fun and Entertainment
 
+BetaGame
 
-<!-- ---------------------------------------------------------------------------- -->
-## Heirloom
+Creative Competitions are less serious and more fun.
 
-BetaMap
-
-BeckyMap
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Informs
@@ -45,6 +42,17 @@ FYI: There is a thing called Beta
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
+
+Integrates the RICscale from Routesetting into mainstream climbing through the use of a [DifficultyScore](/reference/scoring/Difficulty/Overview).
+
+
+Integrates the techniques used while training on a SprayWall into the current way that climbers compete.
+
+
+![SprayWall](SprayWall_00.png)
+
+
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Makes Money
 
