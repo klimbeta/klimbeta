@@ -1,45 +1,29 @@
 # Competition Types
 
-There are many types of BetaComps. 
+![BetaCompTypes_01](/BetaCompTypes_01.png)
 
-## AddOn
+---
 
-A each climber adds their own element to a Beta Sequence.
+![BetaCompTypes_02](/BetaCompTypes_02.png)
 
-![InsertInfographic] of 
+---
 
-### AddOn Route
+![BetaCompTypes_03](/BetaCompTypes_03.png)
 
-### AddOn Route+Move
+---
 
-Perform a specific MoveElement or MoveSequence to a specific RouteElement or RouteSequence.
+![BetaCompTypes_04](/BetaCompTypes_04.png)
 
-### AddOn Move
+---
 
-Route is irrelevant.
+![BetaCompTypes_05](/BetaCompTypes_05.png)
 
+---
 
-## Take Away
+![BetaCompTypes_06](/BetaCompTypes_06.png)
 
-## Battle
+---
 
-Based on Breaking.
-
-Opposing Competitors
-
-### Round Robin Battle
-
-See 
-
-### Knockout Battle
-
-## Freestyle
-
-No oppposing competitor during performance.
-
-### Individual Freestyle
-
-### Team Freestyle
-
+![BetaCompTypes_07](/BetaCompTypes_07.png)
 
 

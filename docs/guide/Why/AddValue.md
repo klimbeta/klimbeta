@@ -6,7 +6,7 @@
 <!-- ---------------------------------------------------------------------------- -->
 ## Affiliation Belonging
 
-
+ 
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -16,21 +16,37 @@
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb
+If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
+
+Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Connects
 
+Climbers can connect over shared Beta. 
+
+BetaComp gives the climbing community another event where they can socialize and connect with other climbers.
+
+BetaComp will be translated into many languages. 
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Design and Aesthetics
 
+BetaComp encourages innovation in the design of "System boards" like Kilterboard, Tension board, Moonboard, by 
+
+
+Watching an elegant climber flowing around a SprayWall or up a route is aethetically beautiful.
+
+
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Fun and Entertainment
 
-BetaGame
-
 Creative Competitions are less serious and more fun.
+
+Who doesn't find dancing fun? BetaComp combines dancing with Climbing.
+
+BetaGame
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -43,11 +59,10 @@ FYI: There is a thing called Beta
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
 
-Integrates the RICscale from Routesetting into mainstream climbing through the use of a [DifficultyScore](/reference/scoring/Difficulty/Overview).
+Integrates Routesetting knowledge into mainstream climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
 
 
-Integrates the techniques used while training on a SprayWall into the current way that climbers compete.
-
+Integrates the techniques used while training on a SprayWall into the current way that climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
 
 ![SprayWall](/SprayWall_00.png)
 
@@ -137,6 +152,9 @@ A climbers ability is easier to **qualify** than to quantify.
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Anxiety
 
+Being able to externalize the Beta of your project by putting on paper reduces Anxiety by removing your brain's tendency to create [Rehearsal Loops](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100540469) of information that you don't want to forget.  
+
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Effort
 
@@ -146,18 +164,27 @@ A climbers ability is easier to **qualify** than to quantify.
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Cost
 
+BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it takes to learn all of routesetting's vocabulary about Routes and Walls, therefore the cost to train routesetters is reduced.
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Rewards Me
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Saves Time
 
+BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it takes to learn all of climbing's vocabulary about Moves and routesetting's vocabulary about Routes and Walls.
+
+
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Self-Actualization
 
 
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Self-Transcendence
+
+Climbers can discover new movements which will shared with the whole climbing community.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Sensory Appeal
@@ -166,6 +193,9 @@ A climbers ability is easier to **qualify** than to quantify.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Simplifies
+
+BetaComp simplifies climbing by breaking a climber's experience into their most simple elements.
+
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -185,28 +215,26 @@ Creativity Competitions increase the **variety** of movements by finding produci
 <!-- ---------------------------------------------------------------------------- -->
 ## Wellness
 
-Motivation to have more Mobility affects your whole life. Mobility Training
 ### RED-S
 
-What is RED-S?
-
-Lattice
+::: tip Lattice Climbers explain RED-S
+![Lattice](/REDS_Lattice.png)
 -https://www.youtube.com/watch?v=XpkWNOSrLyo&ab_channel=LatticeTraining
-
-MoveIntensity encourages eating disorders.
-
-::: warning Moves with High MoveIntensity
-CrimpGrip, One Arm Pull Up
 :::
 
-Udini
-
+::: tip Udo Neumann talks about how focusing on Risk and Complexity instead of Intensity can reduce RED-S in climbing. 
+![Udini](/REDS_Udini.png)
 - https://www.youtube.com/watch?v=YrNZ11FhaEg
+:::
 
-Megos
-
+::: tip Alex Megos and Volker Schöffl talk about RED-S.
+![Megos](/REDS_Megos.png)
 - https://www.youtube.com/watch?v=w0Ev_b6w3GY&ab_channel=AlexanderMegos
+:::
 
+::: warning Moves with High MoveIntensity
+CrimpGrip, OneArmPullUp, 
+:::
 
 
 

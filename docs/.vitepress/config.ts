@@ -31,7 +31,6 @@ export default defineConfig({
       '/reference/': sidebarReference(),
       '/tests/': sidebarTests(),
       '/development/': sidebarDevelopment(),
-      '/sponsor/': sidebarSponsor(),
     },
   }
 })
@@ -79,8 +78,6 @@ function sidebarGuide() {
       items: [
         { text: 'What is Beta?', link: '/guide/What/WhatBeta' },
         { text: 'What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: 'What is Vitepress?', link: '/guide/What/WhatVitepress' },
-
       ]
     },
     {
@@ -98,6 +95,7 @@ function sidebarGuide() {
         { text: 'Climber', link: '/guide/Who/Climber' },
         { text: 'Spectator', link: '/guide/Who/Spectator' },
         { text: 'Coach', link: '/guide/Who/Coach' },
+        { text: 'Setter', link: '/guide/Who/Setter' },
         { text: 'Gym', link: '/guide/Who/Gym' },
         { text: 'Gear Company', link: '/guide/Who/GearCompany' },
       ]
@@ -141,10 +139,11 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
-        { text: '🔷 BetaComp', link: '/reference/CompType/BetaComp' },
-        { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 Route+ Comp', link: '/reference/CompType/RouteComp' },
         { text: '🔷 Move+ Comp', link: '/reference/CompType/MoveComp' },
+        { text: '🔷 BetaWall', link: '/reference/CompType/BetaWall' },
+        { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },        
+        { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
 
       ]
@@ -473,14 +472,3 @@ function sidebarDevelopment() {
   ]
 }
 
-function sidebarSponsor() {
-  return [
-    {
-      text: 'Introduction',
-      collapsed: false,
-      items: [
-        { text: 'What BetaComp', link: '/guide/What/WhatBetaComp' }
-      ]
-    }
-  ]
-}
