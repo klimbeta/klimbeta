@@ -453,10 +453,69 @@ function sidebarReference() {
 function sidebarTests() {
   return [
     {
-      text: 'Tests',
-      collapsed: false,
+      text: 'Beta Tests',
+      collapsed: true,
       items: [
-        { text: 'What i', link: '/guide/What/WhatBetaComp' }
+        { text: 'Beta Test 01', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 02', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 03', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 04', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 05', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 06', link: '/tests/TestsOverview' },
+        { text: 'Beta Test 07', link: '/tests/TestsOverview' },
+
+      ]
+    },
+    {
+      text: 'Move Tests',
+      collapsed: true,
+      items: [
+        { text: 'Move Test 01', link: '/tests/TestsOverview' },
+        { text: 'Move Test 02', link: '/tests/TestsOverview' },
+        { text: 'Move Test 03', link: '/tests/TestsOverview' },
+        { text: 'Move Test 04', link: '/tests/TestsOverview' },
+        { text: 'Move Test 05', link: '/tests/TestsOverview' },
+        { text: 'Move Test 06', link: '/tests/TestsOverview' },
+        { text: 'Move Test 07', link: '/tests/TestsOverview' },
+      ]
+    },
+    {
+      text: 'Route Tests',
+      collapsed: true,
+      items: [
+        { text: 'Route Test 01', link: '/tests/TestsOverview' },
+        { text: 'Route Test 02', link: '/tests/TestsOverview' },
+        { text: 'Route Test 03', link: '/tests/TestsOverview' },
+        { text: 'Route Test 04', link: '/tests/TestsOverview' },
+        { text: 'Route Test 05', link: '/tests/TestsOverview' },
+        { text: 'Route Test 06', link: '/tests/TestsOverview' },
+        { text: 'Route Test 07', link: '/tests/TestsOverview' },
+      ]
+    },
+    {
+      text: 'Environment Tests',
+      collapsed: true,
+      items: [
+        { text: 'Environment Test 01', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 02', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 03', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 04', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 05', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 06', link: '/tests/TestsOverview' },
+        { text: 'Environment Test 07', link: '/tests/TestsOverview' },
+      ]
+    },
+    {
+      text: 'Neuro Tests',
+      collapsed: true,
+      items: [
+        { text: 'Neuro Test 01', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 02', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 03', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 04', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 05', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 06', link: '/tests/TestsOverview' },
+        { text: 'Neuro Test 07', link: '/tests/TestsOverview' },
       ]
     }
   ]

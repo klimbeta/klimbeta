@@ -16,40 +16,43 @@
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
+- If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
 
-Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
+- Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
+- Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for climbing jobs.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Connects
 
-Climbers can connect over shared Beta. 
+- BetaComp connects Climbing to other sports which score execution and difficulty. Climbing; Freestyle skiing and snowboarding; and skateboard already share similar cultures. 
 
-BetaComp gives the climbing community another event where they can socialize and connect with other climbers.
+- Climbers can connect over shared Beta. 
 
-BetaComp will be translated into many languages. 
+- BetaComp gives the climbing community another event where they can socialize and connect with other climbers.
+
+- BetaComp will be translated into many languages. 
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Design and Aesthetics
 
-BetaComp encourages innovation in the design of "System boards" like Kilterboard, Tension board, Moonboard, by 
+- BetaComp encourages innovation in the design of "System boards" like Kilterboard, Tension board, Moonboard, by 
 
 
-Watching an elegant climber flowing around a SprayWall or up a route is aethetically beautiful.
+- Watching an elegant climber flowing around a SprayWall or up a route is aethetically beautiful.
 
 
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Fun and Entertainment
 
-Creative Competitions are less serious and more fun.
+- Creative Competitions are less serious and more fun.
 
-Who doesn't find dancing fun? BetaComp combines dancing with Climbing.
+- Who doesn't find dancing fun? BetaComp combines dancing with Climbing.
 
-BetaGame
+- BetaGame
 
 
-<!-- ---------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------- -->
 ## Informs
 
 For your **information**
@@ -59,10 +62,9 @@ FYI: There is a thing called Beta
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
 
-Integrates Routesetting knowledge into mainstream climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
+- Integrates Routesetting knowledge into mainstream climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
 
-
-Integrates the techniques used while training on a SprayWall into the current way that climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
+- Integrates the techniques used while training on a SprayWall into the current way that climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
 
 ![SprayWall](/SprayWall_00.png)
 
@@ -71,9 +73,9 @@ Integrates the techniques used while training on a SprayWall into the current wa
 <!-- ---------------------------------------------------------------------------- -->
 ## Makes Money
 
-Spectators
+- Spectators
 
-People watch the Olympic Events that BetaComp [mimics](/guide/How/OtherSport).
+- People watch the Olympic Events that BetaComp [mimics](/guide/How/OtherSport).
 <!-- ---------------------------------------------------------------------------- -->
 ## Motivation
 
@@ -82,11 +84,11 @@ People watch the Olympic Events that BetaComp [mimics](/guide/How/OtherSport).
 <!-- ---------------------------------------------------------------------------- -->
 ## Nostalgia
 
-Johnny Dawes was always talking about Sticky Rubber.
+- Johnny Dawes was always talking about Sticky Rubber.
 
-Moonkick
+- Moonkick
 
-Gaston or Dulfer
+- Gaston or Dulfer
 
 
 
@@ -96,29 +98,35 @@ Gaston or Dulfer
 <!-- ---------------------------------------------------------------------------- -->
 ## Organizes
 
-Formalizes
+### Easy to search
 
-Systematizes
 
-DifficultyScore
+### Formalizes
 
-ExecutionScore
+- Standardized Naming System
 
-Movement Hierarchy
+- [What is Beta](/guide/What/WhatBeta)
 
-BetaComp systematizes Climbing. 
+### Systematizes
+- Movement Hierarchy
 
-Beta System
+
+### Measures
+-DifficultyScore
+
+-ExecutionScore
+
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Provides Access
 
+- Provides access to information about how to plant which currently only exists in the brains of Experienced Climbers.
 
 ### Level of Fitness
 
-A normal fitness person can climb with more elegance than the most physically fit climber. 
+- A normal fitness person can climb with more elegance than the most physically fit climber. 
 
-Paxi Usobiaga Quote about not having technique so he just relies on strength
+- Paxi Usobiaga Quote about not having technique so he just relies on strength
 
 ### Movement Literacy
 
@@ -158,8 +166,13 @@ Being able to externalize the Beta of your project by putting on paper reduces A
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Effort
 
+- Reduces the distance travelled by planters by using efficient Routing.
+- Increased CognitiveEase leads to feelings of effortlessness.
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Risk
+
+- The ExecutionScore forces climbers to have optimal technique, including proper Scapular Control which decreases the conditions for shoulder injuries to occur.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Cost
@@ -168,6 +181,8 @@ BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Rewards Me
+
+- Be able to track your progress as a Climber by the number of elements that you've understood then mastered.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Saves Time

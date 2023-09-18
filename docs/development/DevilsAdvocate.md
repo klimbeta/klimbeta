@@ -16,6 +16,16 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 :::
 
+## Where is the prove that understanding Beta will improve your climbing technique?
+
+::: danger Argument
+There is no proof that training for a competition which scores climbers on Difficulty and Execution will improve their climbing technique in general.
+:::
+
+::: tip Response
+
+:::
+
 ## No body will want to play BetaComp.
 
 ::: danger Argument
@@ -26,6 +36,8 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: tip Response
 
+Climbers already play BetaComp, they just don't label as such.
+
 :::
 
 
@@ -33,20 +45,22 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: danger Argument
 
-
+There are too many elements, concepts and scores.
 
 :::
 
 
 ::: tip Response
 
+- It's not any more complicated than it needs to be.
+- BetaComp isn't any more complicated than Gymnastics.
 - Only the judges need to know every nuance of BetaComp.
 - Competitors should learn everything there is to know about BetaComp, then remember only what's necessary. 
 
 :::
 
 
-## Climbing is not ready for BetaComp.
+## Climbing is not ready for BetaComps.
 
 ::: danger Argument
 

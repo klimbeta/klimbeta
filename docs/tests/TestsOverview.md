@@ -1,11 +1,12 @@
 # Tests Overview
 
-Right now these link to the design process of the tests, since the tests don't exist yet. 
+Climbers can test themselves off the wall, while in transit, on a rest day or to get into a competitive mindset before a competition.
 
+The ultimate goal is to have high quality interactive tests like the ones on https://brilliant.org/
 
 ## How to Test
 
-## What is required?
+## What tools are used for testing?
 
 - Route
 - Wall
@@ -26,9 +27,11 @@ Right now these link to the design process of the tests, since the tests don't e
 
 ### List() Test
 
-Recall
+Listing items tests a climbers ability to recall information.
 
 ### OrderBy() Test
+
+Order Elements by:
 
 - MoveRisk
 - MoveIntensity
