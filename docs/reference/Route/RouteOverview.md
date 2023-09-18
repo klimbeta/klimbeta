@@ -2,7 +2,7 @@
 
 ![Route](/Route.png)
 
-![Route_01](Route_01.png)
+![Route_01](/Route_01.png)
 
 ## Route and Environment differentiated
 
