@@ -26,50 +26,77 @@ BetaComp formally defines Beta as a system composed of four subsystems:
 ![BetaVennDiagram](/BetaVenn.png) 
 
 ::: tip Environment
+![Environment](/Environment.png)
 
-![InsertImage]() of ArtificialWall
+---
+
+![Environment_01](/Environment_01.png)
+
+---
+
+![Environment_02](/Environment_02.png)
+
+
+<!-- ![InsertImage]() of ArtificialWall
 
 ![InsertImage]() of ClimbingHold
 
-![InsertImage]() of Cloud
+![InsertImage]() of Cloud -->
 
 :::
 
 ::: tip Move
 
-![InsertImage]() of LegWhip[SpaceFoot]
+![Move](/Move.png)
+
+<!-- ![InsertImage]() of LegWhip[SpaceFoot]
 
 ![InsertImage]() of Twistlock[SpaceHand]
 
-![InsertImage]() of Dyno[SpaceBody]
+![InsertImage]() of Dyno[SpaceBody] -->
 
 :::
 
 ::: tip Route
 
-![InsertImage]() of Taped route
+![Route](/Route.png)
 
-![InsertImage]() of Cobra Crack
+---
 
-![InsertImage]() of Dyno Comp
+![Route_01](/Route_01.png)
+
+---
+
+<!-- ![InsertImage]() of Cobra Crack
+
+![InsertImage]() of Dyno Comp -->
 
 :::
 
 
 ::: tip Neuro
 
-![InsertImage]() of FreeSolo
+![Neuro](/Neuro.png)
 
-![InsertImage]() of Me on SprayWall
+---
 
-![InsertImage]() of Me Miming
+![Neuro_01](/Neuro_01.png)
+
+---
+
+![Neuro_02](/Neuro_02.png)
+
+---
+
+<!-- ![InsertImage]() of Me on SprayWall -->
+
 
 :::
 
 
 ## What is your focus when Climbing?
 
-![InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing
+<!-- ![InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing -->
 
 It is important to remember that every type of climbing uses Beta, each of the four types of climbing just emphasize different aspects of Beta.
 
@@ -79,7 +106,7 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 
 ## Wall Climbing
 
-![InsertImage]() which contains with all Forms of WallClimbing
+<!-- ![InsertImage]() which contains with all Forms of WallClimbing -->
 
 ::: tip Climbing focused on reaching a location in an [Environment]() by any means necessary.
 
@@ -91,8 +118,8 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 
 ## Route Climbing
 
-![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics
-![InsertImage]() of Route climbing Dyno Psico Buildering
+<!-- ![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics -->
+<!-- ![InsertImage]() of Route climbing Dyno Psico Buildering -->
 
 ::: tip Climbing focused on completing a [Route]().
 
@@ -106,7 +133,7 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 
 ## Move Climbing
 
-![InsertImage] of Move Climbing
+<!-- ![InsertImage] of Move Climbing -->
 
 ::: tip Climbing focused on performing a [Move]().
 
@@ -117,7 +144,7 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 
 ## Neuro Climbing 
 
-![InsertImage]() of Free Solo, Free Base, Alain Robert over knives
+<!-- ![InsertImage]() of Free Solo, Free Base, Alain Robert over knives -->
 
 ::: tip Neuro Climbing focuses on [Neuropsychological]() experience of climbing. 
 
@@ -125,7 +152,7 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 - Free Base Climbing
 :::
 
-## Flow Climbing
+<!-- ## Flow Climbing
 
 ![FlowClimbing_02](/FlowClimbing_02.png)
 
@@ -141,4 +168,4 @@ Climbing which puts equal focus on all aspects of a climber's experience.
 
 ![FlowClimbing_01](/FlowClimbing_01.png)
 
-- https://www.youtube.com/watch?v=2WHTBh-MJbE
+- https://www.youtube.com/watch?v=2WHTBh-MJbE -->
