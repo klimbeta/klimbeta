@@ -4,26 +4,21 @@
 
 ## Play the Long Game
 
+
+
 ## How does BetaComp increase Revenue for Gyms?
 
 Increase Income
 - Competitions are more accessible.
 - Fun to watch even if you have no experience climbing.
 
+
 Decrease Costs
 
+Advertising
+- Social Media Content
 
-
-Educational Game for Routesetters, Coaches
-
-
-New Type of Test
-
-Demonstrate 
-
-
-They're all connected so why are they taught separately? How separated are they?
+Educational Game for Routesetters, Coaches and Climbers
 
 
 
-- Systematized Beta gives Routesetters training 

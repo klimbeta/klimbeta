@@ -16,6 +16,6 @@ Use the Reference section to learn all the Beta Elements
 
 ## [🔺 Route 🔺](/reference/Route/RouteOverview)
 
-## [🟩 Wall 🟩](/reference/Wall/WallOverview)
+## [🟩 Environment 🟩](/reference/Environment/EnvironmentOverview)
 
 ## [💜 Neuro 💜](/reference/Neuro/NeuroOverview)
