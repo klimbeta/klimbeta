@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "🔷 BetaComp 🔷"
-  tagline: A New Olympic Event in Climbing?
+  tagline: The Development of a New Climbing Olympic Event
   image:
     src: /OlympicRings.png
     alt: Olympic Rings

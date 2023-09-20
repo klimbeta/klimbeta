@@ -1,6 +1,6 @@
 # Difficulty Score Overview
 
-Based on the **RICscale** first published in Jacky Godoffe's book [My Keys to Routesetting](http://jackygodoffe.com/book.html). The RICscale is an acronym for Risk, Intensity, and Complexity.
+Based on the **RICscale** which was developed by Tonde Katiyo and Jacky Godoffe, and was first published in Godoffe's book [My Keys to Routesetting](http://jackygodoffe.com/book.html). The RICscale is an acronym for Risk, Intensity, and Complexity. Sometimes 'E' is added to the scale for Emotion, BetaComp places emotion in the [Neuro](/reference/Neuro/NeuroOverview) part of Beta instead.
 
 ![MyKeysToRoutesetting](/MyKeysToRoutesetting.png)
 
@@ -9,45 +9,54 @@ The RICscale is used mostly by Routesetters to design and describe their routes.
 ![DifficultyScore](/DifficultyScoreTree.png)
 
 
+## Numerical Score
+
+Each performed Element has a particular numerical value.
+
+## Example
+
 For example this Route:
 
-## Beta Difficulty
-
-## Move Difficulty
-
-### Move Risk
-
-### Move Intensity
-
-### Move Complexity
-
-## Route Difficulty
-
-### Route Risk
-
-### Route Intensity
-
-### Route Complexity
-
-## Environment Difficulty
-
-The environment sets the base difficulty level.
-
-### Environment Risk
-
-### Environment Intensity
-
-Wall Angle
+TODO A Tagged Storyboard of a Climber on a Route 
 
 
-### Environment Complexity
+::: tip Beta Difficulty
 
+:::
 
+::: tip Move Difficulty
 
+Move Risk
 
-High Altitude Climbing 
+Move Intensity
 
-## Number
+Move Complexity
+:::
 
-Each Element has a particular numerical value.
+---
+
+::: tip Route Difficulty
+
+Route Risk
+
+Route Intensity
+
+Route Complexity
+:::
+
+---
+
+::: tip Environment Difficulty
+
+Environment Risk
+
+Environment Intensity
+
+- Wall Angle
+
+Environment Complexity
+
+- High Altitude Climbing 
+
+:::
 

@@ -7,9 +7,9 @@ export default defineConfig({
   base: '/BetaComp/',
   ignoreDeadLinks: true,
   lastUpdated: true,
-  
+
   themeConfig: {
-    outline:[2,3],
+    outline: [2, 3],
     logo: '/blue-diamond-48.png',
     socialLinks: [
       { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
@@ -90,7 +90,7 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: 'How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
-        
+
       ]
     },
     {
@@ -147,7 +147,7 @@ function sidebarReference() {
         { text: '🔷 Route+ Comp', link: '/reference/CompType/RouteComp' },
         { text: '🔷 Move+ Comp', link: '/reference/CompType/MoveComp' },
         { text: '🔷 BetaWall', link: '/reference/CompType/BetaWall' },
-        { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },        
+        { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
 
@@ -162,7 +162,7 @@ function sidebarReference() {
           text: '🔷 Difficulty Score',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/Overview' },            
+            { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/Overview' },
             {
               text: '🔷 Beta Difficulty',
               collapsed: true,
@@ -204,16 +204,7 @@ function sidebarReference() {
                 { text: '🟩 Environment Complexity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
               ]
             },
-            {
-              text: '💜 Neuro Difficulty',
-              collapsed: true,
-              items: [
-                { text: '💜 Overview', link: '/reference/Scoring/Difficulty/NeuroDifficulty/Overview' },
-                { text: '💜 Neuro Risk', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroRisk' },
-                { text: '💜 Neuro Intensity', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroIntensity' },
-                { text: '💜 Neuro Complexity', link: '/reference/Scoring/Difficulty/NeuroDifficulty/NeuroComplexity' },
-              ]
-            },]
+          ]
         },
         {
           text: '🔷 Execution Score',
@@ -221,8 +212,8 @@ function sidebarReference() {
           items: [
             { text: '🔷 Overview', link: '/reference/Execution/Overview' },
             { text: '🟠 Move Execution', link: '/reference/Execution/MoveExecution' },
-            { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },
-            { text: '💜 Neuro Execution', link: '/reference/Execution/NeuroExecution' },
+            { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },            
+            { text: '🟩 Environment', link: '/reference/Execution/RouteExecution' },
 
           ]
         },
