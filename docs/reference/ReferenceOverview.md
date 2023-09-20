@@ -2,7 +2,9 @@
 
 ::: tip 
 
-Use the Reference section to learn all the Beta Elements
+Use the Reference section to learn all the Beta Elements. 
+
+The reference is section is useful even if you're not trying to compete.
 
 :::
 

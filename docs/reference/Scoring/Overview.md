@@ -1,2 +1,3 @@
 # Scoring
 
+![DifficultyScore](/DifficultyScoreTree.png)

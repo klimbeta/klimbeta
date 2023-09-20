@@ -48,6 +48,11 @@ function nav() {
       activeMatch: '/reference/'
     },
     {
+      text: 'Judging',
+      link: '/judging/JudgingOverview',
+      activeMatch: '/judging/'
+    },
+    {
       text: 'Tests',
       link: '/tests/TestsOverview',
       activeMatch: '/tests/'

@@ -20,12 +20,22 @@ hero:
       link: /Development/DevelopmentOverview
     - theme: brand
       text: Test
-      link: /Tests/TestsOverview
+      link: /tests/TestsOverview
     - theme: brand
       text: Sponsor
       link: /sponsor/Sponsor
 
 
+features:
+  - icon: 🧗‍♀️
+    title: 
+    details: 
+  - icon: 🛠️
+    title: This is just the beginning!
+    details: Last Updated September 19, 2023
+  - icon: 🧗‍♂️
+    title: 
+    details: 
 
 
 
