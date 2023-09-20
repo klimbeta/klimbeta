@@ -16,8 +16,7 @@ Vue was chosen for BetaComp for a few reasons.
 
 ### Scoring App
 
-Vue will be used to create the interface that judges use to input scores. Similar to the Trivium Scoring 
-
+Vue will be used to create the interface that judges use to input scores.
 
 ## Vitepress
 

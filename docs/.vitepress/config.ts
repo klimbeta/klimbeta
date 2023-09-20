@@ -529,6 +529,17 @@ function sidebarTests() {
 function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/Overview' },
+    {
+      text: 'Mimic Other Sports',
+      collapsed: true,
+      items: [
+        { text: 'Overview', link: '/development/OtherSport/Overview' },
+        { text: 'Breaking', link: '/development/OtherSport/Breaking' },
+        { text: 'Skiing', link: '/development/OtherSport/Skiing' },
+        { text: 'Skateboarding', link: '/development/OtherSport/Skateboarding' },
+        { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
+      ]
+    },
     { text: 'DevilsAdvocate', link: '/development/DevilsAdvocate' },
     { text: 'Downloads', link: '/development/Download' },
     { text: 'ToDo', link: '/development/ToDo' },

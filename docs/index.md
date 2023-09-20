@@ -32,7 +32,7 @@ features:
     details: 
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated September 19, 2023
+    details: Last Updated on September 20, 2023
   - icon: 🧗‍♂️
     title: 
     details: 
