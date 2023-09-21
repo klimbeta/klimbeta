@@ -6,3 +6,4 @@ Neuro is not scored in a BetaComp since it is difficult to observe directly and 
 
 - Move Hesitation
 - Route Alignment
+- Variety

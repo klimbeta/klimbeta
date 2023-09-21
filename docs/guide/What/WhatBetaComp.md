@@ -30,7 +30,7 @@ The main difference between BetaComp and all other Olympic Climbing Events is th
 ### Speed Climbing Competition Compared to BetaComp  
 
 Similarities to BetaComp
-- All competitors use the same [Wall]()
+- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview)
 
 
 Differences from BetaComp
@@ -68,12 +68,12 @@ Differences from BetaComp
 ### BetaComp Compared to Dyno Competition
 
 Similarities to BetaComp
-- All competitors use the same [Wall]()
+- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview)
 
 Differences from BetaComp
-- Competitors try to get to the top of [Wall]().
+- Competitors try to get to the top of [Wall](/reference/Environment/EnvironmentOverview).
 - Forced Movements
-- Forced [Route]()
+- Forced [Route](/reference/Route/RouteOverview)
 
 
 

@@ -150,6 +150,8 @@ function sidebarReference() {
         { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
+        { text: '🔷 BetaDance', link: '/reference/CompType/BetaDance' },
+        { text: '🔷 Team BetaComp', link: '/reference/CompType/Team BetaComp' },
 
       ]
     },
@@ -531,9 +533,10 @@ function sidebarDevelopment() {
         { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
       ]
     },
-    { text: 'DevilsAdvocate', link: '/development/DevilsAdvocate' },
-    { text: 'Downloads', link: '/development/Download' },
-    { text: 'ToDo', link: '/development/ToDo' },
+    { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
+    { text: '📎 Downloads', link: '/development/Download' },
+    { text: '🔷 Roadmap', link: '/development/Roadmap' },
+    { text: '☑ ToDo', link: '/development/ToDo' },
 
   ]
 }

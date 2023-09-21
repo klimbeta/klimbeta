@@ -16,6 +16,9 @@ hero:
       text: 🔷🔺💜🟠🟩
       link: /reference/ReferenceOverview
     - theme: brand
+      text: Judge
+      link: /judging/JudgingOverview    
+    - theme: brand
       text: Develop
       link: /Development/DevelopmentOverview
     - theme: brand

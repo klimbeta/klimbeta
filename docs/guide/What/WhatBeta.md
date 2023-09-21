@@ -21,7 +21,7 @@ Office québécois de la langue française
 
 ## What does 'Beta' mean in a BetaComp? 
 
-In a BetaComp Beta is defined as a system composed of four subsystems: Environment, Move, Route, and Neuro.
+BetaComp defines Beta as a system composed of four subsystems: [Environment](/reference/Environment/EnvironmentOverview), [Move](/reference/Move/MoveOverview), [Route](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaVennDiagram](/BetaVenn.png) 
 
@@ -88,44 +88,27 @@ In a BetaComp Beta is defined as a system composed of four subsystems: Environme
 
 ## What is the difference between Environment and Route?
 
-Philosophically, a Route is an Abstraction of the Environment. The Route **only** exists in the minds of climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a climber climbs it. A skill of climbers who seek first ascents is to see potential Routes in the Environment.
+Philosophically, a [Route](/reference/Route/RouteOverview) is an Abstraction of the [Environment](/reference/Environment/EnvironmentOverview). The Route **only** exists in the minds of climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a climber climbs it. A skill of climbers who seek first ascents is to see potential Routes in the Environment.
 
-- The Environment is a novel concept in climbing. Usually when a climber talks about a route they are referring to the Wall.
-- A Route is not a route unless it leads you to your target location. 
-- If a section of a wall can not be climbed then there is no route only wall.
+- The Environment is a novel concept in climbing. Usually when a climber talks about a route they are referring to the Wall, which is an element of the Environment.
+- A Route is not a Route unless it leads you to your target location. 
+- If a section of a Wall can not be climbed then there is no Route only Wall.
 - Ascending and descending the same section of a wall are two different routes even though they both use the exact same wall. 
 - A Route is the part of the Environment which makes contact with a Climber. 
-- If a climber climbs ascends a wall using a particular color of holds and another climber comes along ascends the wall using the same color of holds but skips half of them, then did both climbers climb the same route?
+- If a climber ascends a Wall using a particular color of holds and another climber comes along ascends the same Wall using the same color of holds as the first climber, but skips half of them, then did both climbers climb the same route?
 
 The difference between Route and Environment is most important during a BetaWall competition, where there is fixed route that climbers must follow, instead each climber chooses their route and moves on the wall.
 
 
-## What is your focus when Climbing?
+## A Climber's Goal Affects What Aspects of Beta they Attend to.
 
 <!-- ![InsertImage] of BetaComp in ecosystem map relating it to the other types of Climbing -->
 
-There are many goals in climbing, your goal determines the part of Beta you choose to focus on.
+There are many goals in climbing, your goal determines the part of Beta that climbers pay attention to.
 
-It is important to remember that every type of climbing uses Beta, each of the four types of climbing just emphasize different aspects of Beta.
+It is important to remember that every type of climbing uses every aspect of Beta, each of the four types of climbing just emphasize different the different aspects of Beta.
 
-## Being in a particular Environment is the climber's goal.
-
-<!-- ![InsertImage]() which contains with all Forms of WallClimbing -->
-
-::: tip Climbing focused on reaching a location in an [Environment]() by any means necessary.  
-
-- Alpinism
-    - Climbers want stand on a particular landmark, often the summit of a mountain.
-- Tree Climbing
-    - There are no routes in trees.
-- Aid Climbing
-    - Climbers use tools to advance themselves along the route.
-- Ice Climbing
-- Mixed Climbing
-    - See The Alpinist Film
-:::
-
-## Completing a particular Route is the climber's goal
+### When Completing a Particular Route is a Climber's Goal
 
 <!-- ![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics -->
 <!-- ![InsertImage]() of Route climbing Dyno Psico Buildering -->
@@ -146,11 +129,11 @@ Free climbing a route without using any tools to advance yourself along the rout
     - Tension board
 :::
 
-## Moving in a particular way is the climber's goal.
+### When Moving in a Particular Way is a Climber's Goal.
 
 <!-- ![InsertImage] of Move Climbing -->
 
-::: tip Climbers focus on the [Move]() aspect of Beta. 
+::: tip Climbers focus on the [Move](/reference/Move/MoveOverview) aspect of Beta. 
 
 - Climbers focus on Moves when they are training to complete a route.
 - Climbing with a weight vest.
@@ -163,35 +146,34 @@ Free climbing a route without using any tools to advance yourself along the rout
     - Squamish Boulder
 :::
 
-## Thinking a particular way is the climber's goal.
+### When Thinking a Particular Way is a Climber's Goal.
 
 <!-- ![InsertImage]() of Free Solo, Free Base, Alain Robert over knives -->
 
-::: tip Climbers focus on [Neuro]() aspect of Beta. 
+::: tip Climbers focus on [Neuro](/reference/Neuro/NeuroOverview) aspect of Beta. 
 
 - Free Solo Climbing and Free Base Climbing
     - Climbers cultivate the ability to calm their minds so that they can climb without any protection in Environments where a fall will result in death or life changing injury.
     - Climbers usually Free Solo routes that they have already completed and are well under their maximum difficulty. 
     - Completing the route is necessary but not the ultimate goal of Free Soloing. 
     - Climbers seek the release of the neurotransitter **Adrenaline**, which occurs when climbers are in a stressful situation. Climbers often describe the feeling of "heightened senses"
-:::
 
- 
-
-<!-- ## Flow Climbing
+- Flow Climbing
+    - A subset of Neuro Climbing is Flow Climbing.
+    - Requires a SprayWall with a high density of Holds.
+    - Meditative
+    - Since Flow Climbing often involves Down Climbing, it is difficult to belay so an Autobelay must be used or Flow Climbing is performed low to the ground like Bouldering.
+    - Flow Climbing usually has lots of Traversing, Down Climbing and Climbing in circles. 
+    - Climbers grip what ever hold they happen to be in a position to use. 
+    - Flow Climbing is only possible when the gym is not crowded.
 
 ![FlowClimbing_02](/FlowClimbing_02.png)
 
-::: tip A subset of Neuro Climbing is Flow Climbing.
-
-- Requires a SprayWall with a high density of Holds.
-- Meditative
-- Since Flow Climbing often involves Down Climbing, it is difficult to belay so an Autobelay must be used or Flow Climbing is performed low to the ground like Bouldering.
-- Flow Climbing usually has lots of Traversing, Down Climbing and Climbing in circles. 
-- Climbers grip what ever hold they happen to be in a position to use. 
-- Flow Climbing is only possible when the gym is not crowded.
 :::
 
-![FlowClimbing_01](/FlowClimbing_01.png)
+---
 
-- https://www.youtube.com/watch?v=2WHTBh-MJbE -->
+::: tip Still unsure about what Beta is?
+
+[Click Here](/reference/Beta/WhatBetaSystem) To Learn more about **Beta**, **BetaActions** and to view examples of **Beta**
+:::

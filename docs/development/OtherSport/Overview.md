@@ -65,7 +65,7 @@ There is no opposition to the competitors of these sports. Each athelete or team
 
 ::: tip
 ![InsertImage]() of OtherSport
-### [Kitesurfing]()
+### [Kitesurfing](https://www.gkakiteworldtour.com/)
 :::
 
 ::: tip
