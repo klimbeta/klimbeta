@@ -1,5 +1,0 @@
-# Route Markings
-
-## RouteTape
-
-## TickMark

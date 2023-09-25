@@ -1,3 +1,0 @@
-# Hold
-
-Climbers grip holds.

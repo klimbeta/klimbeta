@@ -19,10 +19,12 @@ The difference between Route and Environment is most important during a BetaWall
 
 - Exposure
 - Wind
-- Get Alvaro Quote from Udini Video
+- Air Temperature
+- Get Alvaro Rengel Quote from Udini Video
 
 ## EnvironmentSurface
 
+- Surface Temperature
 - WetSurface
 - SurfaceTexture
 - ContactSurface

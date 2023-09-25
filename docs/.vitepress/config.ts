@@ -116,17 +116,15 @@ function sidebarGuide() {
       text: 'How ❔',
       collapsed: true,
       items: [
-        { text: 'How to Score BetaComp?', link: '/guide/How/Scoring' },
-        { text: 'How to Set Up a BetaComp ', link: '/guide/How/BetaCompSetUp' },
         {
-          text: 'How is BetaComp being created?',
+          text: 'Mimic Other Sports',
           collapsed: true,
           items: [
-            { text: 'OtherSport', link: '/guide/How/OtherSport' },
-            { text: 'Breaking', link: '/guide/How/Breaking' },
-            { text: 'Gymnastics', link: '/guide/How/Gymnastics' },
-            { text: 'Skateboarding', link: '/guide/How/Skateboarding' },
-            { text: 'Skiing', link: '/guide/How/Skiing' },
+            { text: 'Overview', link: '/development/OtherSport/Overview' },
+            { text: 'Breaking', link: '/development/OtherSport/Breaking' },
+            { text: 'Skiing', link: '/development/OtherSport/Skiing' },
+            { text: 'Skateboarding', link: '/development/OtherSport/Skateboarding' },
+            { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
           ]
         },
       ]
@@ -411,6 +409,9 @@ function sidebarReference() {
             { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
           ]
         },
+        { text: '🔺 RouteSurface', link: '/reference/Route/RouteSurface/Overview' },
+        { text: '🔺 RouteSpace', link: '/reference/Route/RouteSpace/Overview' },
+        { text: '🔺 RouteLine', link: '/reference/Route/RouteLine/Overview' },
       ]
     },
     {
@@ -422,9 +423,15 @@ function sidebarReference() {
           text: '🟩🟩🟩 Environment Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' }
+            { text: '❔ What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' },
           ]
         },
+        { text: '🟩 EnvironmentSurface', link: '/reference/Environment/EnvironmentSurface/Overview' },
+        { text: '🟩 EnvironmentSpace', link: '/reference/Environment/EnvironmentSpace/Overview' },
+        { text: '🟩 EnvironmentLine', link: '/reference/Environment/EnvironmentLine/Overview' },
+        { text: '🟩 FallProtection', link: '/reference/Environment/FallProtection' },
+        { text: '🟩 Wall', link: '/reference/Environment/Wall' },
+        { text: '🟩 Hold', link: '/reference/Environment/Hold' },
       ]
     },
     {

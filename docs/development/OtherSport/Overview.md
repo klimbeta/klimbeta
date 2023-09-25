@@ -18,86 +18,71 @@ There is no opposition to the competitors of these sports. Each athelete or team
 :::
 
 
-::: tip
-![InsertImage]() of OtherSport
-### [Acrobatic Gymnastics](https://olympics.com/en/sports/acrobatic-gymnastics/)
+::: tip [Artistic Gymnastics](https://olympics.com/en/sports/artistic-gymnastics/)
+![InsertImage](/ArtisticGymnastics.png)
+
+© Photo by David Ramos/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Artistic Gymnastics](https://olympics.com/en/sports/artistic-gymnastics/)
+::: tip [Artistic Swimming](https://olympics.com/en/sports/artistic-swimming/)
+![InsertImage](/ArtisticSwimming.png)
+
+© Buda Mendes/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Artistic Swimming](https://olympics.com/en/sports/artistic-swimming/)
+::: tip [Breaking](https://olympics.com/en/sports/breaking/)
+![InsertImage](/Breaking.png)
+
+© Comité International Olympique (CIO) / RUTAR, Ubald
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Breakdancing](https://olympics.com/en/sports/breaking/)
+::: tip [BMX Freestyle](https://olympics.com/en/sports/cycling-bmx-freestyle/)
+![InsertImage](/BMX.png)
+
+© Comité International Olympique (CIO) / HUET, John
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [BMX Freestyle](https://olympics.com/en/sports/cycling-bmx-freestyle/)
+::: tip [Diving](https://olympics.com/en/sports/diving/)
+![InsertImage](/Diving.png)
+
+© Cameron Spencer/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Diving](https://olympics.com/en/sports/diving/)
+::: tip [Figure Skating](https://olympics.com/en/sports/figure-skating/)
+![InsertImage](/Figureskating.png)
+
+© Robert Cianflone/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Equestrian Dressage](https://olympics.com/en/sports/equestrian/)
+::: tip [Freestyle Skiing](https://olympics.com/en/sports/freestyle-skiing/)
+![InsertImage](/Ski.png)
+
+© Cameron Spencer/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Figure Skating](https://olympics.com/en/sports/figure-skating/)
+::: tip [Rhythmic Gymnastics](https://olympics.com/en/sports/rhythmic-gymnastics/)
+![InsertImage](/RhythmicGymnastics.png)
+
+© Photo by Alex Livesey/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Freestyle Skiing](https://olympics.com/en/sports/freestyle-skiing/)
+::: tip [Skateboarding](https://olympics.com/en/sports/skateboarding/)
+![InsertImage](/Skateboard.png)
+
+© Ezra Shaw/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Kitesurfing](https://www.gkakiteworldtour.com/)
+::: tip [Snowboarding](https://olympics.com/en/sports/snowboard/)
+![InsertImage](/Snowboard.png)
+
+© Cameron Spencer/Getty Images
 :::
 
-::: tip
-![InsertImage]() of OtherSport
-### [Rhythmic Gymnastics](https://olympics.com/en/sports/rhythmic-gymnastics/)
+::: tip [Surfing](https://olympics.com/en/sports/surfing/)
+![InsertImage](/Surfing.png)
+ 
+© Matthew Stockman/Getty Images
 :::
-
-::: tip
-![InsertImage]() of OtherSport
-### [Scooter](https://www.unitedscoot.com/)
-:::
-
-::: tip
-![InsertImage]() of OtherSport
-### [Skateboarding](https://olympics.com/en/sports/skateboarding/)
-:::
-
-::: tip
-![InsertImage]() of OtherSport
-### [Snowboarding](https://olympics.com/en/sports/snowboard/)
-:::
-
-::: tip
-![InsertImage]() of OtherSport
-### [Surfing](https://olympics.com/en/sports/surfing/)
-:::
-
-::: tip
-![InsertImage]() of OtherSport
-### [Windsurfing](https://www.pwaworldtour.com/index.php?id=920)
-:::
-
 
 ## Reference Class Forecasting
 
