@@ -1,4 +1,4 @@
-# Difficulty Score Overview
+# 🔷 Difficulty Score Overview
 
 Based on the **RICscale** which was developed by Tonde Katiyo and Jacky Godoffe, and was first published in Godoffe's book [My Keys to Routesetting](http://jackygodoffe.com/book.html). The RICscale is an acronym for Risk, Intensity, and Complexity. Sometimes 'E' is added to the scale for Emotion, BetaComp places emotion in the [Neuro](/reference/Neuro/NeuroOverview) part of Beta instead.
 

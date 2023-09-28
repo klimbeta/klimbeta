@@ -1,7 +1,7 @@
 # Team BetaComp
 
 ## What?
-
+### Similar Competitions
 ### Synchronized Climbing
 - Syncronized Swimming
 - Team in on the same Wall or on a identical separate Wall.
@@ -16,6 +16,10 @@
 ## Where?
 
 ## How?
+
+### How can Climbers train for this Competition?
+
+### How do Setters set the Competition?
 
 ### Beta Scoring System
 

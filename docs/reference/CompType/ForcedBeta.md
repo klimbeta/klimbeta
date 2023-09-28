@@ -12,7 +12,7 @@ Similar to Route comps, beta can be flashed or take multiple attempts to perform
 ::: warning
 Breaking Beta is not permitted! 
 :::
-
+### Similar Competitions
 
 ## Who?
 
@@ -22,6 +22,10 @@ Breaking Beta is not permitted!
 ## How?
 
 Forced beta starts with a demonstration of the ForcedBeta, which is then written recorded and displayed as reference off to the side of the competition stage.
+
+### How do Setters set the Competition?
+
+### How can Climbers train for this Competition?
 
 ### Beta Scoring System
 

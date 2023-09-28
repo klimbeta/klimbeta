@@ -1,10 +1,10 @@
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/MoveImage.png"/>
+        <img height="350" width="350" src="/EnvironmentImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of Move. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
+        <p >Description of Environment. How the Environment Element got its name. The purpose of the EnvironmentElement. Common misconceptions about the EnvironmentElement. How to differentiate this EnvironmentElement from another similar EnvironmentElement</p>
     </div>
 </div>
 
@@ -28,20 +28,20 @@ Answer 3
 
 :::
 
-## MoveSequence
+## EnvironmentSequence
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/EnvironmentImage.png"/>
+        <p>Description of Environment Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/EnvironmentImage.png"/>
+        <p>Description of Environment Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/EnvironmentImage.png"/>
+        <p>Description of Environment Photo</p>
     </div>
     
     
@@ -110,4 +110,5 @@ Links to other related movements. Related because they are the same MoveType or 
 
 :::
 
-MovePlaceholder
+
+EnvironmentPlaceholder

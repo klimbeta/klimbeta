@@ -10,6 +10,7 @@ There are too few, if any, climbers who have attempted to climb to music. The cl
 :::
 
 
+
 ### Music
 No climber is good enough to climb to music, but after a few years of BetaComp climbers will probably be able to climb to a simple beat.
 
@@ -22,6 +23,8 @@ Like in Breaking, Climbers will be judged on their Musicality.
     - Smooth
     - Staccato
 
+### Similar Competitions
+
 
 ## Who?
 
@@ -29,6 +32,12 @@ Like in Breaking, Climbers will be judged on their Musicality.
 ## Where?
 
 ## How?
+
+### How do Setters set the Competition?
+
+Setters need to set a BetaWall.
+
+### How can Climbers train for this Competition?
 
 ## Why?
 

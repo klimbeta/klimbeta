@@ -9,7 +9,7 @@ MetaBetaComp has the most amusing name of all comps, but is the most complex of 
 Routesetters set a Route or Wall then climb it themselves or another team member climbs it.
 
 Each Team is given the same blank Wall, Volumes and Holds. 
-
+### Similar Competitions
 
 ## Who?
 
@@ -17,6 +17,10 @@ Each Team is given the same blank Wall, Volumes and Holds.
 ## Where?
 
 ## How?
+
+### How can Climbers train for this Competition?
+
+### How can Setters train for this Competition?
 
 ### Beta Scoring System
 

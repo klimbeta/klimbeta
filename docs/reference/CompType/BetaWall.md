@@ -5,7 +5,7 @@
 ## What?
 
 A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
-
+### Similar Competitions
 
 ## Who?
 
@@ -13,6 +13,10 @@ A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
 ## Where?
 
 ## How?
+
+### How do Setters set the Competition?
+
+### How can Climbers train for this Competition?
 
 ### Rules
 

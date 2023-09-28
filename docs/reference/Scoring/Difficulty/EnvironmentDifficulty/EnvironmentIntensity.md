@@ -1,4 +1,4 @@
-# Environment Intensity
+# 🔷🟩 Environment Intensity
 
 ## Definition
 

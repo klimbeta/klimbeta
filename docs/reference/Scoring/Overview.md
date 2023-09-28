@@ -1,3 +1,4 @@
-# Scoring
+# 🔷 BetaScore
 
 ![DifficultyScore](/DifficultyScoreTree.png)
+

@@ -1,4 +1,4 @@
-# Beta Difficulty Overview
+# 🔷🔷 Beta Difficulty Overview
 
 Beta Difficulty describes the total difficulty of a climber's performance.
 

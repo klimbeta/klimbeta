@@ -9,15 +9,25 @@ A route is chosen and climbers are scored on the moves and execution of the move
 Climbers are expected to be able to complete the route
 :::
 
+### Similar Competitions
+
 
 ## Who?
 
 
 ## Where?
 
+
+
 ## How?
 
+### How can Climbers train for this Competition?
+
+### How do Setters set the Competition?
+
+
 ### Beta Scoring System
+
 
 
 ## Why?
@@ -29,3 +39,5 @@ Climbers are expected to be able to complete the route
 ### Benefits for Coaches
 
 ### Benefit for Gyms 
+
+The walls don't need 

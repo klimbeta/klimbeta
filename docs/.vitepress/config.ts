@@ -155,10 +155,10 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🔷 Scoring',
+      text: '🔷 BetaScore',
       collapsed: true,
       items: [
-        { text: '🔷 Scoring Overview', link: '/reference/Scoring/Overview' },
+        { text: '🔷 BetaScore Overview', link: '/reference/Scoring/Overview' },
         {
           text: '🔷 Difficulty Score',
           collapsed: true,
@@ -211,10 +211,10 @@ function sidebarReference() {
           text: '🔷 Execution Score',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Execution/Overview' },
-            { text: '🟠 Move Execution', link: '/reference/Execution/MoveExecution' },
-            { text: '🔺 Route Execution', link: '/reference/Execution/RouteExecution' },            
-            { text: '🟩 Environment', link: '/reference/Execution/RouteExecution' },
+            { text: '🔷 Overview', link: '/reference/Scoring/Execution/Overview' },
+            { text: '🟠 Move Execution', link: '/reference/Scoring/Execution/MoveExecution' },
+            { text: '🔺 Route Execution', link: '/reference/Scoring/Execution/RouteExecution' },
+            { text: '🟩 Environment', link: '/reference/Scoring/Execution/EnvironmentExecution' },
 
           ]
         },
@@ -226,7 +226,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
-       
+
         {
           text: '🔷 Beta Action',
           collapsed: true,
@@ -411,7 +411,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Route?', link: '/reference/Route/RouteOverview' },
-       
+
         {
           text: '🔺 Route Surface',
           collapsed: true,
@@ -453,13 +453,60 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
-        
-        { text: '🟩 EnvironmentSurface', link: '/reference/Environment/EnvironmentSurface/Overview' },
-        { text: '🟩 EnvironmentSpace', link: '/reference/Environment/EnvironmentSpace/Overview' },
-        { text: '🟩 EnvironmentLine', link: '/reference/Environment/EnvironmentLine/Overview' },
-        { text: '🟩 FallProtection', link: '/reference/Environment/FallProtection' },
-        { text: '🟩 Wall', link: '/reference/Environment/Wall' },
-        { text: '🟩 Hold', link: '/reference/Environment/Hold' },
+        {
+          text: '🟩 EnvironmentSurface',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/EnvironmentSurface/Overview' },
+            { text: '🟩 Vegetation', link: '/reference/Environment/EnvironmentSurface/Vegetation' },
+          ]
+        },
+        {
+          text: '🟩 EnvironmentSpace',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/EnvironmentSpace/Overview' },
+            { text: '🟩 Atmosphere', link: '/reference/Environment/EnvironmentSpace/Atmosphere' },
+            { text: '🟩 Music', link: '/reference/Environment/EnvironmentSpace/Music' },
+            { text: '🟩 Spectator', link: '/reference/Environment/EnvironmentSpace/Spectator' },
+          ]
+        },
+        {
+          text: '🟩 EnvironmentLine',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/EnvironmentLine/Overview' },
+          ]
+        },
+        {
+          text: '🟩 FallProtection',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/FallProtection/Overview' },
+            { text: '🟩 Autobelay', link: '/reference/Environment/FallProtection/Autobelay' },
+            { text: '🟩 Belayer', link: '/reference/Environment/FallProtection/Belayer' },
+            { text: '🟩 Bolted', link: '/reference/Environment/FallProtection/Bolted' },
+            { text: '🟩 Matting', link: '/reference/Environment/FallProtection/Matting' },
+            { text: '🟩 Spotter', link: '/reference/Environment/FallProtection/Spotter' },
+            { text: '🟩 Top Rope', link: '/reference/Environment/FallProtection/TopRope' },
+          ]
+        },
+        {
+          text: '🟩 Wall',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/Wall/Overview' },
+            { text: '🟩 BetaWall', link: '/reference/Environment/Wall/BetaWall' },
+            { text: '🟩 CrackWall', link: '/reference/Environment/Wall/CrackWall' },
+          ]
+        },
+        {
+          text: '🟩 Hold',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/Hold/Overview' }
+          ]
+        },
         {
           text: '🟩🟩🟩 Environment Sequence',
           collapsed: true,
@@ -474,7 +521,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Neuro?', link: '/reference/Neuro/NeuroOverview' },
-        
+
         { text: '💜 Alignment', link: '/reference/Neuro/Alignment' },
         { text: '💜 Attention', link: '/reference/Neuro/Attention' },
         { text: '💜 Awareness', link: '/reference/Neuro/Awareness' },
@@ -496,7 +543,7 @@ function sidebarReference() {
             { text: '❔ What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
           ]
         },
-        
+
       ]
     },
 
@@ -594,24 +641,23 @@ function sidebarDevelopment() {
     { text: '👩‍💻 Coding', link: '/development/Coding' },
     { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
     { text: '📎 Downloads', link: '/development/Download' },
-    { text: '❔ Research Questions', link: '/development/ResearchQuestions' },    
+    { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
-   
+
 
 
   ]
 }
 
 function sidebarJudging() {
-return[
-  { text: 'Overview', link: '/judging/JudgingOverview' },
-  { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
-  { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
-  { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
-  { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
-  { text: 'How to train Judges', link: '/judging/HowTrainJudge' },
+  return [
+    { text: 'Overview', link: '/judging/JudgingOverview' },
+    { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
+    { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
+    { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
+    { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
+    { text: 'How to train Judges', link: '/judging/HowTrainJudge' },
 
-]
-
+  ]
 }
