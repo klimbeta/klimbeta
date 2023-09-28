@@ -1,3 +1,3 @@
 # 💜 Awareness
 
-<!-- @include: /../Neuro_Placeholder.md -->
+<!-- @include: /Neuro_Placeholder.md -->

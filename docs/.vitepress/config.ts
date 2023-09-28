@@ -225,13 +225,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
-        {
-          text: '🔷🔷🔷 Beta Sequence',
-          collapsed: true,
-          items: [
-            { text: '❔ What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
-          ]
-        },
+       
         {
           text: '🔷 Beta Action',
           collapsed: true,
@@ -250,6 +244,13 @@ function sidebarReference() {
             { text: '🔷 TestBeta', link: '/reference/Beta/BetaAction/TestBeta' },
           ]
         },
+        {
+          text: '🔷🔷🔷 Beta Sequence',
+          collapsed: true,
+          items: [
+            { text: '❔ What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
+          ]
+        },
       ]
     },
     {
@@ -257,13 +258,6 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Move?', link: '/reference/Move/MoveOverview' },
-        {
-          text: '🟠🟠🟠 Move Sequence',
-          collapsed: true,
-          items: [
-            { text: '❔ What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
-          ]
-        },
         {
           text: '🟠 BodyMove',
           collapsed: true,
@@ -392,7 +386,21 @@ function sidebarReference() {
           text: '🟠 ToolMove',
           collapsed: true,
           items: [
-            { text: '❔ What is ToolMove?', link: '/reference/Move/ToolMove/Overview' }
+            { text: '❔ What is ToolMove?', link: '/reference/Move/ToolMove/Overview' },
+            { text: '🟠 BoltMove', link: '/reference/Move/ToolMove/BoltMove' },
+            { text: '🟠 CarabinerMove', link: '/reference/Move/ToolMove/CarabinerMove' },
+            { text: '🟠 ChalkMove', link: '/reference/Move/ToolMove/ChalkMove' },
+            { text: '🟠 EtrierMove', link: '/reference/Move/ToolMove/EtrierMove' },
+            { text: '🟠 QuickdrawMove', link: '/reference/Move/ToolMove/QuickdrawMove' },
+            { text: '🟠 RopeMove', link: '/reference/Move/ToolMove/RopeMove' },
+            { text: '🟠 ShoeMove', link: '/reference/Move/ToolMove/ShoeMove' },
+          ]
+        },
+        {
+          text: '🟠🟠🟠 Move Sequence',
+          collapsed: true,
+          items: [
+            { text: '❔ What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
           ]
         },
       ]
@@ -402,13 +410,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Route?', link: '/reference/Route/RouteOverview' },
-        {
-          text: '🔺🔺🔺 Route Sequence',
-          collapsed: true,
-          items: [
-            { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
-          ]
-        },
+       
         {
           text: '🔺 Route Surface',
           collapsed: true,
@@ -436,6 +438,13 @@ function sidebarReference() {
             { text: '🔺 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine' },
           ]
         },
+        {
+          text: '🔺🔺🔺 Route Sequence',
+          collapsed: true,
+          items: [
+            { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
+          ]
+        },
       ]
     },
     {
@@ -443,6 +452,13 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
+        
+        { text: '🟩 EnvironmentSurface', link: '/reference/Environment/EnvironmentSurface/Overview' },
+        { text: '🟩 EnvironmentSpace', link: '/reference/Environment/EnvironmentSpace/Overview' },
+        { text: '🟩 EnvironmentLine', link: '/reference/Environment/EnvironmentLine/Overview' },
+        { text: '🟩 FallProtection', link: '/reference/Environment/FallProtection' },
+        { text: '🟩 Wall', link: '/reference/Environment/Wall' },
+        { text: '🟩 Hold', link: '/reference/Environment/Hold' },
         {
           text: '🟩🟩🟩 Environment Sequence',
           collapsed: true,
@@ -450,12 +466,6 @@ function sidebarReference() {
             { text: '❔ What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' },
           ]
         },
-        { text: '🟩 EnvironmentSurface', link: '/reference/Environment/EnvironmentSurface/Overview' },
-        { text: '🟩 EnvironmentSpace', link: '/reference/Environment/EnvironmentSpace/Overview' },
-        { text: '🟩 EnvironmentLine', link: '/reference/Environment/EnvironmentLine/Overview' },
-        { text: '🟩 FallProtection', link: '/reference/Environment/FallProtection' },
-        { text: '🟩 Wall', link: '/reference/Environment/Wall' },
-        { text: '🟩 Hold', link: '/reference/Environment/Hold' },
       ]
     },
     {
@@ -463,6 +473,21 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is Neuro?', link: '/reference/Neuro/NeuroOverview' },
+        
+        { text: '💜 Alignment', link: '/reference/Neuro/Alignment' },
+        { text: '💜 Attention', link: '/reference/Neuro/Attention' },
+        { text: '💜 Awareness', link: '/reference/Neuro/Awareness' },
+        { text: '💜 Counting', link: '/reference/Neuro/Counting' },
+        { text: '💜 Decision', link: '/reference/Neuro/Decision' },
+        { text: '💜 Energy', link: '/reference/Neuro/Energy' },
+        { text: '💜 Estimation', link: '/reference/Neuro/Estimation' },
+        { text: '💜 Event', link: '/reference/Neuro/Event' },
+        { text: '💜 Listening', link: '/reference/Neuro/Listening' },
+        { text: '💜 Memory', link: '/reference/Neuro/Memory' },
+        { text: '💜 Music', link: '/reference/Neuro/Music' },
+        { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception' },
+        { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception' },
+        { text: '💜 Time', link: '/reference/Neuro/Time' },
         {
           text: ' 💜 Neuro Sequence',
           collapsed: true,
@@ -470,6 +495,7 @@ function sidebarReference() {
             { text: '❔ What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
           ]
         },
+        
       ]
     },
 
