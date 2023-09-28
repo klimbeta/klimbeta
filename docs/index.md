@@ -20,7 +20,7 @@ hero:
       link: /judging/JudgingOverview    
     - theme: brand
       text: Develop
-      link: /Development/DevelopmentOverview
+      link: /development/DevelopmentOverview
     - theme: brand
       text: Test
       link: /tests/TestsOverview

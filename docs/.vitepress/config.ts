@@ -62,13 +62,13 @@ function nav() {
       link: 'development/DevelopmentOverview',
       activeMatch: '/development/'
     },
+    // {
+    //   text: 'About',
+    //   link: '/about/About',
+    //   activeMatch: '/about/'
+    // },
     {
-      text: 'About',
-      link: '/about/About',
-      activeMatch: '/about/'
-    },
-    {
-      text: 'Sponsors',
+      text: 'Sponsor',
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
@@ -409,9 +409,33 @@ function sidebarReference() {
             { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
           ]
         },
-        { text: '🔺 RouteSurface', link: '/reference/Route/RouteSurface/Overview' },
-        { text: '🔺 RouteSpace', link: '/reference/Route/RouteSpace/Overview' },
-        { text: '🔺 RouteLine', link: '/reference/Route/RouteLine/Overview' },
+        {
+          text: '🔺 Route Surface',
+          collapsed: true,
+          items: [
+            { text: '🔺 Overview', link: '/reference/Route/RouteSurface/Overview' },
+          ]
+        },
+        {
+          text: '🔺 Route Space',
+          collapsed: true,
+          items: [
+            { text: '🔺 Overview', link: '/reference/Route/RouteSpace/Overview' },
+          ]
+        },
+        {
+          text: '🔺 Route Line',
+          collapsed: true,
+          items: [
+            { text: '🔺 Overview', link: '/reference/Route/RouteLine/Overview' },
+            { text: '🔺 AroundLine', link: '/reference/Route/RouteLine/AroundLine' },
+            { text: '🔺 CircuitLine', link: '/reference/Route/RouteLine/CircuitLine' },
+            { text: '🔺 PerimeterLine', link: '/reference/Route/RouteLine/PerimeterLine' },
+            { text: '🔺 SpiralLine', link: '/reference/Route/RouteLine/SpiralLine' },
+            { text: '🔺 StaightLine', link: '/reference/Route/RouteLine/StaightLine' },
+            { text: '🔺 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine' },
+          ]
+        },
       ]
     },
     {
@@ -528,7 +552,7 @@ function sidebarTests() {
 
 function sidebarDevelopment() {
   return [
-    { text: 'Overview', link: '/development/Overview' },
+    { text: 'Overview', link: '/development/DevelopmentOverview' },
     {
       text: 'Mimic Other Sports',
       collapsed: true,
