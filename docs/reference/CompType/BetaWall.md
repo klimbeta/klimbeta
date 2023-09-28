@@ -2,16 +2,29 @@
 
 ![BetaCompTypes_04](/BetaCompTypes_04.png)
 
-## Definitions
+## What?
 
 A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
 
-## Rules
+
+## Who?
+
+
+## Where?
+
+## How?
+
+### Rules
 
 There is no fixed Route.
 
-## Benefit to Climbers
+### Beta Scoring System
 
+
+
+## Why?
+
+### Benefits for Climbers
 
 ::: tip Quote from The biggest Training Camp EVER?
 ![Garnbret](/SprayWall_00.png)
@@ -22,4 +35,12 @@ There is no fixed Route.
 ![Ondra](/Ondra_SprayWall.png)
 - https://www.youtube.com/watch?v=E1L0sMavGuo
 ::: 
+
+### Benefits for Routesetters
+
+### Benefits for Coaches
+
+### Benefit for Gyms 
+
+
 

@@ -150,7 +150,7 @@ function sidebarReference() {
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
         { text: '🔷 BetaDance', link: '/reference/CompType/BetaDance' },
-        { text: '🔷 Team BetaComp', link: '/reference/CompType/Team BetaComp' },
+        { text: '🔷 Team BetaComp', link: '/reference/CompType/TeamBetaComp' },
 
       ]
     },

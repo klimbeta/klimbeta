@@ -27,3 +27,14 @@
 ![BetaCompTypes_07](/BetaCompTypes_07.png)
 
 
+## What?
+
+## Who?
+
+## Where?
+
+## How?
+
+## Why?
+
+## When?

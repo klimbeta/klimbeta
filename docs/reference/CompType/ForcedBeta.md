@@ -2,8 +2,9 @@
 
 ![BetaCompTypes_06](/BetaCompTypes_06.png)
 
-What every routesetter dreams of.
+What routesetters dreams of.
 
+## What?
 Climbers are told the beta that they must perform  the moves and route they must take and are scored on the number of attempts it takes to complete the beta
 
 Similar to Route comps, beta can be flashed or take multiple attempts to perform the Beta.
@@ -11,3 +12,27 @@ Similar to Route comps, beta can be flashed or take multiple attempts to perform
 ::: warning
 Breaking Beta is not permitted! 
 :::
+
+
+## Who?
+
+
+## Where?
+
+## How?
+
+Forced beta starts with a demonstration of the ForcedBeta, which is then written recorded and displayed as reference off to the side of the competition stage.
+
+### Beta Scoring System
+
+## When?
+
+## Why?
+
+### Benefits for Climbers
+
+### Benefits for Routesetters
+
+### Benefits for Coaches
+
+### Benefit for Gyms 
