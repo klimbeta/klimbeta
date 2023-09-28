@@ -1,16 +1,14 @@
 # Development Overview
 
-## Coding
+## [👩‍💻 Coding](/development/Coding)
 
-Vitepress
+## [🔥 Devil's Advocate](/development/DevilsAdvocate)
 
-Vue.js
+## [📎 Downloads](/developement/Download)
 
-## Devil's Advocate
+## [❔ Research Questions](/developement/ResearchQuestions)
 
-## Downloads
+## [🔀 Roadmap](/developement/Roadmap)
 
-## Research Questions
-
-## ToDo
+## [☑ ToDo](/developement/ToDo)
 

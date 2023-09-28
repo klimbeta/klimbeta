@@ -581,7 +581,7 @@ function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/DevelopmentOverview' },
     {
-      text: 'Mimic Other Sports',
+      text: 'Copy Other Sports',
       collapsed: true,
       items: [
         { text: 'Overview', link: '/development/OtherSport/Overview' },
@@ -591,11 +591,13 @@ function sidebarDevelopment() {
         { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
       ]
     },
+    { text: '👩‍💻 Coding', link: '/development/Coding' },
     { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
     { text: '📎 Downloads', link: '/development/Download' },
+    { text: '❔ Research Questions', link: '/development/ResearchQuestions' },    
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
-    { text: 'Coding', link: '/development/Coding' },
+   
 
 
   ]

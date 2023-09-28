@@ -1,4 +1,4 @@
-# Devil's Advocate
+# 🔥 Devil's Advocate
 
 ![DevilsAdvocate](/DevilsAdvocate.png)
 

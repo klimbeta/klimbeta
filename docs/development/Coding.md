@@ -1,4 +1,4 @@
-# Coding
+# 👩‍💻 Coding
 
 BetaComp uses Vitepress and Vue.js to create this website. Both are open source projects, which means that they are free to use and are not controlled by a single business. 
 
