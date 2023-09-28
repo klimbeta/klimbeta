@@ -31,6 +31,7 @@ export default defineConfig({
       '/reference/': sidebarReference(),
       '/tests/': sidebarTests(),
       '/development/': sidebarDevelopment(),
+      '/judging/': sidebarJudging(),
     },
   }
 })
@@ -594,7 +595,21 @@ function sidebarDevelopment() {
     { text: '📎 Downloads', link: '/development/Download' },
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
+    { text: 'Coding', link: '/development/Coding' },
+
 
   ]
 }
 
+function sidebarJudging() {
+return[
+  { text: 'Overview', link: '/judging/JudgingOverview' },
+  { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
+  { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
+  { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
+  { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
+  { text: 'How to train Judges', link: '/judging/HowTrainJudge' },
+
+]
+
+}

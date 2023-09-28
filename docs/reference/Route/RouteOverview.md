@@ -18,6 +18,8 @@ The [Environment](/reference/Envrionment/EnvironmentOverview) is a novel concept
 > If a climber [FootSmears](/reference/Move/FootMove/FootSmear) beside a colored indoor hold, are they off route because they're not touching a colored hold?
 :::
 
+## What is a Route actually composed of?
+
 ### RouteSurface
 
 > A **RouteSurface** is any surface of the [Environment](/reference/Envrionment/EnvironmentOverview) which a climber contacts while performing a [Move](/reference/Move/MoveOverview).

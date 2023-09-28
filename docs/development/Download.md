@@ -1,9 +1,29 @@
 # Downloads
 
-![InsertImage] of Beta SetCircleDiagram
+## Reference Material
 
-![InsertImage] of Beta SetCircleDiagram me holding printed
+### Movement Hierarchy Tree Chart
 
-[Click here to download your copy]() 
+### Route Hierarchy Tree Chart
 
-![InsertImage] of Beta SetCircleDiagram posted on wall
+## Tests
+
+## Judging
+
+### Rulebooks
+
+### Scorecard
+
+### Beta Scoring Sheet
+
+
+## Templates
+
+### Beta Transcription Template
+
+### Route Diagram Template
+
+### Move Diagram Template
+
+### Move Card Template
+

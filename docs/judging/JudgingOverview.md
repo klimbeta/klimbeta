@@ -1,13 +1,16 @@
 # Judging
 
+This section is currently undeveloped since the rules for each BetaComp type must be created first.
+
+## How to become a Judge 
+
+## How to Recuit Judges
+
+the logisitcs of running a scoring a beta comp
+
+## Contingency Plans
+
+
+
 ## Scoring App
 
-The Scoring App will be created using Vue.js
-
-There is a view for each Comp Typ
-
-::: tip The view for BetaBattle will be similar to this scoring app for designed for [Breaking Battles](/development/OtherSport/Breaking)
-![BetaScoreApp](/BetaScoreApp.png)
-:::
-
-Buttons
