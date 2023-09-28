@@ -1,4 +1,4 @@
-# BetaDance
+# BetaDance Competition
 
 A BetaDance competition is not currently possible, but not impossible in the future. 
 

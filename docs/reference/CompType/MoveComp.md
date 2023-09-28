@@ -1,3 +1,3 @@
-# Move+ Comp
+# Move+ Competition
 
 ![MoveComp](/MoveComp.png)

@@ -1,4 +1,4 @@
-# BetaBattle
+# BetaBattle Competition
 
 ![BetaCompTypes_05](/BetaCompTypes_05.png)
 

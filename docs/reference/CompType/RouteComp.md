@@ -1,3 +1,3 @@
-# Route+ Comp
+# Route+ Competition
 
 ![BetaCompTypes_02](/BetaCompTypes_02.png)

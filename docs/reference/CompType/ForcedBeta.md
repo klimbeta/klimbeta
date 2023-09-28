@@ -1,4 +1,4 @@
-# Forced Beta
+# ForcedBeta Competition
 
 ![BetaCompTypes_06](/BetaCompTypes_06.png)
 
