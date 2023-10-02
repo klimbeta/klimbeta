@@ -3,10 +3,10 @@
 ![BetaCompTypes_02](/BetaCompTypes_02.png)
 
 ## What?
-A route is chosen and climbers are scored on the moves and execution of the moves that they can find then perform on the route
+A Route is chosen and Climbers are scored on the Moves and execution of the Moves that they can find then perform on the Route
 
 ::: warning
-Climbers are expected to be able to complete the route
+Climbers are expected to be able to complete the Route
 :::
 
 ### Similar Competitions

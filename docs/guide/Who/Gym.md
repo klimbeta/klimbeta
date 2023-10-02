@@ -10,7 +10,7 @@
 
 Increase Income
 - Competitions are more accessible.
-- Fun to watch even if you have no experience climbing.
+- Fun to watch even if you have no experience Climbing.
 
 
 Decrease Costs

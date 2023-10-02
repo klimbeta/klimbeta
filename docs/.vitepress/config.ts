@@ -16,7 +16,7 @@ export default defineConfig({
       { icon: 'instagram', link: 'https://www.instagram.com/klimbeta/' }
     ],
     footer: {
-      message: '',
+      message: '<a href="https://klimbeta.github.io/BetaComp/development/Contact">Contact</a>',
       copyright: 'Copyright BetaComp © 2023-present'
     },
     search: {
@@ -638,6 +638,14 @@ function sidebarTests() {
 function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/DevelopmentOverview' },
+    { text: '✉ Contact', link: '/development/Development/Contact' },
+    
+    { text: '👩‍💻 Coding', link: '/development/Coding' },
+    { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
+    { text: '📎 Downloads', link: '/development/Download' },
+    { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
+    { text: '🔷 Roadmap', link: '/development/Roadmap' },
+    { text: '☑ ToDo', link: '/development/ToDo' },
     {
       text: 'Copy Other Sports',
       collapsed: true,
@@ -649,26 +657,19 @@ function sidebarDevelopment() {
         { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
       ]
     },
-    { text: '👩‍💻 Coding', link: '/development/Coding' },
-    { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
-    { text: '📎 Downloads', link: '/development/Download' },
-    { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
-    { text: '🔷 Roadmap', link: '/development/Roadmap' },
-    { text: '☑ ToDo', link: '/development/ToDo' },
-
-
-
   ]
 }
 
 function sidebarJudging() {
   return [
     { text: 'Overview', link: '/judging/JudgingOverview' },
+    { text: 'Judging Process', link: '/judging/JudgingProcess' },
+    { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
+    { text: 'How to Educate Judges', link: '/judging/HowEducateJudge' },
+    { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
     { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
     { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
-    { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
-    { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
-    { text: 'How to train Judges', link: '/judging/HowTrainJudge' },
+
 
   ]
 }

@@ -4,7 +4,7 @@ Based on the **RICscale** which was developed by Tonde Katiyo and Jacky Godoffe,
 
 ![MyKeysToRoutesetting](/MyKeysToRoutesetting.png)
 
-The RICscale is used mostly by Routesetters to design and describe their routes. In a BetaComp the RICscale can be applied to Routes, Moves, and to the Wall itself. 
+The RICscale is used mostly by Routesetters to design and describe their Routes. In a BetaComp the RICscale can be applied to Routes, Moves, and to the Wall itself. 
 
 ![DifficultyScore](/DifficultyScoreTree.png)
 

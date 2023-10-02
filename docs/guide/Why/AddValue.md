@@ -16,10 +16,10 @@
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-- If climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
+- If Climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
 
 - Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
-- Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for climbing jobs.
+- Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for Climbing jobs.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Connects
@@ -28,7 +28,7 @@
 
 - Climbers can connect over shared Beta. 
 
-- BetaComp gives the climbing community another event where they can socialize and connect with other climbers.
+- BetaComp gives the Climbing community another event where they can socialize and connect with other Climbers.
 
 - BetaComp will be translated into many languages. 
 
@@ -40,7 +40,7 @@
 - BetaComp encourages innovation in the design of "System boards" like Kilterboard, Tension board, Moonboard, by 
 
 
-- Watching an elegant climber flowing around a SprayWall or up a route is aethetically beautiful.
+- Watching an elegant Climber flowing around a SprayWall or up a Route is aethetically beautiful.
 
 
 
@@ -64,9 +64,9 @@ FYI: There is a thing called Beta
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
 
-- Integrates Routesetting knowledge into mainstream climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
+- Integrates Routesetting knowledge into mainstream Climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
 
-- Integrates the techniques used while training on a SprayWall into the current way that climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
+- Integrates the techniques used while training on a SprayWall into the current way that Climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
 
 ![SprayWall](/SprayWall_00.png)
 
@@ -126,7 +126,7 @@ FYI: There is a thing called Beta
 
 ### Level of Fitness
 
-- A normal fitness person can climb with more elegance than the most physically fit climber. 
+- A normal fitness person can climb with more elegance than the most physically fit Climber. 
 
 - Paxi Usobiaga Quote about not having technique so he just relies on strength
 
@@ -145,7 +145,7 @@ Udini
 
 Advantages depending on Climber Height
 
-"morpho move"
+"morpho Move"
 Short Person Beta
 Tall Person Beta
 
@@ -158,7 +158,7 @@ Shared Project
 
 ## Quality
 
-A climbers ability is easier to **qualify** than to quantify. 
+A Climbers ability is easier to **qualify** than to quantify. 
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Anxiety
 
@@ -174,7 +174,7 @@ Being able to externalize the Beta of your project by putting on paper reduces A
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Risk
 
-- The ExecutionScore forces climbers to have optimal technique, including proper Scapular Control which decreases the conditions for shoulder injuries to occur.
+- The ExecutionScore forces Climbers to have optimal technique, including proper Scapular Control which decreases the conditions for shoulder injuries to occur.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Cost
@@ -189,7 +189,7 @@ BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it
 <!-- ---------------------------------------------------------------------------- -->
 ## Saves Time
 
-BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it takes to learn all of climbing's vocabulary about Moves and routesetting's vocabulary about Routes and Walls.
+BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it takes to learn all of Climbing's vocabulary about Moves and routesetting's vocabulary about Routes and Walls.
 
 
 
@@ -201,17 +201,17 @@ BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it
 <!-- ---------------------------------------------------------------------------- -->
 ## Self-Transcendence
 
-Climbers can discover new movements which will shared with the whole climbing community.
+Climbers can discover new movements which will shared with the whole Climbing community.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Sensory Appeal
 
-"That move **looked** really cool"
+"That Move **looked** really cool"
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Simplifies
 
-BetaComp simplifies climbing by breaking a climber's experience into their most simple elements.
+BetaComp simplifies Climbing by breaking a Climber's experience into their most simple elements.
 
 
 
@@ -224,7 +224,7 @@ BetaComp simplifies climbing by breaking a climber's experience into their most 
 <!-- ---------------------------------------------------------------------------- -->
 ## Variety
 
-Creativity Competitions increase the **variety** of movements by finding producing novel moves, routes, walls, and ways of thinking.
+Creativity Competitions increase the **variety** of movements by finding producing novel Moves, Routes, walls, and ways of thinking.
 
 
 
@@ -239,7 +239,7 @@ Creativity Competitions increase the **variety** of movements by finding produci
 -https://www.youtube.com/watch?v=XpkWNOSrLyo&ab_channel=LatticeTraining
 :::
 
-::: tip Udo Neumann talks about how focusing on Risk and Complexity instead of Intensity can reduce RED-S in climbing. 
+::: tip Udo Neumann talks about how focusing on Risk and Complexity instead of Intensity can reduce RED-S in Climbing. 
 ![Udini](/REDS_Udini.png)
 - https://www.youtube.com/watch?v=YrNZ11FhaEg
 :::

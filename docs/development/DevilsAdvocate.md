@@ -16,10 +16,10 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 :::
 
-## Where is the prove that understanding Beta will improve your climbing technique?
+## Where is the prove that understanding Beta will improve your Climbing technique?
 
 ::: danger Argument
-There is no proof that training for a competition which scores climbers on Difficulty and Execution will improve their climbing technique in general.
+There is no proof that training for a competition which scores Climbers on Difficulty and Execution will improve their Climbing technique in general.
 :::
 
 ::: tip Response
@@ -76,7 +76,7 @@ There are too many elements, concepts and scores.
 
 ::: danger Argument
 
-Climbing is totally different from Gymnastics, Freestyle Skiing, and Breakdancing, so they can't be used to create a BetaComp in climbing.
+Climbing is totally different from Gymnastics, Freestyle Skiing, and Breakdancing, so they can't be used to create a BetaComp in Climbing.
 
 
 :::

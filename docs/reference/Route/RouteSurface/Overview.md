@@ -4,13 +4,13 @@
 
 ### MonochromeRoute
 
-Each route uses only one color of hold.
+Each Route uses only one color of hold.
 
 ### PolychromeRoute
 
-It has only been in the last decade that indoor routes are set with holds which are all the same color.
+It has only been in the last decade that indoor Routes are set with holds which are all the same color.
 
-PolychromeRoutes are where you climb a route which uses more than one color of hold.
+PolychromeRoutes are where you climb a Route which uses more than one color of hold.
 
 PolychromeRoutes are popular in Japan.
 

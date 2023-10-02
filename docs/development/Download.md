@@ -20,6 +20,8 @@ Paper versions of Tests which can be printed out for use by Coaches during a coa
 
 A printable PDF of the Judging Guide.
 
+### Head Judge Checklist
+
 ### Rulebooks
 
 A printable PDF of the Elements in the Reference Section. The Elements have less detail than on BetaComp's website.

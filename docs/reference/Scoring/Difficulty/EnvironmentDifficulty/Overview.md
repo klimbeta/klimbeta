@@ -1,3 +1,3 @@
 # 🔷🟩 Environment Difficulty Overview
 
-The environment sets the base difficulty level.
+The Environment sets the base difficulty level.

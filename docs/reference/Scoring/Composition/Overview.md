@@ -23,7 +23,7 @@ Repetition decreases CompositionScore.
 
 Progression can be recognized at any level of competition since it does not rely on MoveIntensity.
 
-Naming new Elements after yourself is common practice in gymnastics, it is **not permitted**. Naming Elements after yourself hinders understanding of the new Element since it is not descriptive. Moreover naming Elements after people encourages having a big ego and ignores the fact that no innovation occurs in isolation. It is not fair to ignore the role of the climbing community in a climber's innovation. Having descriptive ElementNames is critical for the accessibilty of BetaComps.
+Naming new Elements after yourself is common practice in gymnastics, it is **not permitted**. Naming Elements after yourself hinders understanding of the new Element since it is not descriptive. Moreover naming Elements after people encourages having a big ego and ignores the fact that no innovation occurs in isolation. It is not fair to ignore the role of the Climbing community in a Climber's innovation. Having descriptive ElementNames is critical for the accessibilty of BetaComps.
 
 ![NothingIsOriginal](/NothingIsOriginal.jpg)
 

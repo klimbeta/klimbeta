@@ -6,7 +6,7 @@
 
 Basic Moves
 
-What are move errors and how to avoid them.
+What are Move errors and how to avoid them.
 - StraightArms
 - Scapula
 
@@ -14,7 +14,7 @@ What are move errors and how to avoid them.
 
 ![InsertDiagram]() Value Exchange between BetaComp and Gym
 
-- Understand the Physics of climbing
+- Understand the Physics of Climbing
 - Understand why you fell
 - Link Beta into BetaSequences
 
@@ -35,9 +35,9 @@ Microbeta
 
 Posture
 
-Marginal Gains for power endurance routes.
+Marginal Gains for power endurance Routes.
 
-### Well-rounded climber
+### Well-rounded Climber
 
 
 
@@ -45,5 +45,5 @@ Marginal Gains for power endurance routes.
 
 ### New Frontier
 
-Invent moves and sequences which have never been seen before! 
+Invent Moves and sequences which have never been seen before! 
 

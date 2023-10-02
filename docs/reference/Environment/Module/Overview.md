@@ -6,8 +6,7 @@ Volume, Feature, Box
 
 :::
 
-
-Geometric Forms fixed to Walls by screws.
+Geometric Forms fixed to [Walls](/reference/Environment/Wall/Overview) by screws.
 
 Holds can be fixed to the Modules. 
 

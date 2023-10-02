@@ -4,7 +4,7 @@
 
 Subjective Scores are used when two competitors displayed equal Objective Scores
 
-Subjective Scores are informed by personal experience, while inspecting the environment before the competition starts or merely personal preference.
+Subjective Scores are informed by personal experience, while inspecting the Environment before the competition starts or merely personal preference.
 
 ## Objective Move Execution Scores
 

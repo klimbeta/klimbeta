@@ -27,7 +27,7 @@ The ultimate goal is to have high quality interactive tests like the ones on htt
 
 ### List() Test
 
-Listing items tests a climbers ability to recall information.
+Listing items tests a Climbers ability to recall information.
 
 ### OrderBy() Test
 

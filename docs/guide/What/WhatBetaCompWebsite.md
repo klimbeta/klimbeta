@@ -55,3 +55,8 @@ Vue was chosen for BetaComp for a few reasons.
 - Vitepress itself is created with Vue.
 - Vue is an open source project which is in the same league as Google's [AngularJS](https://angularjs.org/) and Facebook's [React](https://react.dev/).
 - There is a large community of VueJs users, so there is lots of support when problems inevitably arise.
+
+
+## Multilingual
+
+Once BetaComp has enough resources, the BetaComp website will be translated into French, German, Spanish, Japanese, and Korean to serve countries with the largest Climber populations.
