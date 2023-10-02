@@ -19,7 +19,16 @@ Move Repetition
 
 - Repeating Movements decreases Move Composition Score.
 
+Multiple Move Directions
 
+A Move using each of the Climber's parts
+- HeadMove
+- ArmMove
+- SpineMove
+- LegMove
+- FootMove
+
+Climbers which only focus on their Hands and Arms lack Move Variety.
 
 ## Move Progression
 

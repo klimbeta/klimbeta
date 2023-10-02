@@ -82,15 +82,17 @@ function sidebarGuide() {
       text: 'What ❔',
       collapsed: true,
       items: [
-        { text: 'What is Beta?', link: '/guide/What/WhatBeta' },
-        { text: 'What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: '🔷 What is Beta?', link: '/guide/What/WhatBeta' },
+        { text: '🔷 What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
+        { text: '🔷 What is this BetaComp Website?', link: '/guide/What/WhatBetaCompWebsite' },
+        
       ]
     },
     {
       text: 'Why ❔',
       collapsed: true,
       items: [
-        { text: 'How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
+        { text: '❔ How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
 
       ]
     },

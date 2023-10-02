@@ -20,6 +20,9 @@ To minimize the Risk of Injury climbers **MUST** avoid these moves:
 
 ## Examples of Move Risk
 
+Risk of Dabbing
+
+
 ### Low Risk Move
 
 - Statically climbing on JugHold.

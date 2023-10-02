@@ -32,6 +32,8 @@
 
 - BetaComp will be translated into many languages. 
 
+![BernardShaw](/BernardShaw.jpg)
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Design and Aesthetics
 

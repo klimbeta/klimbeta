@@ -4,7 +4,7 @@
 
 ## [🔥 Devil's Advocate](/development/DevilsAdvocate)
 
-## [📎 Downloads](/developement/Download)
+## [📎 Downloads](/development/Download)
 
 ## [❔ Research Questions](/developement/ResearchQuestions)
 

@@ -9,7 +9,7 @@
 
 Objective
 
-Comparing Climber's performance to a previously established standard.
+Comparing Climber's performance to a previously established standard. Most of Artistic Gymnastics uses an Absolute Scoring System since they have had decades to decontruct each element into its most simple parts. Gymnastics Judges have assigned numerical values to each part of an element in their Table of Elements. Gymnasts are scored relative to their [Code Of Points](https://www.gymnastics.sport/publicdir/rules/files/en_%202022-2024%20MAG%20CoP.pdf)
 
 ## Relative Score
 
