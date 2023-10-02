@@ -44,3 +44,12 @@ The International Ski and Snowboard Federation (FIS) has created a document whic
 ::: details Download a Free PDF copy of the Handbook here 
 - https://assets.fis-ski.com/image/upload/v1540187845/fis-prod/Freestyle_Skiing_Judging_Handbook.pdf
 :::
+
+
+## Judging
+
+
+Silverthorne’s Steele Spence describes the life of a Winter Olympics judge
+- https://www.summitdaily.com/sports/silverthornes-steele-spence-describes-the-life-of-a-winter-olympics-judge/
+
+![StenoPaper_00](/StenoPaper_00.jpg)

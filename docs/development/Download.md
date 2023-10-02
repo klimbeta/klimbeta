@@ -14,7 +14,8 @@
 
 ### Scorecard
 
-### Beta Scoring Sheet
+### Beta  Steno Sheet
+![StenoPaper_00](/StenoPaper_00.jpg)
 
 
 ## Templates

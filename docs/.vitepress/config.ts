@@ -176,33 +176,33 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 Move Difficulty',
+              text: '🔷🟠 Move Difficulty',
               collapsed: true,
               items: [
-                { text: '🟠 Overview', link: '/reference/Scoring/Difficulty/MoveDifficulty/Overview' },
-                { text: '🟠 Move Risk', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveRisk' },
-                { text: '🟠 Move Intensity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveIntensity' },
-                { text: '🟠 Move Complexity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveComplexity' },
+                { text: '🔷🟠 Overview', link: '/reference/Scoring/Difficulty/MoveDifficulty/Overview' },
+                { text: '🔷🟠 Move Risk', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveRisk' },
+                { text: '🔷🟠 Move Intensity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveIntensity' },
+                { text: '🔷🟠 Move Complexity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveComplexity' },
               ]
             },
             {
-              text: '🔺 Route Difficulty',
+              text: '🔷🔺 Route Difficulty',
               collapsed: true,
               items: [
-                { text: '🔺 Overview', link: '/reference/Scoring/Difficulty/RouteDifficulty/Overview' },
-                { text: '🔺 Route Risk', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteRisk' },
-                { text: '🔺 Route Intensity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteIntensity' },
-                { text: '🔺 Route Complexity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteComplexity' },
+                { text: '🔷🔺 Overview', link: '/reference/Scoring/Difficulty/RouteDifficulty/Overview' },
+                { text: '🔷🔺 Route Risk', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteRisk' },
+                { text: '🔷🔺 Route Intensity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteIntensity' },
+                { text: '🔷🔺 Route Complexity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteComplexity' },
               ]
             },
             {
-              text: '🟩 Environment Difficulty',
+              text: '🔷🟩 Environment Difficulty',
               collapsed: true,
               items: [
-                { text: '🟩 Overview', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/Overview' },
-                { text: '🟩 Environment Risk', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
-                { text: '🟩 Environment Intensity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
-                { text: '🟩 Environment Complexity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
+                { text: '🔷🟩 Overview', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/Overview' },
+                { text: '🔷🟩 Environment Risk', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
+                { text: '🔷🟩 Environment Intensity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
+                { text: '🔷🟩 Environment Complexity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
               ]
             },
           ]
@@ -212,10 +212,19 @@ function sidebarReference() {
           collapsed: true,
           items: [
             { text: '🔷 Overview', link: '/reference/Scoring/Execution/Overview' },
-            { text: '🟠 Move Execution', link: '/reference/Scoring/Execution/MoveExecution' },
-            { text: '🔺 Route Execution', link: '/reference/Scoring/Execution/RouteExecution' },
-            { text: '🟩 Environment', link: '/reference/Scoring/Execution/EnvironmentExecution' },
+            { text: '🔷🟠 Move Execution', link: '/reference/Scoring/Execution/MoveExecution' },
+            { text: '🔷🔺 Route Execution', link: '/reference/Scoring/Execution/RouteExecution' },
+            { text: '🔷🟩 Environment Execution', link: '/reference/Scoring/Execution/EnvironmentExecution' },
 
+          ]
+        },
+        {
+          text: '🔷 Composition Score',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/reference/Scoring/Composition/Overview' },
+            { text: '🔷🟠 Move Composition', link: '/reference/Scoring/Composition/MoveComposition' },
+            { text: '🔷🔺 Route Composition', link: '/reference/Scoring/Composition/RouteComposition' },
           ]
         },
       ]
