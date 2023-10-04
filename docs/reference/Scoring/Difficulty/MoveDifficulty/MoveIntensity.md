@@ -2,7 +2,8 @@
 
 ## Definition
 
-
+- Amplitude for BetaDynoComp
+- MoveSize
 
 
 

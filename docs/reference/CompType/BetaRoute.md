@@ -1,4 +1,4 @@
-# Route+ Competition
+# BetaRoute Competition
 
 ![BetaCompTypes_02](/BetaCompTypes_02.png)
 
@@ -8,6 +8,10 @@ A Route is chosen and Climbers are scored on the Moves and execution of the Move
 ::: warning
 Climbers are expected to be able to complete the Route
 :::
+
+### BetaBoulder
+
+### BetaLead
 
 ### Similar Competitions
 

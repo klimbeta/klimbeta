@@ -35,4 +35,7 @@ Creativity is a subjective criteria which can apply to a creative Route Composit
 
 There will be lots of Progression in the first decade of BetaComps, but the rate of progression will eventually slow. A slowing rate of progression can be observed in Gymnastics, Skateboarding, Skiing, Snowboarding.
 
+
+Gymnastics is still adding new elements
+
 ## Sequence Structure

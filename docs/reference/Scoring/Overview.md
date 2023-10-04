@@ -17,9 +17,11 @@ Subjective
 
 ### Anchor and Compare
 
-Use	the	first significant performance as an	anchor to score other performances.
+- To Set a BaselineScore
 
-What makes a run significant?
+- Use	the	first significant performance as an	anchor to score other performances.
+
+- What makes a run significant?
 
 
 During a BetaBattle, the judges decide which competitor has better Beta. A Competitor's BetaScore is relative to their opponent's Beta.

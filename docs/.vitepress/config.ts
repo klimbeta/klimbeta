@@ -145,14 +145,14 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
-        { text: '🔷 Route+ Comp', link: '/reference/CompType/RouteComp' },
-        { text: '🔷 Move+ Comp', link: '/reference/CompType/MoveComp' },
+        { text: '🔷 BetaRoute', link: '/reference/CompType/BetaRoute' },
+        { text: '🔷 BetaMove', link: '/reference/CompType/BetaMove' },
         { text: '🔷 BetaWall', link: '/reference/CompType/BetaWall' },
         { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
         { text: '🔷 BetaDance', link: '/reference/CompType/BetaDance' },
-        { text: '🔷 Team BetaComp', link: '/reference/CompType/TeamBetaComp' },
+        { text: '🔷 TeamBeta', link: '/reference/CompType/TeamBeta' },
 
       ]
     },
@@ -652,9 +652,11 @@ function sidebarDevelopment() {
       items: [
         { text: 'Overview', link: '/development/OtherSport/Overview' },
         { text: 'Breaking', link: '/development/OtherSport/Breaking' },
+        { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
+        { text: 'Parkour', link: '/development/OtherSport/Parkour' },
         { text: 'Skiing', link: '/development/OtherSport/Skiing' },
         { text: 'Skateboarding', link: '/development/OtherSport/Skateboarding' },
-        { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
+      
       ]
     },
   ]
