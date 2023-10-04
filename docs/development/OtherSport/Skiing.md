@@ -1,5 +1,10 @@
 # Freestyle Skiing
 
+
+## What to Copy
+
+## What to Not Copy
+
 The International Ski and Snowboard Federation (FIS) has created a document which outlines how to judge their competitions.
 
 

@@ -7,7 +7,7 @@ import {
   ref,
   unref,
   watchEffect
-} from "./chunk-V634PGSD.js";
+} from "./chunk-DFO4XBXW.js";
 
 // node_modules/@vueuse/shared/index.mjs
 function tryOnScopeDispose(fn) {
@@ -168,4 +168,4 @@ export {
   unrefElement,
   useMediaQuery
 };
-//# sourceMappingURL=chunk-HOKU7ISI.js.map
+//# sourceMappingURL=chunk-UV7OT6CX.js.map

@@ -2,6 +2,13 @@
 
 BetaBattle is inspired by Breaking Battles.
 
+## What to Copy
+
+Separation between TopRock and DownRock.
+
+## What to Not Copy
+
+
 ## Analogies to BetaComp
 
 ![Breaking_01](/Breaking_01.png)

@@ -48,3 +48,13 @@
 ::: details Read about the History of the Code of Points
 - https://www.gymnastics-history.com/category/code-of-points/
 :::
+
+
+
+## What to Not Copy from Code Of Points
+
+### Abbreviations
+### Acronyms
+
+
+Acronyms are probably used to make the writting of the Code Of Points easier and to save space when printing. The BetaScore app has autocomplete, and size of webpages is virtually infinite.
