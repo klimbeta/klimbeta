@@ -1,4 +1,19 @@
-# Gymnastics Code of Points
+# Artistic Gymnastics
+
+## What to Copy
+
+- ForwardElements
+- Only the Highest 8 Difficulty Values
+
+## What to Not Copy from Code Of Points
+
+### Abbreviations
+
+### Acronyms
+
+## Code of Points
+
+Acronyms are probably used to make the writting of the Code Of Points easier and to save space when printing. The BetaScore app has autocomplete, and size of webpages is virtually infinite.
 
 ::: tip BetaComp shares the same Purposes as Gymnastics's Code of Points.
 ![Gymnastics CodeOfPoints](/Gymnastics_CodeOfPoints_00.png)
@@ -51,10 +66,3 @@
 
 
 
-## What to Not Copy from Code Of Points
-
-### Abbreviations
-### Acronyms
-
-
-Acronyms are probably used to make the writting of the Code Of Points easier and to save space when printing. The BetaScore app has autocomplete, and size of webpages is virtually infinite.

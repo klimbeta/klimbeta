@@ -665,10 +665,12 @@ function sidebarDevelopment() {
 function sidebarJudging() {
   return [
     { text: 'Overview', link: '/judging/JudgingOverview' },
-    { text: 'Judging Process', link: '/judging/JudgingProcess' },
     { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
     { text: 'How to Educate Judges', link: '/judging/HowEducateJudge' },
     { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
+    { text: 'How to Set Up Judging Area', link: '/judging/JudgingAreaSetUp' },
+    { text: 'Rules', link: '/judging/Rules' },
+    { text: 'Judging Process', link: '/judging/JudgingProcess' },
     { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
     { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
 

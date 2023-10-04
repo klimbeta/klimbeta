@@ -12,6 +12,8 @@ How can a competitor or coach appeal a score?
 
 - [Head Judge Checklist](/development/Download#head-judge-checklist)
 
+### [Judging Area Set Up](/judging/JudgingAreaSetUp)
+
 
 
 
