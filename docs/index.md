@@ -35,7 +35,7 @@ features:
     details: 
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 4, 2023
+    details: Last Updated on October 5, 2023
   - icon: 🧗‍♂️
     title: 
     details: 

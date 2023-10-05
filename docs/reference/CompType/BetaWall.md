@@ -4,7 +4,9 @@
 
 ## What?
 
-A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
+A BetaWall is SprayWall, Tensionboard, Moonboard.
+
+
 ### Similar Competitions
 
 ## Who?

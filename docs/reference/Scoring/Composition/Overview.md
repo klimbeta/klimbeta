@@ -8,6 +8,7 @@
 - MetaBetaComp
 - BetaDance
 
+Competitions with a fixed Route, like BetaRoute competitions, don't have a CompositionScore since there the route greatly limits the range of possible movements. 
 
 ## Variety
 
@@ -39,3 +40,9 @@ There will be lots of Progression in the first decade of BetaComps, but the rate
 Gymnastics is still adding new elements
 
 ## Sequence Structure
+
+Start
+
+
+
+Finish

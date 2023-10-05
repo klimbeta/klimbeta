@@ -7,13 +7,16 @@
 
 ## What to Not Copy from Code Of Points
 
-### Abbreviations
+Abbreviations
 
-### Acronyms
+
+Acronyms
+- Acronyms are probably used to make the writing of the Code Of Points easier and to save space when printing. The BetaScore app has autocomplete, and size of webpages is virtually infinite. 
+- Acronyms reduce the accessiblity of any document since the acronyms rarely translate to other languages, so non english speakers will have a more difficult time learning BetaComp's information.
 
 ## Code of Points
 
-Acronyms are probably used to make the writting of the Code Of Points easier and to save space when printing. The BetaScore app has autocomplete, and size of webpages is virtually infinite.
+
 
 ::: tip BetaComp shares the same Purposes as Gymnastics's Code of Points.
 ![Gymnastics CodeOfPoints](/Gymnastics_CodeOfPoints_00.png)

@@ -40,14 +40,7 @@ BetaComp defines Beta as a system composed of four subsystems: [Environment](/re
 
 ---
 
-![Environment_02](/Environment_02.png)
 
-
-<!-- ![InsertImage]() of ArtificialWall
-
-![InsertImage]() of ClimbingHold
-
-![InsertImage]() of Cloud -->
 
 :::
 
