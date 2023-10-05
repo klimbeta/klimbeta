@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "BetaComp",
-  description: "Climbing's new Olympic Game",
+  description: "The Development of a New Climbing Olympic Event",
   base: '/BetaComp/',
   ignoreDeadLinks: true,
   lastUpdated: true,
