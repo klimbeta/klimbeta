@@ -13,7 +13,7 @@ The Moves that a Climber must execute is [fixed](/reference/Glossary/Glossary#fi
 
 ## Where?
 
-## How to Implement a BetaMove Competition?
+## Implementation
 
 ### How can Climbers train for this Competition?
 

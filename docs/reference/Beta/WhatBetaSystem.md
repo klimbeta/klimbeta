@@ -16,15 +16,23 @@ BetaComp defines Beta as a system composed of four subsystems: [Environment](/re
 
 ![BetaVennDiagram](/BetaVenn.png) 
 
+## What is a System?
+
+All languages are a system.
+
+### Examples of Systems
+
+
+## BetaElements
+
+Chunk which is Scored.
+
+Like Gymnastics Element, Skateboard Trick, Snowboard Trick, Dance Phrase,  
+
+![InsertImage] of Gymnastics ElementTable
+
 ::: tip Examples of the Environmental aspects of Beta
 ![Environment](/Environment.png)
-
----
-
-![Environment_01](/Environment_01.png)
-
----
-
 
 :::
 
@@ -67,19 +75,5 @@ The [Environment](/reference/Envrionment/EnvironmentOverview) is a novel concept
 :::
 
 
-## What is a System?
 
-All languages are a system.
-
-### Examples of Systems
-
-## What is a BetaElement?
-
-
-
-Chunk which is Scored.
-
-Like Gymnastics Element, Skateboard Trick, Snowboard Trick, Dance Phrase,  
-
-![InsertImage] of Gymnastics ElementTable
 

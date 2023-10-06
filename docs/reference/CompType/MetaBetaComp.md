@@ -16,7 +16,7 @@ Each Team is given the same blank Wall, Volumes and Holds.
 
 ## Where?
 
-## How to Implement a MetaBetaComp?
+## Implementation
 
 ### How can Climbers train for this Competition?
 

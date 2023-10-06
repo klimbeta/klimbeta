@@ -15,7 +15,7 @@
 
 ## Where?
 
-## How to Implement a TeamBetaComp?
+## Implementation
 
 ### How can Climbers train for this Competition?
 

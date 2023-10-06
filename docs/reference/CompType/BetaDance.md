@@ -37,7 +37,7 @@ Like in Breaking, Climbers will be judged on their Musicality.
 
 ## Where?
 
-## How to Implement a BetaDance Competition?
+## Implementation
 
 ### How do Setters set the Competition?
 

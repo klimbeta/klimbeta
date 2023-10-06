@@ -17,7 +17,7 @@ A BetaWall is SprayWall, Tensionboard, Moonboard.
 
 ## Where?
 
-## How to Implement a BetaWall Competition?
+## Implementation
 
 ### How do Setters set the Competition?
 

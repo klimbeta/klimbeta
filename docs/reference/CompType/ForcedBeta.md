@@ -19,7 +19,7 @@ Breaking Beta is not permitted!
 
 ## Where?
 
-## How to Implement a ForcedBeta Competition?
+## Implementation
 
 Forced Beta starts with a demonstration of the ForcedBeta, which is then written recorded and displayed as reference off to the side of the competition stage.
 

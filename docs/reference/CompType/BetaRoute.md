@@ -26,11 +26,14 @@ ForcedBeta
 
 
 
-## How to Implement a BetaRoute Competition?
+## Implementation
 
-1. Set A Route
+- Set a Route
+- 
 
 ### How can Climbers train for this Competition?
+
+Climbers need to familarize themselves with the [BetaElements](/reference/Beta/WhatBetaSystem#BetaElements) in the Reference Section ReferenceOverview
 
 ### How do Setters set the Competition?
 
