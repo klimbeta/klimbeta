@@ -8,10 +8,6 @@
 
 ---
 
-![MoveComp](/MoveComp.png)
-
----
-
 ![BetaCompTypes_04](/BetaCompTypes_04.png)
 
 ---
