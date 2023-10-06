@@ -145,13 +145,13 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
-        { text: '🔷 BetaRoute', link: '/reference/CompType/BetaRoute' },
-        { text: '🔷 BetaMove', link: '/reference/CompType/BetaMove' },
-        { text: '🔷 BetaWall', link: '/reference/CompType/BetaWall' },
+        { text: '🔺 BetaRoute', link: '/reference/CompType/BetaRoute' },
+        { text: '🟠 BetaMove', link: '/reference/CompType/BetaMove' },
+        { text: '🟩 BetaWall', link: '/reference/CompType/BetaWall' },
         { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
         { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
-        { text: '🔷 BetaDance', link: '/reference/CompType/BetaDance' },
+        { text: '🎵 BetaDance', link: '/reference/CompType/BetaDance' },
         { text: '🔷 TeamBeta', link: '/reference/CompType/TeamBeta' },
 
       ]
@@ -656,6 +656,7 @@ function sidebarDevelopment() {
         { text: 'Parkour', link: '/development/OtherSport/Parkour' },
         { text: 'Skiing', link: '/development/OtherSport/Skiing' },
         { text: 'Skateboarding', link: '/development/OtherSport/Skateboarding' },
+        { text: 'Trampoline', link: '/development/OtherSport/Trampoline' },
       
       ]
     },
@@ -664,15 +665,15 @@ function sidebarDevelopment() {
 
 function sidebarJudging() {
   return [
-    { text: 'Overview', link: '/judging/JudgingOverview' },
-    { text: 'How to Become a Judge', link: '/judging/HowBecomeJudge' },
-    { text: 'How to Educate Judges', link: '/judging/HowEducateJudge' },
-    { text: 'How to Recruit Judges', link: '/judging/HowRecruitJudge' },
-    { text: 'How to Set Up Judging Area', link: '/judging/JudgingAreaSetUp' },
-    { text: 'Rules', link: '/judging/Rules' },
-    { text: 'Judging Process', link: '/judging/JudgingProcess' },
-    { text: 'Beta Scoring App', link: '/judging/BetaScoreApp' },
-    { text: 'Contingency Plans', link: '/judging/ContingencyPlans' },
+    { text: '⚖ Overview', link: '/judging/JudgingOverview' },
+    { text: '⚖ Become a Judge', link: '/judging/HowBecomeJudge' },
+    { text: '⚖ Educate Judges', link: '/judging/HowEducateJudge' },
+    { text: '⚖ Recruit Judges', link: '/judging/HowRecruitJudge' },
+    { text: '⚖ Set Up Judging Area', link: '/judging/JudgingAreaSetUp' },
+    { text: '⚖ Rules', link: '/judging/Rules' },
+    { text: '⚖ Judging Process', link: '/judging/JudgingProcess' },
+    { text: '⚖ Beta Scoring App', link: '/judging/BetaScoreApp' },
+    { text: '⚖ Contingency Plans', link: '/judging/ContingencyPlans' },
 
 
   ]

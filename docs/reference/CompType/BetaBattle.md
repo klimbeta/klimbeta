@@ -19,7 +19,7 @@ Basketball H.O.R.S.E.
 
 
 
-## How?
+## How to Implement a BetaBattle Competition?
 
 ### How do Setters set the Competition?
 

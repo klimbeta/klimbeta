@@ -1,3 +1,3 @@
-# Recruit Judges
+# ⚖ Recruit Judges
 
 ## Who recruits Judges?

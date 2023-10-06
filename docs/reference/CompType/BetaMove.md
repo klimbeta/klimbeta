@@ -1,16 +1,19 @@
-# Move+ Competition
+# BetaMove Competition
 
-![MoveComp](/MoveComp.png)
+
 
 ## What?
-### Similar Competitions
+
+The Moves that a Climber must execute is [fixed](/reference/Glossary/Glossary#fixed), while the Route is chosen by the Climber in a [fixed](/reference/Glossary/Glossary#fixed) Environment.  
+
+### Similar BetaComp Competitions
 
 ## Who?
 
 
 ## Where?
 
-## How?
+## How to Implement a BetaMove Competition?
 
 ### How can Climbers train for this Competition?
 

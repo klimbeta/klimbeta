@@ -1,8 +1,9 @@
 # BetaRoute Competition
 
-![BetaCompTypes_02](/BetaCompTypes_02.png)
-
 ## What?
+
+Both the [Route](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary/Glossary#fixed).
+
 A Route is chosen and Climbers are scored on the Moves and execution of the Moves that they can find then perform on the Route
 
 ::: warning
@@ -13,7 +14,9 @@ Climbers are expected to be able to complete the Route
 
 ### BetaLead
 
-### Similar Competitions
+### Similar BetaComp Competitions
+
+ForcedBeta
 
 
 ## Who?
@@ -23,7 +26,9 @@ Climbers are expected to be able to complete the Route
 
 
 
-## How?
+## How to Implement a BetaRoute Competition?
+
+1. Set A Route
 
 ### How can Climbers train for this Competition?
 

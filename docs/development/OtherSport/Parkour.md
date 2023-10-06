@@ -9,54 +9,54 @@
 
 ### Page_01
 
-![Parkour_01](/Parkour_01.png)
+![Parkour_01](/Parkour/Parkour_01.png)
 
 ---
 
 ### Page_02
 
-![Parkour_02](/Parkour_02.png)
+![Parkour_02](/Parkour/Parkour_02.png)
 
 ---
 
 ### Page_03
 
-![Parkour_03](/Parkour_03.png)
+![Parkour_03](/Parkour/Parkour_03.png)
 
 ---
 
 ### Page_04
 
-![Parkour_04](/Parkour_04.png)
+![Parkour_04](/Parkour/Parkour_04.png)
 
 ---
 
 ### Page_05
 
-![Parkour_05](/Parkour_05.png)
+![Parkour_05](/Parkour/Parkour_05.png)
 
 ---
 
 ### Page_06
 
-![Parkour_06](/Parkour_06.png)
+![Parkour_06](/Parkour/Parkour_06.png)
 
 ---
 
 ### Page_07
 
-![Parkour_07](/Parkour_07.png)
+![Parkour_07](/Parkour/Parkour_07.png)
 
 ---
 
 ### Page_08
 
-![Parkour_08](/Parkour_08.png)
+![Parkour_08](/Parkour/Parkour_08.png)
 
 ---
 
 ### Page_09
 
-![Parkour_09](/Parkour_09.png)
+![Parkour_09](/Parkour/Parkour_09.png)
 
 ---

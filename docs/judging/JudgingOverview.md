@@ -1,4 +1,4 @@
-# Judging Overview
+# ⚖ Judging Overview
 
 This section is currently undeveloped since the rules for each BetaComp type must be created first.
 

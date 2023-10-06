@@ -1,4 +1,4 @@
-# Judge Education
+# ⚖ Judges Education
 
 ## Judge Education in Other Sports
 

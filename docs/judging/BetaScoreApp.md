@@ -1,4 +1,4 @@
-# Beta Scoring App
+# ⚖ Beta Scoring App
 
 Used for all BetaComp Competition Types
 

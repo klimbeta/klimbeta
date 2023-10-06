@@ -1,4 +1,4 @@
-## Judging Area Set Up
+## ⚖ Judging Area Set Up
 
 ## Judging Supplies and Materials
 

@@ -1,4 +1,4 @@
-# Judging Process
+# ⚖ Judging Process
 
 ## Head Judge
 

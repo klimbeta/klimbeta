@@ -1,3 +1,3 @@
-# Rules
+# ⚖ Rules
 
 ## Dress Code

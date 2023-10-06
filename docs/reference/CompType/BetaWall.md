@@ -4,6 +4,9 @@
 
 ## What?
 
+Only the Environment is [fixed](/reference/Glossary/Glossary#fixed)
+
+
 A BetaWall is SprayWall, Tensionboard, Moonboard.
 
 
@@ -14,7 +17,7 @@ A BetaWall is SprayWall, Tensionboard, Moonboard.
 
 ## Where?
 
-## How?
+## How to Implement a BetaWall Competition?
 
 ### How do Setters set the Competition?
 

@@ -1,4 +1,4 @@
-# Become a Judge
+# ⚖ Become a Judge
 
 ## Minimum Requirements
 
