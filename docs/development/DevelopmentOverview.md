@@ -10,6 +10,8 @@
 
 ## [❔ Research Questions](/developement/ResearchQuestions)
 
+## [🕸 ElementRelationship Diagram](/development/ElementRelationshipDiagram)
+
 ## [🔀 Roadmap](/developement/Roadmap)
 
 ## [☑ ToDo](/developement/ToDo)
