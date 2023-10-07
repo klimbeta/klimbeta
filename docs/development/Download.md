@@ -57,3 +57,31 @@ Use the Environment Card Template to design a Environment Card which can be subm
 ### Route Card Template
 
 Use the Route Card Template to design a Route Card which can be submitted to BetaComp for publishing in the Reference Section.
+
+
+## Marketing
+
+
+
+### Poster
+
+Good for Small Competitions and could be saved on a non climbing wall in the gym, like in Hockey Arenas. Memory. Community. Collective Memory
+
+- Fill in The Blanks
+- Explanation of Beta
+
+::: tip BetaRoute Poster
+![ImagePlaceholder](/ImagePlaceholder.png)
+- Download link
+:::
+
+::: tip BetaWall Poster
+![ImagePlaceholder](/ImagePlaceholder.png)
+- Download link
+:::
+
+
+::: tip ForcedBeta Poster
+![ImagePlaceholder](/ImagePlaceholder.png)
+- Download link
+:::

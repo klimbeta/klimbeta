@@ -1,18 +1,12 @@
 # Competition Types
 
-## [BetaRoute Competition](/reference/CompType/BetaRoute)
+## [🔺 BetaRoute Competition](/reference/CompType/BetaRoute)
 ![ImagePlaceholder](/ImagePlaceholder.png)
 ### [How to Implement a BetaRoute Competition](/reference/CompType/BetaRoute#implementation)
 
 ---
 
-## [BetaMove Competition](/reference/CompType/BetaMove)
-![ImagePlaceholder](/ImagePlaceholder.png)
-### [How to Implement a BetaMove Competition](/reference/CompType/BetaMove#implementation)
-
----
-
-## [BetaWall Competition](/reference/CompType/BetaWall)
+## [🟩 BetaWall Competition](/reference/CompType/BetaWall)
 ![ImagePlaceholder](/ImagePlaceholder.png)
 ### [How to Implement a BetaWall Competition](/reference/CompType/BetaWall#implementation)
 
@@ -42,7 +36,7 @@
 
 ---
 
-## [BetaDance Competition](/reference/CompType/BetaDance)
+## [🎵 BetaDance Competition](/reference/CompType/BetaDance)
 ![ImagePlaceholder](/ImagePlaceholder.png)
 ### [How to Implement a BetaDance Competition](/reference/CompType/BetaDance#implementation)
 

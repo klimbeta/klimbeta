@@ -6,8 +6,8 @@ hero:
   name: "🔷 BetaComp 🔷"
   tagline: The Development of a New Climbing Olympic Event
   image:
-    src: /OlympicRings.png
-    alt: Olympic Rings
+    src: /BetaVenn.png
+    alt: BetaVenn
   actions:
     - theme: brand
       text: Get Started

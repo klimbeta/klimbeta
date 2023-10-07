@@ -43,8 +43,9 @@ Climbers are
 
 ## Implementation
 
+- 
 - Get required Judges.
-- Advertise Competition on Social Media
+- Advertise Competition on Social Media and Poster
 
 - Set a Route
 - Print all Scoring Sheets

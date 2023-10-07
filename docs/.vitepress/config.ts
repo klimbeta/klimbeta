@@ -146,7 +146,6 @@ function sidebarReference() {
       items: [
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
         { text: '🔺 BetaRoute', link: '/reference/CompType/BetaRoute' },
-        { text: '🟠 BetaMove', link: '/reference/CompType/BetaMove' },
         { text: '🟩 BetaWall', link: '/reference/CompType/BetaWall' },
         { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
@@ -237,6 +236,7 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
+        { text: '💬 Beta Example', link: '/reference/Beta/BetaExamples' },
 
         {
           text: '🔷 Beta Action',
@@ -547,8 +547,9 @@ function sidebarReference() {
         { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception' },
         { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception' },
         { text: '💜 Time', link: '/reference/Neuro/Time' },
+        { text: '💜 Vision', link: '/reference/Neuro/Vision' },
         {
-          text: ' 💜 Neuro Sequence',
+          text: ' 💜💜💜 Neuro Sequence',
           collapsed: true,
           items: [
             { text: '❔ What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
@@ -639,11 +640,11 @@ function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/DevelopmentOverview' },
     { text: '✉ Contact', link: '/development/Development/Contact' },
-    
     { text: '👩‍💻 Coding', link: '/development/Coding' },
     { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
     { text: '📎 Downloads', link: '/development/Download' },
     { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
+    { text: '🕸 Element Relationship Diagram', link: '/development/ElementRelationshipDiagram' },
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
     {
