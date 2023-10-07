@@ -15,7 +15,7 @@ Click on a Section to go to its Overview.
 
 ## [🔷 Scoring System 🔷![BetaScore](/DifficultyScoreTree.png)](/reference/Scoring/Overview)
 
-## [🔷 Beta System 🔷 ![BetaVenn](/BetaVenn.png)](/reference/Beta/BetaOverview)
+## [🔷 Beta System 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 
 ## [🟠 Move 🟠 ![Move](/Move.png)](/reference/Move/MoveOverview)
 

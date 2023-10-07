@@ -14,7 +14,7 @@ Although the BetaSystem is useful for all types of Climbing, Climbers don't need
 
 BetaComp defines Beta as a system composed of four subsystems: [Environment](/reference/Environment/EnvironmentOverview), [Move](/reference/Move/MoveOverview), [Route](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
-![BetaVennDiagram](/BetaVenn.png) 
+![BetaSetDiagram](/BetaSetDiagram.png) 
 
 ## What is a System?
 

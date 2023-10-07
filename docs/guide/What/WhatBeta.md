@@ -29,7 +29,7 @@ Office québécois de la langue française
 
 BetaComp defines Beta as a system composed of four subsystems: [Environment](/reference/Environment/EnvironmentOverview), [Move](/reference/Move/MoveOverview), [Route](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
-![BetaVennDiagram](/BetaVenn.png) 
+![BetaSetDiagram](/BetaSetDiagram.png) 
 
 ::: tip Examples of the Environmental aspects of Beta
 ![Environment](/Environment.png)
