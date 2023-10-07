@@ -73,6 +73,10 @@ function nav() {
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
+        {
+      text: '🌲 Plantbeta',
+      link: 'https://klimbeta.github.io/plantbeta/',
+    },
   ]
 }
 
