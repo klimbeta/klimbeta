@@ -12,7 +12,7 @@ export default defineConfig({
     outline: [2, 3],
     logo: '/blue-diamond-48.png',
     socialLinks: [
-      { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
       { icon: 'instagram', link: 'https://www.instagram.com/klimbeta/' }
     ],
     footer: {

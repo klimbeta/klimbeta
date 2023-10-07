@@ -1,25 +1,26 @@
 # Reference Overview
 
-Use the Reference section to learn all the Beta Elements. 
+Use the Reference section to learn all the [Beta Elements](/reference/Beta/WhatBetaSystem#beta-elements). 
 
 The reference is section is useful even if you're not trying to compete.
 
 ::: tip 
 
-Click on a Section Title to view an Overview of the Section.
+Click on a Section to go to its Overview.
 
 :::
 
-## [🔷 Competition Types 🔷](/reference/CompType/Overview)
 
-## [🔷 Scoring System 🔷](/reference/Scoring/Overview)
+## [🔷 Competition Types 🔷 ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/Overview)
 
-## [🔷 Beta System 🔷](/reference/Beta/BetaOverview)
+## [🔷 Scoring System 🔷![BetaScore](/DifficultyScoreTree.png)](/reference/Scoring/Overview)
 
-## [🟠 Move 🟠](/reference/Move/MoveOverview)
+## [🔷 Beta System 🔷 ![BetaVenn](/BetaVenn.png)](/reference/Beta/BetaOverview)
 
-## [🔺 Route 🔺](/reference/Route/RouteOverview)
+## [🟠 Move 🟠 ![Move](/Move.png)](/reference/Move/MoveOverview)
 
-## [🟩 Environment 🟩](/reference/Environment/EnvironmentOverview)
+## [🔺 Route 🔺 ![Route](/Route.png)](/reference/Route/RouteOverview)
 
-## [💜 Neuro 💜](/reference/Neuro/NeuroOverview)
+## [🟩 Environment 🟩 ![Environment](/Environment.png)](/reference/Environment/EnvironmentOverview)
+
+## [💜 Neuro 💜 ![Neuro](/Neuro.png)](/reference/Neuro/NeuroOverview)

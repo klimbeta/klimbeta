@@ -12,15 +12,18 @@
 
 ---
 
+
+## [🔷 ForcedBeta Competition](/reference/CompType/ForcedBeta)
+![ImagePlaceholder](/ImagePlaceholder.png)
+### [How to Implement a ForcedBeta Competition](/reference/CompType/ForcedBeta#implementation)
+
+---
+
 ## [BetaBattle Competition](/reference/CompType/BetaBattle)
 ![ImagePlaceholder](/ImagePlaceholder.png)
 ### [How to Implement a BetaBattle Competition](/reference/CompType/BetaBattle#implementation)
 
----
 
-## [ForcedBeta Competition](/reference/CompType/ForcedBeta)
-![ImagePlaceholder](/ImagePlaceholder.png)
-### [How to Implement a ForcedBeta Competition](/reference/CompType/ForcedBeta#implementation)
 
 ---
 

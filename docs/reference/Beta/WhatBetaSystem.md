@@ -23,7 +23,7 @@ All languages are a system.
 ### Examples of Systems
 
 
-## BetaElements
+## Beta Elements
 
 Chunk which is Scored.
 
