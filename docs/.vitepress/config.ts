@@ -63,11 +63,6 @@ function nav() {
       link: 'development/DevelopmentOverview',
       activeMatch: '/development/'
     },
-    // {
-    //   text: 'About',
-    //   link: '/about/About',
-    //   activeMatch: '/about/'
-    // },
     {
       text: 'Sponsor',
       link: '/sponsor/Sponsor',
@@ -89,8 +84,6 @@ function sidebarGuide() {
         { text: '🔷 What is Beta?', link: '/guide/What/WhatBeta' },
         { text: '🔷 What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
         { text: '🔷 What is difference from current Olympic Climbing Events?', link: '/guide/What/OtherOlympicClimbing' },
-        
-
         { text: '🔷 What is this BetaComp Website?', link: '/guide/What/WhatBetaCompWebsite' },
 
       ]
@@ -569,6 +562,7 @@ function sidebarReference() {
         { text: '💜 Memory', link: '/reference/Neuro/Memory' },
         { text: '💜 Music', link: '/reference/Neuro/Music' },
         { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception' },
+        { text: '💜 Spatial Reasoning', link: '/reference/Neuro/SpatialReasoning' },
         { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception' },
         { text: '💜 Time', link: '/reference/Neuro/Time' },
         { text: '💜 Vision', link: '/reference/Neuro/Vision' },
@@ -663,6 +657,7 @@ function sidebarTests() {
 function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/DevelopmentOverview' },
+    { text: 'About', link: '/development/About' },
     { text: '✉ Contact', link: '/development/Contact' },
     { text: '👩‍💻 Coding', link: '/development/Coding' },
     { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
