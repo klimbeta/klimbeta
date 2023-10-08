@@ -1,12 +1,12 @@
 # Development Overview
 
-## [⛷ 🏂 🏄‍♀️🤸‍♀️ 🛹 🕺 Copying other Sports](/development/OtherSport/Overview)
+## [🔁 Copying other Sports](/development/OtherSport/Overview)
 
 ## [👩‍💻 Coding](/development/Coding)
 
 ## [🔥 Devil's Advocate](/development/DevilsAdvocate)
 
-## [📎 Downloads](/development/Download)
+## [📎 Downloads](/development/Downloads)
 
 ## [❔ Research Questions](/developement/ResearchQuestions)
 

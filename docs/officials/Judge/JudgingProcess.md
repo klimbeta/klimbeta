@@ -1,7 +1,8 @@
 # ⚖ Judging Process
 
-## Head Judge
+## Judge Panel
 
+## Head Judge
 
 No scores can be released as official until validated by the Head Judge. 
 
@@ -10,7 +11,7 @@ How can a competitor or coach appeal a score?
 
 ## Competition Set Up
 
-- [Head Judge Checklist](/development/Download#head-judge-checklist)
+- [Head Judge Checklist](/development/Downloads#head-judge-checklist)
 
 ### [Judging Area Set Up](/judging/JudgingAreaSetUp)
 

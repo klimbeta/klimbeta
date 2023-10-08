@@ -1,7 +1,11 @@
-# How BetaComp Adds Value to the Climbing Community
+# How BetaComp Provides Value to the Climbing Community
 
 ![ValuePyramid](/ValuePyramid.png)
 
+
+BetaComp **provides** Value to participants.
+
+How participants **derive** Value from BetaComp.
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Affiliation Belonging

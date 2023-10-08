@@ -38,19 +38,22 @@ Graph which represents how this element is related to other elements in the Beta
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 💜 NeuroElements 💜
-
+- Description of how this NeuroElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this NeuroElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this NeuroElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
 ## Related 🟠 MoveElements
-
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
 
 ## Related 🟩 EnvironmentElements
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 ## Related 🔺 RouteElements
-- Description of how this NeuroElement relates to a particular [RouteElement]().
-- Description of how this NeuroElement relates to a particular [RouteElement]().
-- Description of how this NeuroElement relates to a particular [RouteElement]().
-
+- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
 ## Examples
 
 - Use Media donated by Climbers. 

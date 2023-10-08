@@ -24,7 +24,7 @@ hero:
     - theme: brand
       text: Test
       link: /tests/TestsOverview
-    - theme: brand
+    - theme: alt
       text: Sponsor
       link: /sponsor/Sponsor
 
@@ -35,10 +35,11 @@ features:
     details: 
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 6, 2023
-  - icon: 🧗‍♂️
-    title: 
-    details: 
+    details: Last Updated on October 8, 2023
+  - icon: 🌲
+    title: Plantbeta
+    details: Find out how BetaComp helps to combat climate change by training tree planters.
+    link: /guide/Why/Plantbeta 
 
 
 

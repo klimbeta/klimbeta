@@ -1,5 +1,45 @@
 # Composition Score
 
+To increase the weight of creativity in the BetaScore, the way tha Beta Elements are linked together is scored.
+
+> **Choreography**
+
+Only Possible when RouteExecution is Scored, so not in BetaRoute?
+
+Sequence
+
+Interesting choice of environment to use.
+
+Abstract Score Criteria
+
+Arrangement 
+
+Grouped 
+
+Phrase
+
+Sequence of Phrases 
+
+Combination
+
+## Beta Composer
+
+Orchestration
+- TeamBeta
+
+Sheet Music
+
+Person who writes 
+
+- ABAB
+-ABCAB
+
+Sonata Structure
+- Exposition
+- Development
+- ABAB
+-AB
+
 ## Which BetaComp Types use Composition Score?
 
 - BetaWall

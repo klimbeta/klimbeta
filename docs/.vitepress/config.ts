@@ -31,7 +31,7 @@ export default defineConfig({
       '/reference/': sidebarReference(),
       '/tests/': sidebarTests(),
       '/development/': sidebarDevelopment(),
-      '/judging/': sidebarJudging(),
+      '/officials/': sidebarOfficials(),
     },
   }
 })
@@ -49,9 +49,9 @@ function nav() {
       activeMatch: '/reference/'
     },
     {
-      text: 'Judging',
-      link: '/judging/JudgingOverview',
-      activeMatch: '/judging/'
+      text: 'Officials',
+      link: '/officials/OfficialsOverview',
+      activeMatch: '/officials/'
     },
     {
       text: 'Tests',
@@ -73,7 +73,7 @@ function nav() {
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
-        {
+    {
       text: '🌲 Plantbeta',
       link: 'https://klimbeta.github.io/plantbeta/',
     },
@@ -88,15 +88,19 @@ function sidebarGuide() {
       items: [
         { text: '🔷 What is Beta?', link: '/guide/What/WhatBeta' },
         { text: '🔷 What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: '🔷 What is this BetaComp Website?', link: '/guide/What/WhatBetaCompWebsite' },
+        { text: '🔷 What is difference from current Olympic Climbing Events?', link: '/guide/What/OtherOlympicClimbing' },
         
+
+        { text: '🔷 What is this BetaComp Website?', link: '/guide/What/WhatBetaCompWebsite' },
+
       ]
     },
     {
       text: 'Why ❔',
       collapsed: true,
       items: [
-        { text: '❔ How does BetaComp add Value to Climbers?', link: '/guide/Why/AddValue' },
+        { text: '❔🔷 How does BetaComp provide Value to Climbers?', link: '/guide/Why/Value' },
+        { text: '❔ How does BetaComp add Value to Climbers?', link: '/guide/Why/Plantbeta' },
 
       ]
     },
@@ -104,25 +108,26 @@ function sidebarGuide() {
       text: 'Who ❔',
       collapsed: true,
       items: [
-        { text: 'Climber', link: '/guide/Who/Climber' },
-        { text: 'Spectator', link: '/guide/Who/Spectator' },
-        { text: 'Coach', link: '/guide/Who/Coach' },
-        { text: 'Setter', link: '/guide/Who/Setter' },
-        { text: 'Gym', link: '/guide/Who/Gym' },
-        { text: 'Gear Company', link: '/guide/Who/GearCompany' },
+        { text: '🟠 Climber', link: '/guide/Who/Climber' },
+        { text: '🟩 Spectator', link: '/guide/Who/Spectator' },
+        { text: '💜 Coach', link: '/guide/Who/Coach' },
+        { text: '🟩 Setter', link: '/guide/Who/Setter' },
+        { text: '🟩 Gym', link: '/guide/Who/Gym' },
+        { text: '🟠 Gear Company', link: '/guide/Who/GearCompany' },
       ]
     },
     {
       text: 'Where ❔',
       collapsed: true,
       items: [
-        { text: 'Where is BetaComp held?', link: '/guide/Where/WhereBetaComp' },
+        { text: 'Where can a BetaComp occur?', link: '/guide/Where/WhereBetaComp' },
       ]
     },
     {
       text: 'How ❔',
       collapsed: true,
       items: [
+        { text: 'How to run a BetaComp?', link: '/guide/How/HowRunBetaComp' },
         {
           text: 'Mimic Other Sports',
           collapsed: true,
@@ -239,14 +244,15 @@ function sidebarReference() {
       text: '🔷 Beta',
       collapsed: true,
       items: [
-        { text: '❔ What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
+        { text: '❔🔷 What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
+        { text: '🔷🔷 What is the TeamBeta?', link: '/reference/Beta/WhatTeamBeta' },
         { text: '💬 Beta Example', link: '/reference/Beta/BetaExamples' },
 
         {
           text: '🔷 Beta Action',
           collapsed: true,
           items: [
-            { text: '❔ What are Beta Actions?', link: '/reference/Beta/BetaAction/Overview' },
+            { text: '❔🔷 What are Beta Actions?', link: '/reference/Beta/BetaAction/Overview' },
             { text: '🔷 AskBeta', link: '/reference/Beta/BetaAction/AskBeta' },
             { text: '🔷 ChangeBeta', link: '/reference/Beta/BetaAction/ChangeBeta' },
             { text: '🔷 GetBeta', link: '/reference/Beta/BetaAction/GetBeta' },
@@ -264,7 +270,7 @@ function sidebarReference() {
           text: '🔷🔷🔷 Beta Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
+            { text: '❔🔷 What is a Beta Sequence?', link: '/reference/Beta/BetaSequence/Overview' }
           ]
         },
       ]
@@ -273,12 +279,12 @@ function sidebarReference() {
       text: '🟠 Move',
       collapsed: true,
       items: [
-        { text: '❔ What is Move?', link: '/reference/Move/MoveOverview' },
+        { text: '❔🟠 What is Move?', link: '/reference/Move/MoveOverview' },
         {
           text: '🟠 BodyMove',
           collapsed: true,
           items: [
-            { text: '❔ What is BodyMove?', link: '/reference/Move/BodyMove/Overview' },
+            { text: '❔🟠 What is BodyMove?', link: '/reference/Move/BodyMove/Overview' },
             { text: '🟠 BodyAbsorb', link: '/reference/Move/BodyMove/BodyAbsorb' },
             { text: '🟠 BodyAlign', link: '/reference/Move/BodyMove/BodyAlign' },
             { text: '🟠 BodyArch', link: '/reference/Move/BodyMove/BodyArch' },
@@ -301,7 +307,7 @@ function sidebarReference() {
           text: '🟠 ArmMove',
           collapsed: true,
           items: [
-            { text: '❔ What is ArmMove?', link: '/reference/Move/ArmMove/Overview' },
+            { text: '❔🟠 What is ArmMove?', link: '/reference/Move/ArmMove/Overview' },
             { text: '🟠 ArmAbduction', link: '/reference/Move/ArmMove/ArmAbduction' },
             { text: '🟠 ArmAbsorb', link: '/reference/Move/ArmMove/ArmAbsorb' },
             { text: '🟠 ArmAlign', link: '/reference/Move/ArmMove/ArmAlign' },
@@ -332,7 +338,7 @@ function sidebarReference() {
           text: '🟠 HandMove',
           collapsed: true,
           items: [
-            { text: '❔ What is Move?', link: '/reference/Move/HandMove/Overview' },
+            { text: '❔🟠 What is Move?', link: '/reference/Move/HandMove/Overview' },
             { text: '🟠 HandCatch', link: '/reference/Move/HandMove/HandCatch' },
             { text: '🟠 HandMatch', link: '/reference/Move/HandMove/HandMatch' },
             { text: '🟠 HandNudge', link: '/reference/Move/HandMove/HandNudge' },
@@ -351,7 +357,7 @@ function sidebarReference() {
           text: '🟠 LegMove',
           collapsed: true,
           items: [
-            { text: '❔ What is LegMove?', link: '/reference/Move/LegMove/Overview' },
+            { text: '❔🟠 What is LegMove?', link: '/reference/Move/LegMove/Overview' },
             { text: '🟠 LegAbduction', link: '/reference/Move/LegMove/LegAbduction' },
             { text: '🟠 LegAbsorb', link: '/reference/Move/LegMove/LegAbsorb' },
             { text: '🟠 LegAlign', link: '/reference/Move/LegMove/LegAlign' },
@@ -383,7 +389,7 @@ function sidebarReference() {
           text: '🟠 FootMove',
           collapsed: true,
           items: [
-            { text: '❔ What is FootMove?', link: '/reference/Move/FootMove/Overview' },
+            { text: '❔🟠 What is FootMove?', link: '/reference/Move/FootMove/Overview' },
             { text: '🟠 FootCatch', link: '/reference/Move/FootMove/FootCatch' },
             { text: '🟠 FootMatch', link: '/reference/Move/FootMove/FootMatch' },
             { text: '🟠 FootNudge', link: '/reference/Move/FootMove/FootNudge' },
@@ -402,7 +408,7 @@ function sidebarReference() {
           text: '🟠 ToolMove',
           collapsed: true,
           items: [
-            { text: '❔ What is ToolMove?', link: '/reference/Move/ToolMove/Overview' },
+            { text: '❔🟠 What is ToolMove?', link: '/reference/Move/ToolMove/Overview' },
             { text: '🟠 BoltMove', link: '/reference/Move/ToolMove/BoltMove' },
             { text: '🟠 CarabinerMove', link: '/reference/Move/ToolMove/CarabinerMove' },
             { text: '🟠 ChalkMove', link: '/reference/Move/ToolMove/ChalkMove' },
@@ -416,7 +422,7 @@ function sidebarReference() {
           text: '🟠🟠🟠 Move Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
+            { text: '❔🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
           ]
         },
       ]
@@ -425,7 +431,7 @@ function sidebarReference() {
       text: '🔺 Route',
       collapsed: true,
       items: [
-        { text: '❔ What is Route?', link: '/reference/Route/RouteOverview' },
+        { text: '❔🔺 What is Route?', link: '/reference/Route/RouteOverview' },
 
         {
           text: '🔺 Route Surface',
@@ -458,7 +464,7 @@ function sidebarReference() {
           text: '🔺🔺🔺 Route Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
+            { text: '❔🔺 What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
           ]
         },
       ]
@@ -467,7 +473,7 @@ function sidebarReference() {
       text: '🟩 Environment',
       collapsed: true,
       items: [
-        { text: '❔ What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
+        { text: '❔🟩 What is Environment?', link: '/reference/Environment/EnvironmentOverview' },
         {
           text: '🟩 EnvironmentSurface',
           collapsed: true,
@@ -516,6 +522,20 @@ function sidebarReference() {
           ]
         },
         {
+          text: '🟩 Module',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/Module/Overview' }
+          ]
+        },
+        {
+          text: '🟩 Macro',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/Macro/Overview' }
+          ]
+        },
+        {
           text: '🟩 Hold',
           collapsed: true,
           items: [
@@ -526,7 +546,7 @@ function sidebarReference() {
           text: '🟩🟩🟩 Environment Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' },
+            { text: '❔🟩 What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' },
           ]
         },
       ]
@@ -535,7 +555,7 @@ function sidebarReference() {
       text: ' 💜 Neuro',
       collapsed: true,
       items: [
-        { text: '❔ What is Neuro?', link: '/reference/Neuro/NeuroOverview' },
+        { text: '❔💜 What is Neuro?', link: '/reference/Neuro/NeuroOverview' },
 
         { text: '💜 Alignment', link: '/reference/Neuro/Alignment' },
         { text: '💜 Attention', link: '/reference/Neuro/Attention' },
@@ -556,7 +576,7 @@ function sidebarReference() {
           text: ' 💜💜💜 Neuro Sequence',
           collapsed: true,
           items: [
-            { text: '❔ What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
+            { text: '❔💜 What is a Neuro Sequence?', link: '/reference/Neuro/NeuroSequence/Overview' }
           ]
         },
 
@@ -643,43 +663,88 @@ function sidebarTests() {
 function sidebarDevelopment() {
   return [
     { text: 'Overview', link: '/development/DevelopmentOverview' },
-    { text: '✉ Contact', link: '/development/Development/Contact' },
+    { text: '✉ Contact', link: '/development/Contact' },
     { text: '👩‍💻 Coding', link: '/development/Coding' },
     { text: '🔥 DevilsAdvocate', link: '/development/DevilsAdvocate' },
-    { text: '📎 Downloads', link: '/development/Download' },
+    { text: '📎 Downloads', link: '/development/Downloads' },
     { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
     { text: '🕸 Element Relationship Diagram', link: '/development/ElementRelationshipDiagram' },
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
     {
-      text: 'Copy Other Sports',
+      text: '🔁 Copy Other Sports',
       collapsed: true,
       items: [
         { text: 'Overview', link: '/development/OtherSport/Overview' },
-        { text: 'Breaking', link: '/development/OtherSport/Breaking' },
-        { text: 'Gymnastics', link: '/development/OtherSport/Gymnastics' },
-        { text: 'Parkour', link: '/development/OtherSport/Parkour' },
-        { text: 'Skiing', link: '/development/OtherSport/Skiing' },
-        { text: 'Skateboarding', link: '/development/OtherSport/Skateboarding' },
-        { text: 'Trampoline', link: '/development/OtherSport/Trampoline' },
-      
+        { text: '🔁 Breaking', link: '/development/OtherSport/Breaking' },
+        { text: '🔁 Gymnastics', link: '/development/OtherSport/Gymnastics' },
+        { text: '🔁 Parkour', link: '/development/OtherSport/Parkour' },
+        { text: '🔁 Skiing', link: '/development/OtherSport/Skiing' },
+        { text: '🔁 Skateboarding', link: '/development/OtherSport/Skateboarding' },
+        { text: '🔁 Trampoline', link: '/development/OtherSport/Trampoline' },
+
       ]
     },
   ]
 }
 
-function sidebarJudging() {
+function sidebarOfficials() {
   return [
-    { text: '⚖ Overview', link: '/judging/JudgingOverview' },
-    { text: '⚖ Become a Judge', link: '/judging/HowBecomeJudge' },
-    { text: '⚖ Educate Judges', link: '/judging/HowEducateJudge' },
-    { text: '⚖ Recruit Judges', link: '/judging/HowRecruitJudge' },
-    { text: '⚖ Set Up Judging Area', link: '/judging/JudgingAreaSetUp' },
-    { text: '⚖ Rules', link: '/judging/Rules' },
-    { text: '⚖ Judging Process', link: '/judging/JudgingProcess' },
-    { text: '⚖ Beta Scoring App', link: '/judging/BetaScoreApp' },
-    { text: '⚖ Contingency Plans', link: '/judging/ContingencyPlans' },
+    {
+      text: '🎤 Announcer',
+      collapsed: true,
+      items: [
+        { text: '🎤 Overview', link: '/officials/Judge/JudgingOverview' },
 
+      ]
+    },
+    {
+      text: '🎙 Commentator',
+      collapsed: true,
+      items: [
+        { text: '🎙 Overview', link: '/officials/Commentator/Overview' },
 
+      ]
+    },
+    {
+      text: 'Judge',
+      collapsed: true,
+      items: [
+        { text: '⚖ Overview', link: '/officials/Judge/JudgingOverview' },
+        { text: '⚖ Become a Judge', link: '/officials/Judge/HowBecomeJudge' },
+        { text: '⚖ Educate Judges', link: '/officials/Judge/HowEducateJudge' },
+        { text: '⚖ Recruit Judges', link: '/officials/Judge/HowRecruitJudge' },
+        { text: '⚖ Set Up Judging Area', link: '/officials/Judge/JudgingAreaSetUp' },
+        { text: '⚖ Rules', link: '/officials/Judge/Rules' },
+        { text: '⚖ Judging Process', link: '/officials/Judge/JudgingProcess' },
+        { text: '⚖ Beta Scoring App', link: '/officials/Judge/BetaScoreApp' },
+        { text: '⚖ Contingency Plans', link: '/officials/Judge/ContingencyPlans' },
+      ]
+    },
+    {
+      text: '📝 Registrar',
+      collapsed: true,
+      items: [
+        { text: '📝 Overview', link: '/officials/Registrar/Overview' },
+
+      ]
+    },
+    {
+      text: '🔧 Setter',
+      collapsed: true,
+      items: [
+        { text: '🔧 Overview', link: '/officials/Setter/Overview' },
+        { text: '🔧 Chief Setter', link: '/officials/Setter/ChiefSetter' },
+        { text: '🔧 Apprentise Setter', link: '/officials/Setter/ApprentiseSetter' },
+        { text: '🔧 Technician', link: '/officials/Setter/Technician' },
+      ]
+    },
+    {
+      text: '🔌 Technologist',
+      collapsed: true,
+      items: [
+        { text: '🔌 Overview', link: '/officials/Technologist/Overview' },
+      ]
+    },
   ]
 }
