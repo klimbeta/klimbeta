@@ -1,4 +1,6 @@
-# ♻About
+# ♻ About
+
+![NewtonQuote](/NewtonQuote.png)
 
 ## Intro
 
@@ -29,17 +31,25 @@ Christopher living in Montréal, Canada
 - P
 ### ♻ Inspired as a Setter
 
+#### 🔷 Setting Inspired DifficultyScore
 - RICscale from My Keys to Routesetting.
+- Prioritize Complexity over Intensity.
+    - Spurred on by the feedback from a former setter "The routes are less cryptic than before", which I took to mean that the route were lacking complexity.
+    - Didn't like CrimpGrip
+
+#### 🔷 BetaWall Inspired by Setting a SprayWall
 - Backfill Wall is BetaWall.
 - Volume Construction
 - Top Rope
 - Boulders
-- Prioritize Complexity over Intensity.
-    - Spurred on by the feedback from a former setter "The routes are less cryptic than before", which I took to mean that the route were lacking complexity.
-    - Didn't like CrimpGrip
-- Routesetting Clinic
-    - Lack of Guide
-    - Movement Library
+#### 🔷 Beta System Inspired by Routesetting Clinic
+
+While at Coyote Rock Gym I was able to help run a Routesetting Clinic, then a year later I convinced the owners to allow members to try routesetting under my supervision.
+
+- Lack of Guidance on how to develop as a Routesetter
+- Lack of reference material Inspired the creation of [Reference Section](/reference/ReferenceOverview)
+    - Movement Library exists.
+    - Only basic glossaries of setting terminology exists.
 
 BetaRoute was inspired by all the time spent thinking about all the alternatives to a route which is being set. Trying to BreakBeta is a form of BetaRoute Competition. 
 
@@ -49,23 +59,23 @@ BetaComp was inspired by the climbing games and training drills which are used b
 - Precomp
 
 
-#### [BetaRoute](/reference/CompType/BetaRoute) from Coaching
+#### [🔷 BetaRoute](/reference/CompType/BetaRoute) from Coaching
 
 BetaRoute is inspired by the TakeAway Game which is played on an easy route.
 
 
-#### [BetaWall](reference/CompType/BetaWall) from Coaching
+#### [🔷 BetaWall](reference/CompType/BetaWall) from Coaching
 
 BetaWall is inspired by the AddOn Game which is played on a SprayWall.
 
-#### [ForcedBeta](/reference/CompType/ForcedBeta) from Coaching
+#### [🔷 ForcedBeta](/reference/CompType/ForcedBeta) from Coaching
 
 Arbitrary Rules
 
 Coaches use [ForcedBeta](/reference/CompType/ForcedBeta) all the time.
 - One Handed Climbing
 - Climbing while holding tennis balls
-#### [ExecutionScore](/reference/Scoring/) from Coaching
+#### [🔷 ExecutionScore](/reference/Scoring/) from Coaching
 
 Maintaining optimal posture to prevent injury.
 
@@ -85,29 +95,35 @@ SilentFeet
 - Professional Setters
 - Language
     - Module
-### Inspired by [Allez Up](https://www.instagram.com/allezupmtl)
+### ♻ Inspired by [Allez Up](https://www.instagram.com/allezupmtl)
 - Autobelay at 
-### Inspired by [Bloc Shop](https://www.instagram.com/blocshop)
-### Inspired by [Cafe Bloc](https://www.instagram.com/cafe_bloc)
+### ♻ Inspired by [Bloc Shop](https://www.instagram.com/blocshop)
+### ♻ Inspired by [Cafe Bloc](https://www.instagram.com/cafe_bloc)
 
 
 
 
 
-## [Plantbeta](/guide/Why/Plantbeta) from Climbing
+## ♻ Inspired by [Plantbeta](/guide/Why/Plantbeta) from Climbing
 
-## Youtube
+## ♻ Inspired by Youtube
 
 Youtube from the past Decade.
 
 ### Johnny Dawes
 
+Playful exploration of novel ways to climb.
+
 #### Gaia
-
-
+Dawes' description of Gaia. How the rain and wind carved the rock that he climbed.
 #### NoHandsClimbing
+ForcedBeta
+
+"Climbing is a toy anyway"
 
 #### Stone Monkey
+
+Storytelling with Climbing. Climbing in costume. Climbing without any routes.
 
 ### [Beta Routesetting](https://www.youtube.com/@BetaRoutesetting)
 
@@ -129,7 +145,21 @@ The idea of Sculpting Space became EnvironmentSpace.
 
 - Alvaro Rengel
 
-## Klimbeta
+## ♻ Inspired by Other Sport
 
-## Other Sport
+## ♻ Inspired by [Waking Up App](https://app.wakingup.com/)
 
+### FlowClimbing
+
+### Alan Watts
+![AlanWatts_00](/AlanWatts_00.png)
+
+
+
+### NonDualClimbing
+- What is actually happening when a climber is climbing, from the first person perspective. 
+
+### Joseph Goldstein
+When you interlace your hands together, what do you experience? You don't experience 'Hand', you experience temperature and pressure which our minds categorize into 'Hand'. Likewise, when you're climbing and you feel off balance, what are you actually experiencing.
+
+### Josh Hanson
