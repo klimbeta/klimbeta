@@ -10,7 +10,7 @@ hero:
     alt: BetaSetDiagram
   actions:
     - theme: brand
-      text: Get Started
+      text: Start Here
       link: /guide/What/WhatBetaComp
     - theme: brand
       text: 🔷🔺💜🟠🟩

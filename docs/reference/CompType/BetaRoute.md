@@ -58,7 +58,7 @@ Climbers are
 
 Climbers need to familarize themselves with the [BetaElements](/reference/Beta/WhatBetaSystem#BetaElements) in the [Reference Section](/reference/ReferenceOverview).
 
-Climbers need to understand the basics of [BetaScore](/reference/Scoring/Overview).
+Climbers need to understand the basics of [BetaScore](/reference/Score/Overview).
 
 ### How do Setters set the Competition?
 

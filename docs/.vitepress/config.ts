@@ -107,6 +107,8 @@ function sidebarGuide() {
         { text: '🟩 Setter', link: '/guide/Who/Setter' },
         { text: '🟩 Gym', link: '/guide/Who/Gym' },
         { text: '🟠 Gear Company', link: '/guide/Who/GearCompany' },
+        { text: '💜 Journalist', link: '/guide/Who/Journalist' },
+        
       ]
     },
     {
@@ -161,20 +163,20 @@ function sidebarReference() {
       text: '🔷 BetaScore',
       collapsed: true,
       items: [
-        { text: '🔷 BetaScore Overview', link: '/reference/Scoring/Overview' },
+        { text: '🔷 BetaScore Overview', link: '/reference/Score/Overview' },
         {
           text: '🔷 Difficulty Score',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/Overview' },
+            { text: '🔷 Overview', link: '/reference/Score/Difficulty/Overview' },
             {
               text: '🔷 Beta Difficulty',
               collapsed: true,
               items: [
-                { text: '🔷 Overview', link: '/reference/Scoring/Difficulty/BetaDifficulty/Overview' },
-                { text: '🔷 Beta Risk', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaRisk' },
-                { text: '🔷 Beta Intensity', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaIntensity' },
-                { text: '🔷 Beta Complexity', link: '/reference/Scoring/Difficulty/BetaDifficulty/BetaComplexity' },
+                { text: '🔷 Overview', link: '/reference/Score/Difficulty/BetaDifficulty/Overview' },
+                { text: '🔷 Beta Risk', link: '/reference/Score/Difficulty/BetaDifficulty/BetaRisk' },
+                { text: '🔷 Beta Intensity', link: '/reference/Score/Difficulty/BetaDifficulty/BetaIntensity' },
+                { text: '🔷 Beta Complexity', link: '/reference/Score/Difficulty/BetaDifficulty/BetaComplexity' },
 
               ]
             },
@@ -182,30 +184,30 @@ function sidebarReference() {
               text: '🔷🟠 Move Difficulty',
               collapsed: true,
               items: [
-                { text: '🔷🟠 Overview', link: '/reference/Scoring/Difficulty/MoveDifficulty/Overview' },
-                { text: '🔷🟠 Move Risk', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveRisk' },
-                { text: '🔷🟠 Move Intensity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveIntensity' },
-                { text: '🔷🟠 Move Complexity', link: '/reference/Scoring/Difficulty/MoveDifficulty/MoveComplexity' },
+                { text: '🔷🟠 Overview', link: '/reference/Score/Difficulty/MoveDifficulty/Overview' },
+                { text: '🔷🟠 Move Risk', link: '/reference/Score/Difficulty/MoveDifficulty/MoveRisk' },
+                { text: '🔷🟠 Move Intensity', link: '/reference/Score/Difficulty/MoveDifficulty/MoveIntensity' },
+                { text: '🔷🟠 Move Complexity', link: '/reference/Score/Difficulty/MoveDifficulty/MoveComplexity' },
               ]
             },
             {
               text: '🔷🔺 Route Difficulty',
               collapsed: true,
               items: [
-                { text: '🔷🔺 Overview', link: '/reference/Scoring/Difficulty/RouteDifficulty/Overview' },
-                { text: '🔷🔺 Route Risk', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteRisk' },
-                { text: '🔷🔺 Route Intensity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteIntensity' },
-                { text: '🔷🔺 Route Complexity', link: '/reference/Scoring/Difficulty/RouteDifficulty/RouteComplexity' },
+                { text: '🔷🔺 Overview', link: '/reference/Score/Difficulty/RouteDifficulty/Overview' },
+                { text: '🔷🔺 Route Risk', link: '/reference/Score/Difficulty/RouteDifficulty/RouteRisk' },
+                { text: '🔷🔺 Route Intensity', link: '/reference/Score/Difficulty/RouteDifficulty/RouteIntensity' },
+                { text: '🔷🔺 Route Complexity', link: '/reference/Score/Difficulty/RouteDifficulty/RouteComplexity' },
               ]
             },
             {
               text: '🔷🟩 Environment Difficulty',
               collapsed: true,
               items: [
-                { text: '🔷🟩 Overview', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/Overview' },
-                { text: '🔷🟩 Environment Risk', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
-                { text: '🔷🟩 Environment Intensity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
-                { text: '🔷🟩 Environment Complexity', link: '/reference/Scoring/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
+                { text: '🔷🟩 Overview', link: '/reference/Score/Difficulty/EnvironmentDifficulty/Overview' },
+                { text: '🔷🟩 Environment Risk', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
+                { text: '🔷🟩 Environment Intensity', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
+                { text: '🔷🟩 Environment Complexity', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
               ]
             },
           ]
@@ -214,10 +216,10 @@ function sidebarReference() {
           text: '🔷 Execution Score',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Scoring/Execution/Overview' },
-            { text: '🔷🟠 Move Execution', link: '/reference/Scoring/Execution/MoveExecution' },
-            { text: '🔷🔺 Route Execution', link: '/reference/Scoring/Execution/RouteExecution' },
-            { text: '🔷🟩 Environment Execution', link: '/reference/Scoring/Execution/EnvironmentExecution' },
+            { text: '🔷 Overview', link: '/reference/Score/Execution/Overview' },
+            { text: '🔷🟠 Move Execution', link: '/reference/Score/Execution/MoveExecution' },
+            { text: '🔷🔺 Route Execution', link: '/reference/Score/Execution/RouteExecution' },
+            { text: '🔷🟩 Environment Execution', link: '/reference/Score/Execution/EnvironmentExecution' },
 
           ]
         },
@@ -225,9 +227,9 @@ function sidebarReference() {
           text: '🔷 Composition Score',
           collapsed: true,
           items: [
-            { text: '🔷 Overview', link: '/reference/Scoring/Composition/Overview' },
-            { text: '🔷🟠 Move Composition', link: '/reference/Scoring/Composition/MoveComposition' },
-            { text: '🔷🔺 Route Composition', link: '/reference/Scoring/Composition/RouteComposition' },
+            { text: '🔷 Overview', link: '/reference/Score/Composition/Overview' },
+            { text: '🔷🟠 Move Composition', link: '/reference/Score/Composition/MoveComposition' },
+            { text: '🔷🔺 Route Composition', link: '/reference/Score/Composition/RouteComposition' },
           ]
         },
       ]

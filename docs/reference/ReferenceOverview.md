@@ -13,7 +13,7 @@ Click on a Section to go to its Overview.
 
 ## [🔷 Competition Types 🔷 ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/Overview)
 
-## [🔷 Scoring System 🔷![BetaScore](/DifficultyScoreTree.png)](/reference/Scoring/Overview)
+## [🔷 Scoring System 🔷![BetaScore](/DifficultyScoreTree.png)](/reference/Score/Overview)
 
 ## [🔷 Beta System 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 

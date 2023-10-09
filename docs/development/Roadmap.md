@@ -13,12 +13,12 @@ The sequence of events to develop a BetaComp for the Olympics.
 
 
 ## Website
-- Fill in the factors which modify an Element's [BetaScore](/reference/Scoring/Overview) into each Element's Profile, like the [Code of Points in Gymnastics](/development/OtherSport/Gymnastics).
+- Fill in the factors which modify an Element's [BetaScore](/reference/Score/Overview) into each Element's Profile, like the [Code of Points in Gymnastics](/development/OtherSport/Gymnastics).
 
 ## Judging
 
 1. Practice Scoring a Video of BetaRoute on Paper
-2. Practice Live Scoring of a Climber's [BetaScore](/reference/Scoring/Overview) on Paper
+2. Practice Live Scoring of a Climber's [BetaScore](/reference/Score/Overview) on Paper
 3. Score First Competition on Paper
 4. Score First Live Competition on Paper
 5. Create Scoring App
@@ -58,3 +58,6 @@ The sequence of events to develop a BetaComp for the Olympics.
 ### Filming Equipment
 
 - Make list of all the required filming equipment
+
+
+## Last Updated

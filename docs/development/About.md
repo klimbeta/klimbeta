@@ -75,7 +75,7 @@ Arbitrary Rules
 Coaches use [ForcedBeta](/reference/CompType/ForcedBeta) all the time.
 - One Handed Climbing
 - Climbing while holding tennis balls
-#### [🔷 ExecutionScore](/reference/Scoring/) from Coaching
+#### [🔷 ExecutionScore](/reference/Score/Execution/Overview) from Coaching
 
 Maintaining optimal posture to prevent injury.
 
@@ -134,7 +134,7 @@ Storytelling with Climbing. Climbing in costume. Climbing without any routes.
 
 #### Comparison Videos
 - [BetaRoute](/reference/CompType/BetaRoute)
-    - Which Climber chose the least [Difficult](/reference/Scoring/Difficulty/Overview) and the better [Execution](/reference/Scoring/Execution/Overview)
+    - Which Climber chose the least [Difficult](/reference/Score/Difficulty/Overview) and the better [Execution](/reference/Score/Execution/Overview)
 
 
 

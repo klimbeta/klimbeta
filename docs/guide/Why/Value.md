@@ -20,7 +20,7 @@ How participants **derive** Value from BetaComp.
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-- If Climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Scoring/Difficulty/Overview) they can climb.
+- If Climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Score/Difficulty/Overview) they can climb.
 
 - Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
 - Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for Climbing jobs.
@@ -65,10 +65,12 @@ For your **information**
 
 FYI: There is a thing called Beta
 
+Hey this exists what do you think you could use it for
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
 
-- Integrates Routesetting knowledge into mainstream Climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/scoring/Difficulty/Overview).
+- Integrates Routesetting knowledge into mainstream Climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/Score/Difficulty/Overview).
 
 - Integrates the techniques used while training on a SprayWall into the current way that Climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
 
