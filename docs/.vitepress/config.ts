@@ -93,7 +93,7 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: '❔🔷 How does BetaComp provide Value to Climbers?', link: '/guide/Why/Value' },
-        { text: '❔ How does BetaComp add Value to Climbers?', link: '/guide/Why/Plantbeta' },
+        { text: '❔🌲 How does BetaComp help combat Climate Change?', link: '/guide/Why/Plantbeta' },
 
       ]
     },
@@ -149,9 +149,9 @@ function sidebarReference() {
         { text: '🔷 Overview', link: '/reference/CompType/Overview' },
         { text: '🔺 BetaRoute', link: '/reference/CompType/BetaRoute' },
         { text: '🟩 BetaWall', link: '/reference/CompType/BetaWall' },
-        { text: '🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
-        { text: '🔷 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
-        { text: '🔷 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
+        { text: '🔷🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
+        { text: '💬 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
+        { text: '🔧 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
         { text: '🎵 BetaDance', link: '/reference/CompType/BetaDance' },
         { text: '🔷 TeamBeta', link: '/reference/CompType/TeamBeta' },
 
@@ -578,7 +578,8 @@ function sidebarReference() {
     },
 
     { text: 'Gallery', link: '/reference/Gallery/Gallery' },
-    { text: 'Glossary', link: '/reference/Glossary/Glossary' }
+    { text: 'Glossary', link: '/reference/Glossary/Glossary' },
+    { text: 'Go to Officials', link: '/officials/OfficialsOverview' },
 
   ]
 }
@@ -589,13 +590,14 @@ function sidebarTests() {
       text: 'Beta Tests',
       collapsed: true,
       items: [
-        { text: 'Beta Test 01', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 02', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 03', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 04', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 05', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 06', link: '/tests/TestsOverview' },
-        { text: 'Beta Test 07', link: '/tests/TestsOverview' },
+        { text: 'Beta Naming', link: '/tests/BetaTests/BetaNameTest' },
+        { text: 'Beta Crossword', link: '/tests/BetaTests/BetaCrosswordTest' },
+        { text: 'Beta Labelling', link: '/tests/BetaTests/BetaLabelTest' },
+        { text: 'Beta Mimicry', link: '/tests/BetaTests/BetaMimicryTest' },
+        { text: 'Beta Ordering', link: '/tests/BetaTests/BetaOrderByTest' },
+        { text: 'Beta Grouping', link: '/tests/BetaTests/BetaGroupByTest' },
+        { text: 'Beta Accuracy', link: '/tests/BetaTests/BetaAccuracyTest' },
+        { text: 'Beta Speed', link: '/tests/BetaTests/BetaSpeedTest' },
 
       ]
     },
@@ -603,54 +605,66 @@ function sidebarTests() {
       text: 'Move Tests',
       collapsed: true,
       items: [
-        { text: 'Move Test 01', link: '/tests/TestsOverview' },
-        { text: 'Move Test 02', link: '/tests/TestsOverview' },
-        { text: 'Move Test 03', link: '/tests/TestsOverview' },
-        { text: 'Move Test 04', link: '/tests/TestsOverview' },
-        { text: 'Move Test 05', link: '/tests/TestsOverview' },
-        { text: 'Move Test 06', link: '/tests/TestsOverview' },
-        { text: 'Move Test 07', link: '/tests/TestsOverview' },
+        { text: 'Move Naming', link: '/tests/MoveTests/MoveNameTest' },
+        { text: 'Move Crossword', link: '/tests/MoveTests/MoveCrosswordTest' },
+        { text: 'Move Labelling', link: '/tests/MoveTests/MoveLabelTest' },
+        { text: 'Move Mimicing', link: '/tests/MoveTests/MoveMimicryTest' },
+        { text: 'Move Ordering', link: '/tests/MoveTests/MoveOrderByTest' },
+        { text: 'Move Grouping', link: '/tests/MoveTests/MoveGroupByTest' },
       ]
     },
     {
       text: 'Route Tests',
       collapsed: true,
       items: [
-        { text: 'Route Test 01', link: '/tests/TestsOverview' },
-        { text: 'Route Test 02', link: '/tests/TestsOverview' },
-        { text: 'Route Test 03', link: '/tests/TestsOverview' },
-        { text: 'Route Test 04', link: '/tests/TestsOverview' },
-        { text: 'Route Test 05', link: '/tests/TestsOverview' },
-        { text: 'Route Test 06', link: '/tests/TestsOverview' },
-        { text: 'Route Test 07', link: '/tests/TestsOverview' },
+        { text: 'Route Naming', link: '/tests/RouteTests/RouteNameTest' },
+        { text: 'Route Crossword', link: '/tests/RouteTests/RouteCrosswordTest' },
+        { text: 'Route Labelling', link: '/tests/RouteTests/RouteLabelTest' },
+        { text: 'Route Mimicing', link: '/tests/RouteTests/RouteMimicryTest' },
+        { text: 'Route Ordering', link: '/tests/RouteTests/RouteOrderByTest' },
+        { text: 'Route Grouping', link: '/tests/RouteTests/RouteGroupByTest' },
       ]
     },
     {
       text: 'Environment Tests',
       collapsed: true,
       items: [
-        { text: 'Environment Test 01', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 02', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 03', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 04', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 05', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 06', link: '/tests/TestsOverview' },
-        { text: 'Environment Test 07', link: '/tests/TestsOverview' },
+        { text: 'Environment Naming', link: '/tests/EnvironmentTests/EnvironmentNameTest' },
+        { text: 'Environment Crossword', link: '/tests/EnvironmentTests/EnvironmentCrosswordTest' },
+        { text: 'Environment Labelling', link: '/tests/EnvironmentTests/EnvironmentLabelTest' },
+        { text: 'Environment Mimicing', link: '/tests/EnvironmentTests/EnvironmentMimicryTest' },
+        { text: 'Environment Ordering', link: '/tests/EnvironmentTests/EnvironmentOrderByTest' },
+        { text: 'Environment Grouping', link: '/tests/EnvironmentTests/EnvironmentGroupByTest' },
       ]
     },
     {
       text: 'Neuro Tests',
       collapsed: true,
       items: [
-        { text: 'Neuro Test 01', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 02', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 03', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 04', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 05', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 06', link: '/tests/TestsOverview' },
-        { text: 'Neuro Test 07', link: '/tests/TestsOverview' },
+        { text: 'Neuro Naming', link: '/tests/NeuroTests/NeuroNameTest' },
+        { text: 'Neuro Crossword', link: '/tests/NeuroTests/NeuroCrosswordTest' },
+        { text: 'Neuro Labelling', link: '/tests/NeuroTests/NeuroLabelTest' },
+        { text: 'Neuro Mimicing', link: '/tests/NeuroTests/NeuroMimicryTest' },
+        { text: 'Neuro Ordering', link: '/tests/NeuroTests/NeuroOrderByTest' },
+        { text: 'Neuro Grouping', link: '/tests/NeuroTests/NeuroGroupByTest' },
       ]
-    }
+    },
+    {
+      text: 'Score Tests',
+      collapsed: true,
+      items: [
+        { text: 'Score Naming', link: '/tests/ScoreTests/ScoreNameTest' },
+        { text: 'Score Crossword', link: '/tests/ScoreTests/ScoreCrosswordTest' },
+        { text: 'Score Labelling', link: '/tests/ScoreTests/ScoreLabelTest' },
+        { text: 'Score Mimicing', link: '/tests/ScoreTests/ScoreMimicryTest' },
+        { text: 'Score Ordering', link: '/tests/ScoreTests/ScoreOrderByTest' },
+        { text: 'Score Grouping', link: '/tests/ScoreTests/ScoreGroupByTest' },
+        { text: 'Score Accuracy', link: '/tests/ScoreTests/ScoreAccuracyTest' },
+        { text: 'Score Speed', link: '/tests/ScoreTests/ScoreSpeedTest' },
+
+      ]
+    },
+    { text: 'Go to Development', link: '/development/DevelopmentOverview' },
   ]
 }
 
@@ -680,6 +694,7 @@ function sidebarDevelopment() {
 
       ]
     },
+    { text: 'Go to Sponsor', link: '/Sponsor/Sponsor' },
   ]
 }
 
@@ -702,7 +717,7 @@ function sidebarOfficials() {
       ]
     },
     {
-      text: 'Judge',
+      text: '⚖ Judge',
       collapsed: true,
       items: [
         { text: '⚖ Overview', link: '/officials/Judge/JudgingOverview' },
@@ -741,5 +756,6 @@ function sidebarOfficials() {
         { text: '🔌 Overview', link: '/officials/Technologist/Overview' },
       ]
     },
+    { text: 'Go to Tests', link: '/tests/TestsOverview' },
   ]
 }

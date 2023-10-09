@@ -31,14 +31,16 @@ hero:
 
 features:
   - icon: 🧗‍♀️
-    title: 
-    details: 
+    title: By Climbers, for Climbers
+    details: BetaComp is not-for-profit, it is a FREE resource designed to progress the sport of climbing.
+    link: /guide/What/WhatBetaComp  
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 8, 2023
+    details: Last Updated on October 9, 2023
+    link: /development/Roadmap
   - icon: 🌲
     title: Plantbeta
-    details: Find out how BetaComp helps to combat climate change by training tree planters.
+    details: Click Here to Find out How BetaComp Helps to Combat Climate Change by Training Tree Planters.
     link: /guide/Why/Plantbeta 
 
 
