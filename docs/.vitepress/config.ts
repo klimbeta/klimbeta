@@ -70,7 +70,7 @@ function nav() {
     },
     {
       text: '🌲 Plantbeta',
-      link: 'https://klimbeta.github.io/plantbeta/',
+      link: '/guide/Why/Plantbeta',
     },
   ]
 }
