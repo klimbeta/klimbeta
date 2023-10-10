@@ -4,7 +4,7 @@
 
 ## What?
 
-Only the Environment is [fixed](/reference/Glossary/Glossary#fixed)
+Only the Environment is [fixed](/reference/Glossary#fixed)
 
 
 A BetaWall is SprayWall, Tensionboard, Moonboard.

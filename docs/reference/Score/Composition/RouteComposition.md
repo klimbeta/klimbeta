@@ -10,7 +10,7 @@ Contiguous Route
 
 Like "Use Of Course" in Freeski
 
-During the [BetaWall]() or [SetRoute](/reference/Glossary/Glossary#SetRoute) inspection, 
+During the [BetaWall]() or [SetRoute](/reference/Glossary#SetRoute) inspection, 
 
 Route Repetition
 

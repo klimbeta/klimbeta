@@ -95,7 +95,7 @@ The [Environment](/reference/Envrionment/EnvironmentOverview) is a novel concept
 > If a Climber ascends a [Wall](/reference/Environment/Wall/Overview) using a particular color of holds and another Climber comes along ascends the same Wall using the same color of holds as the first Climber, but skips half of them, then did both Climbers climb the same Route?
 
 
-> If a Climber [FootSmears](/reference/Move/FootMove/FootSmear) beside a colored indoor hold, are they [OffRoute](/reference/Glossary/Glossary#offroute) because they're not touching a colored hold?
+> If a Climber [FootSmears](/reference/Move/FootMove/FootSmear) beside a colored indoor hold, are they [OffRoute](/reference/Glossary#offroute) because they're not touching a colored hold?
 :::
 
 

@@ -134,9 +134,16 @@ Planters become physically fit and ambidextrous
 
 ---
 
-### 4. How BetaComp helps to Combat Climate Change
+### 4. How BetaComp helps Planters to Combat Climate Change
 
 It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
+
+BetaComp's BetaSystem increases the efficiency and effectiveness of Plantbeta.
+
+BetaComp keeps Planters fit during their OffSeason so they can return to planting fitter than the year before.
+
+BetaComp gives Planters an occasion to socialize with their Planting friends in the OffSeason, therefore strengthening their social support during the season.
+
 
 
 

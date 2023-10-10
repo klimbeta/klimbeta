@@ -2,17 +2,17 @@
 
 ## What?
 
-Both the [Route](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary/Glossary#fixed).
+Both the [Route](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary#fixed).
 
 A Route is chosen and Climbers are scored on the Moves and execution of the Moves that they can find then perform on the Route
 
-::: warning
+::: tip 
 Climbers are expected to be able to complete the Route
 :::
 
-### [Onsight](/reference/Glossary/Glossary#onsight) Only
+### [Onsight](/reference/Glossary#onsight) Only
 
-Each Climber gets only one Attempt per Route.
+In a BetaRoute competition, each Climber gets only one [Attempt]() per Route.
 
 Attempt starts when climber makes contact with Route with **any part** of their body.
 
@@ -22,11 +22,11 @@ Climber has one minute to view the Route from the ground without contacting it.
 
 ### BetaBoulder
 
-[Bouldering](/reference/Glossary/Glossary#bouldering) Route
+[Bouldering](/reference/Glossary#bouldering) Route
 
 ### BetaLead
 
-[Lead Climbing](/reference/Glossary/Glossary#lead-climbing) Route
+[Lead Climbing](/reference/Glossary#lead-climbing) Route
 
 ### Similar BetaComp Competitions
 

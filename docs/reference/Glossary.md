@@ -2,6 +2,8 @@
 
 ## Anchor
 
+## Attempt
+/reference/Glossary#attempt
 ## Belayer
 
 ## Bouldering

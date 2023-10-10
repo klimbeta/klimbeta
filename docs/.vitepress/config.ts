@@ -591,7 +591,7 @@ function sidebarReference() {
     },
 
     { text: 'Gallery', link: '/reference/Gallery/Gallery' },
-    { text: 'Glossary', link: '/reference/Glossary/Glossary' },
+    { text: 'Glossary', link: '/reference/Glossary' },
     { text: 'Go to Officials', link: '/officials/OfficialsOverview' },
 
   ]
