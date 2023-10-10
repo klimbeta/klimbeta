@@ -74,12 +74,16 @@ Less Clearcutting: Selective Logging
 
 
 #### Increase Planter Efficiency
-- Increased efficiency, means less planters to plant the same amount of trees, therefore less emissions for transporting, feeding, and housing planters.
+- Increased efficiency, means **less planters** to plant the same amount of trees, therefore **less emissions** for **transporting**, **feeding**, and **housing planters**.
 
 [Weather Network: As wildfire risk grows, will planting trees work to offset carbon emissions? ![WeatherNetwork_00](/WeatherNetwork_00.png)](https://www.theweathernetwork.com/en/news/climate/solutions/as-wildfire-risk-grows-will-planting-trees-work-to-offset-carbon-emissions)
 
-#### More Species
-More species mix
+#### More Species Planted
+
+Plant more than just trees.
+
+Fill plants are the most complicated [Routes](reference/Route/RouteOverview), since it can be very difficult to remember and see where you've already planted. Flagger is used the most during FillPlants, Plantbeta educates Planters how to [Flag](https://klimbeta.github.io/plantbeta/reference/Route/Flag/Overview.html) as productively as possible.
+
 
 #### Increase Seedling Survival Rate
 
@@ -88,6 +92,14 @@ More species mix
 - Educating planters on how to plant trees means that the expectations for tree quality can increase. 
 
 - Planters often mess up their density simply because they don't know how to plant optimal density, becuase they are never taught in the first place.
+
+- Assuming that Planters plant low quality trees because it requires less effort. As Planters become more skilled from Plantbeta, they also learn how to expend less effort for each tree.
+
+- A skilled planter uses less effort to plant the same tree as a Rookie Planter.
+
+- Planting a bad tree uses less effort than planting a good tree.
+
+- Planters would plant better trees if they knew exactly how to plant perfect trees.
 
 ---
 
