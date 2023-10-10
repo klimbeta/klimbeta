@@ -427,29 +427,12 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔🔺 What is Route?', link: '/reference/Route/RouteOverview' },
-        {
-          text: '🔺 RoutePoint', collapsed: true, items: [
-            { text: '🔺 Overview', link: '/reference/Route/RoutePoint/Overview' },
-            { text: '🔺 CenterPoint', link: '/reference/Route/RoutePoint/CenterPoint' },
-            { text: '🔺 Midpoint', link: '/reference/Route/RoutePoint/Midpoint' },
-            { text: '🔺 ReferencePoint', link: '/reference/Route/RoutePoint/ReferencePoint' },
-            { text: '🔺 ReflectionPoint', link: '/reference/Route/RoutePoint/ReflectionPoint' },
-            { text: '🔺 TargetPoint', link: '/reference/Route/RoutePoint/TargetPoint' },
 
-          ]
-        },
         {
           text: '🔺 Route Surface',
           collapsed: true,
           items: [
             { text: '🔺 Overview', link: '/reference/Route/RouteSurface/Overview' },
-          ]
-        },
-        {
-          text: '🔺 Route Space',
-          collapsed: true,
-          items: [
-            { text: '🔺 Overview', link: '/reference/Route/RouteSpace/Overview' },
           ]
         },
         {
@@ -463,6 +446,24 @@ function sidebarReference() {
             { text: '🔺 SpiralLine', link: '/reference/Route/RouteLine/SpiralLine' },
             { text: '🔺 StaightLine', link: '/reference/Route/RouteLine/StaightLine' },
             { text: '🔺 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine' },
+          ]
+        },
+        {
+          text: '🔺 RoutePoint', collapsed: true, items: [
+            { text: '🔺 Overview', link: '/reference/Route/RoutePoint/Overview' },
+            { text: '🔺 CenterPoint', link: '/reference/Route/RoutePoint/CenterPoint' },
+            { text: '🔺 Midpoint', link: '/reference/Route/RoutePoint/Midpoint' },
+            { text: '🔺 ReferencePoint', link: '/reference/Route/RoutePoint/ReferencePoint' },
+            { text: '🔺 ReflectionPoint', link: '/reference/Route/RoutePoint/ReflectionPoint' },
+            { text: '🔺 TargetPoint', link: '/reference/Route/RoutePoint/TargetPoint' },
+
+          ]
+        },
+        {
+          text: '🔺 Route Space',
+          collapsed: true,
+          items: [
+            { text: '🔺 Overview', link: '/reference/Route/RouteSpace/Overview' },
           ]
         },
         {

@@ -1,8 +1,6 @@
 # 🔷 BetaScore
 
-::: tip BetaScore = (DifficultyScore + ExecutionScore + CompositionScore)
-:::
-
+![BetaScores](/BetaScores.png)
 
 
 ## Absolute Score

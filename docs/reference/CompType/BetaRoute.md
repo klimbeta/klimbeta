@@ -69,9 +69,18 @@ How many Judges?
 
 ## Why?
 
+To see who can climb with the greatest ease
+
+Effortlessly
+
+
+
 ### Benefits for Climbers
 
+Increases Climber's Ability to [RouteRead]() since BetaComp [integrates](/guide/Why/Value#integrates) [setting]() into Climbing so that Climbers can gain a [better understanding](/reference/Environment/EnvironmentOverview) of what the setting team's [intended beta](/reference/CompType/ForcedBeta) is. 
+
 Increases Climber's ability to find the easiest Route in an Environment.
+
 
 ### Benefits for Routesetters
 
