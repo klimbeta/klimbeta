@@ -427,7 +427,17 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔🔺 What is Route?', link: '/reference/Route/RouteOverview' },
+        {
+          text: '🔺 RoutePoint', collapsed: true, items: [
+            { text: '🔺 Overview', link: '/reference/Route/RoutePoint/Overview' },
+            { text: '🔺 CenterPoint', link: '/reference/Route/RoutePoint/CenterPoint' },
+            { text: '🔺 Midpoint', link: '/reference/Route/RoutePoint/Midpoint' },
+            { text: '🔺 ReferencePoint', link: '/reference/Route/RoutePoint/ReferencePoint' },
+            { text: '🔺 ReflectionPoint', link: '/reference/Route/RoutePoint/ReflectionPoint' },
+            { text: '🔺 TargetPoint', link: '/reference/Route/RoutePoint/TargetPoint' },
 
+          ]
+        },
         {
           text: '🔺 Route Surface',
           collapsed: true,

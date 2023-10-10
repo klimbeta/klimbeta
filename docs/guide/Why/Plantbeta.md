@@ -1,4 +1,5 @@
 # 🌲 Plantbeta 🌲
+![BetaComp_Plantbeta](/BetaComp_Plantbeta.png)
 
 <!-- Use an insane amount of links because this page is easily the most complicated part of the whole project and it ties everything together. Non-planters, non-climbers will need to be able to understand this page AskMom, AskAlex, AskLees-->
 
