@@ -3,7 +3,7 @@
 ## Anchor
 
 ## Attempt
-/reference/Glossary#attempt
+
 ## Belayer
 
 ## Bouldering
@@ -17,6 +17,8 @@
 ## Fixed
 
 An aspect of a Climber's Beta which can't be changed.
+
+## Flash
 
 ## Lead Climbing
 

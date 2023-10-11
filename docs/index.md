@@ -36,7 +36,7 @@ features:
     link: /guide/What/WhatBetaComp  
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 10, 2023
+    details: Last Updated on October 11, 2023
     link: /development/Roadmap
   - icon: 🌲
     title: Plantbeta

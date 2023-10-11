@@ -12,7 +12,7 @@ Climbers are expected to be able to complete the Route
 
 ### [Onsight](/reference/Glossary#onsight) Only
 
-In a BetaRoute competition, each Climber gets only one [Attempt]() per Route.
+In a BetaRoute competition, each Climber gets only one [Attempt](/reference/Glossary#attempt) per Route.
 
 Attempt starts when climber makes contact with Route with **any part** of their body.
 
@@ -77,7 +77,7 @@ Effortlessly
 
 ### Benefits for Climbers
 
-Increases Climber's Ability to [RouteRead]() since BetaComp [integrates](/guide/Why/Value#integrates) [setting]() into Climbing so that Climbers can gain a [better understanding](/reference/Environment/EnvironmentOverview) of what the setting team's [intended beta](/reference/CompType/ForcedBeta) is. 
+Increases Climber's Ability to [RouteRead](/reference/Beta/BetaAction/ReadBeta#route-reading) since BetaComp [integrates](/guide/Why/Value#integrates) [setting](/officials/Setter/Overview) into Climbing so that Climbers can gain a [better understanding](/reference/Environment/EnvironmentOverview) of what the setting team's [intended beta](/reference/CompType/ForcedBeta) is. 
 
 Increases Climber's ability to find the easiest Route in an Environment.
 

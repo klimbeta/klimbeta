@@ -240,11 +240,11 @@ function sidebarReference() {
       collapsed: true,
       items: [
         { text: '❔🔷 What is the Beta System?', link: '/reference/Beta/WhatBetaSystem' },
-        { text: '🔷🔷 What is the TeamBeta?', link: '/reference/Beta/WhatTeamBeta' },
+        { text: '🔷🔷 What is TeamBeta?', link: '/reference/Beta/WhatTeamBeta' },
         { text: '💬 Beta Example', link: '/reference/Beta/BetaExamples' },
 
         {
-          text: '🔷 Beta Action',
+          text: '🔷 Beta Actions',
           collapsed: true,
           items: [
             { text: '❔🔷 What are Beta Actions?', link: '/reference/Beta/BetaAction/Overview' },
@@ -256,6 +256,7 @@ function sidebarReference() {
             { text: '🔷 MimeBeta', link: '/reference/Beta/BetaAction/MimeBeta' },
             { text: '🔷 ParseBeta', link: '/reference/Beta/BetaAction/ParseBeta' },
             { text: '🔷 PerformBeta', link: '/reference/Beta/BetaAction/PerformBeta' },
+            { text: '🔷 ReadBeta', link: '/reference/Beta/BetaAction/ReadBeta' },
             { text: '🔷 RecordBeta', link: '/reference/Beta/BetaAction/RecordBeta' },
             { text: '🔷 SprayBeta', link: '/reference/Beta/BetaAction/SprayBeta' },
             { text: '🔷 TestBeta', link: '/reference/Beta/BetaAction/TestBeta' },
