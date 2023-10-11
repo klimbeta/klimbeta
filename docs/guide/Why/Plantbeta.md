@@ -6,7 +6,6 @@
 
 
 
-
 ## Story of Young People Who Want to Combat Climate Change 
 
 ### Define Climate Change
@@ -105,7 +104,13 @@ Fill plants are the most complicated [Routes](reference/Route/RouteOverview), si
 
 ### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [Plantbeta](https://klimbeta.github.io/plantbeta/)
 
+
+
+
 #### [Beta System](reference/Beta/WhatBetaSystem)
+
+> Apply the system that you're familiar from Climbing with to plant more Efficiently 
+
 The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Plantbeta.
 
 #### [BetaScore](/reference/Score/Overview)
