@@ -1,6 +1,8 @@
 # BetaRoute Competition
 
-## What?
+A Beta Route Competition is the easiest BetaComp type to run, since it is the most similar to current Climbing Competitions. 
+
+## What is a BetaRoute Competition?
 
 Both the [Route](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary#fixed).
 
@@ -12,25 +14,46 @@ Climbers are expected to be able to complete the Route
 
 ### [Onsight](/reference/Glossary#onsight) Only
 
-In a BetaRoute competition, each Climber gets only one [Attempt](/reference/Glossary#attempt) per Route.
+In a BetaRoute competition, each Climber gets **only one** [Attempt](/reference/Glossary#attempt) per Route.
 
 Attempt starts when climber makes contact with Route with **any part** of their body.
 
-### Timelimit
+### ⏳ Timelimit
 
-Climber has one minute to view the Route from the ground without contacting it.
+Climber has one minute to view the Route from the ground without contacting it. There is no time limit once the Climber is on the Route. Resting on the Route can reduce a Climber's Execution Score.
 
-### BetaBoulder
+### Using a Bouldering Route
 
-[Bouldering](/reference/Glossary#bouldering) Route
+The [Bouldering](/reference/Glossary#bouldering) BetaRoute Competition 
 
-### BetaLead
+::: details
 
-[Lead Climbing](/reference/Glossary#lead-climbing) Route
+
+:::
+
+### Using TopRope Route
+
+Using a [Top Rope](/reference/Glossary#top-rope) Route.
+
+::: details
+
+
+:::
+
+
+### Using Lead Route
+
+The [Lead Climbing](/reference/Glossary#lead-climbing) BetaRoute Competition.
+
+::: details
+
+
+:::
+
 
 ### Similar BetaComp Competitions
 
-ForcedBeta
+- [ForcedBeta](/reference/CompType/ForcedBeta)
 
 
 ## Who?
@@ -47,12 +70,13 @@ Climbers are
 - Get required Judges.
 - Advertise Competition on Social Media and Poster
 
-- Set a Route
+- Set the Route(s)
 - Print all Scoring Sheets
 
 - When to Brush Holds during competition?
-- How many rounds?
-- 
+- Determine how many rounds based on the number of climbers and Routes.
+
+- Post Scores
 
 ### How can Climbers train for a BetaRoute Competition?
 

@@ -30,6 +30,8 @@ When a Climber completes a Route without contacting any of the Route or seeing a
 
 ## Top Out Route 
 
+## Top Rope
+
 ## Wall
 
 ### Wall Top
