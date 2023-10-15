@@ -1,0 +1,51 @@
+# 🛠 BetaBauen
+
+
+
+## What is BetaBauen?
+
+BetaBauen is inspired by Bauhaus. "Bauen" is a germanic word which means "build","construct","make". 
+
+> One of the main objectives of the Bauhaus was to unify art, craft, and technology, and this approach was incorporated into the curriculum of the Bauhaus.
+
+![Bauhaus](/Bauhaus.png)
+
+BetaBauen has the most amusing name of all comps, but is the most complex of all the BetaComp types since competitors must be both skilled at setting and [BetaClimbing](/guide/What/WhatBeta).
+
+Setters set a Route or Wall then climb it themselves or another team member climbs it.
+
+
+
+[EnvironmentScore](/reference/Scoring/Composition/EnvironmentComposition)
+
+A combination of BetaComps and Setter Showdown 
+
+### Similar Competitions
+
+
+
+## Who?
+
+
+## Where?
+
+## Implementation
+
+- Each Team is given the same blank Wall, Modules and Holds. 
+- Setters set a Route or Wall then climb it themselves or another team member climbs it.
+
+### How can Climbers train for this Competition?
+
+### How can Setters train for this Competition?
+
+### Beta Scoring System
+
+## Why?
+
+### Benefits for Climbers
+
+### Benefits for Routesetters
+
+### Benefits for Coaches
+
+### Benefit for Gyms 

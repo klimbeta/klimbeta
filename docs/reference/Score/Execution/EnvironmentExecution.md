@@ -2,7 +2,7 @@
 
 Score which judges the Envrionment that Setter sets.
 
-## MetaBetaComp
+## BetaBauen
 
-Environment Execution Score is only used in MetaBetaComp, since this is the only competition where competitors modify the Environment.
+Environment Execution Score is only used in BetaBauen, since this is the only competition where competitors modify the Environment.
 

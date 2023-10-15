@@ -16,7 +16,7 @@ You don't need to have a formal competition hosted by a gym to compete in a Beta
 :::
 
 
-![BetaScores](/BetaScores.png)
+![BetaScores](/BetaScore/BetaScores.png)
 
 
 

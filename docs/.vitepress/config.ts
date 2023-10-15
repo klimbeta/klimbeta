@@ -153,8 +153,8 @@ function sidebarReference() {
         { text: '🟩 BetaWall', link: '/reference/CompType/BetaWall' },
         { text: '🔷🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
         { text: '💬 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
-        { text: '🔧 MetaBetaComp', link: '/reference/CompType/MetaBetaComp' },
-        { text: '🎵 BetaDance', link: '/reference/CompType/BetaDance' },
+        { text: '🛠 BetaBauen', link: '/reference/CompType/BetaBauen' },
+        { text: '🟠 BetaDance', link: '/reference/CompType/BetaDance' },
         { text: '🔷 TeamBeta', link: '/reference/CompType/TeamBeta' },
 
       ]
@@ -591,8 +591,8 @@ function sidebarReference() {
       ]
     },
 
-    { text: 'Gallery', link: '/reference/Gallery/Gallery' },
-    { text: 'Glossary', link: '/reference/Glossary' },
+    { text: '📷 Gallery', link: '/reference/Gallery/Overview' },
+    { text: '📖 Glossary', link: '/reference/Glossary' },
     { text: 'Go to Officials', link: '/officials/OfficialsOverview' },
 
   ]

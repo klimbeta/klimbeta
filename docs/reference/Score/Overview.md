@@ -1,6 +1,6 @@
 # 🔷 BetaScore
 
-![BetaScores](/BetaScores.png)
+![BetaScores](/BetaScore/BetaScores.png)
 
 
 ## Absolute Score

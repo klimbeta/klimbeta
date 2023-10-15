@@ -1,4 +1,4 @@
-# Team BetaComp
+# TeamBeta
 
 ## What?
 ### Similar Competitions
@@ -9,7 +9,7 @@
 ### Relay Climbing
 - Climber can rest while partner climbs 
 
-### MetaBetaComp
+### BetaBauen
 
 ## Who?
 

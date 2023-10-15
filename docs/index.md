@@ -4,7 +4,8 @@ layout: home
 
 hero:
   name: "🔷 BetaComp 🔷"
-  tagline: The Development of a New Climbing Olympic Event
+  tagline: When the goal isn't to reach the top! 
+  text: A Vision of Climbing's Future
   image:
     src: /BetaSetDiagram.png
     alt: BetaSetDiagram
@@ -32,11 +33,11 @@ hero:
 features:
   - icon: 🧗‍♀️
     title: By Climbers, for Climbers
-    details: BetaComp is a non-profit, it is a FREE resource designed to progress the sport of climbing.
+    details: BetaComp is a FREE resource designed to progress the sport of climbing towards an Art instead of just sport.
     link: /guide/What/WhatBetaComp  
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 11, 2023
+    details: Last Updated on October 15, 2023
     link: /development/Roadmap
   - icon: 🌲
     title: Plantbeta

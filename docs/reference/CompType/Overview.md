@@ -13,13 +13,13 @@
 ---
 
 
-## [🔷 ForcedBeta Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/ForcedBeta)
+## [💬 ForcedBeta Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/ForcedBeta)
 
-### [How to Implement a ForcedBeta Competition](/reference/CompType/ForcedBeta#implementation)
+### [ How to Implement a ForcedBeta Competition](/reference/CompType/ForcedBeta#implementation)
 
 ---
 
-## [BetaBattle Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaBattle)
+## [🔷🔷 BetaBattle Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaBattle)
 
 ### [How to Implement a BetaBattle Competition](/reference/CompType/BetaBattle#implementation)
 
@@ -27,9 +27,9 @@
 
 ---
 
-## [MetaBetaComp Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/MetaBetaComp)
+## [🛠 BetaBauen Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaBauen)
 
-### [How to Implement a MetaBetaComp Competition](/reference/CompType/MetaBetaComp#implementation)
+### [How to Implement a BetaBauen Competition](/reference/CompType/BetaBauen#implementation)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-## [🎵 BetaDance Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaDance)
+## [🟠 BetaDance Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaDance)
 
 ### [How to Implement a BetaDance Competition](/reference/CompType/BetaDance#implementation)
 

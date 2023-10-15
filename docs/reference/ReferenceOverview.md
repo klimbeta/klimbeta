@@ -11,9 +11,9 @@ Click on a Section to go to its Overview.
 :::
 
 
-## [🔷 Competition Types 🔷 ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/Overview)
+## [🔷 Competition Types 🔷 ![Comps](/Comps.png)](/reference/CompType/Overview)
 
-## [🔷 Scoring System 🔷![BetaScore](/DifficultyScoreTree.png)](/reference/Score/Overview)
+## [🔷 Scoring System 🔷![BetaScores](/BetaScore/BetaScores.png)](/reference/Score/Overview)
 
 ## [🔷 Beta System 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 
@@ -24,3 +24,7 @@ Click on a Section to go to its Overview.
 ## [🟩 Environment 🟩 ![Environment](/Environment.png)](/reference/Environment/EnvironmentOverview)
 
 ## [💜 Neuro 💜 ![Neuro](/Neuro.png)](/reference/Neuro/NeuroOverview)
+
+## [📖 Glossary](/reference/Glossary)
+
+## [📷 Gallery](/reference/Gallery/Overview)

@@ -44,11 +44,12 @@ Sonata Structure
 
 - BetaWall
 - BetaBattle
-- TeamBetaComp
-- MetaBetaComp
+- TeamBeta
+- BetaBauen
 - BetaDance
 
 Competitions with a fixed Route, like BetaRoute competitions, don't have a CompositionScore since there the route greatly limits the range of possible movements. 
+
 
 ## Variety
 
