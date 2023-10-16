@@ -28,4 +28,3 @@ During a BetaBattle, the judges decide which competitor has better Beta. A Compe
 
 
 
-

@@ -10,7 +10,7 @@ BetaBauen is inspired by Bauhaus. "Bauen" is a germanic word which means "to bui
 
 ![Bauhaus](/Bauhaus.png)
 
-BetaBauen has the most amusing name of all comps, but is the most complex of all the BetaComp types since competitors (BetaBauers) must be both skilled at setting and [BetaClimbing](/guide/What/WhatBeta).
+Is the most complex of all the BetaComp types since competitors (BetaBauers) must be both skilled at setting and [BetaClimbing](/guide/What/WhatBeta).
 
 Setters set a Route or Wall then climb it themselves or another team member climbs it.
 

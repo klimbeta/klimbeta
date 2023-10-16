@@ -1,6 +1,16 @@
 # TeamBeta
 
-## What?
+## What is TeamBeta?
+
+TeamBeta is Beta which requires more than one person. 
+
+Beta between Climbers and Spottters.
+
+Beta between two or more Climbers.
+
+Beta between Climbers and Belayers.
+
+
 ### Similar Competitions
 ### Synchronized Climbing
 - Syncronized Swimming

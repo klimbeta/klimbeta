@@ -1,10 +1,10 @@
-# BetaRoute Competition
+# 🔺 BetaRoute Competition
 
-A Beta Route Competition is the easiest BetaComp type to run, since it is the most similar to current Climbing Competitions. 
+A Beta Route Competition is the easiest BetaComp type to understand and run, since it is the most similar to current Climbing Competitions. 
 
 ## What is a BetaRoute Competition?
 
-A BetaRoute competition is a climbing competition where climbers get one attempt to climb a route and are scored on How they climb the route. 
+A BetaRoute competition is a climbing competition where climbers get [one attempt](/reference/CompType/BetaRoute#onsight-only) to climb a route and are scored on How they climb the route. 
 
 A Route is chosen and Climbers are scored on the difficulty of the Moves and execution of the Moves that they perform on the Route.
 

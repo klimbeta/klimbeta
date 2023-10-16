@@ -53,6 +53,8 @@ Lastly there's a section for the research and development of BetaComp
 [Video Tour of Sponsor Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
 
 
+## Search
+
 
 
 

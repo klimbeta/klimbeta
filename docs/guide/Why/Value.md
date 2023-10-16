@@ -81,24 +81,25 @@ Hey this exists what do you think you could use it for
 <!-- ---------------------------------------------------------------------------- -->
 ## Makes Money
 
+- BetaWall reduces the cost of Setting a competition since the BetaWall does not need to be reset between competitions and organizers don't need to spend money on really nice holds of every color since the color of holds is not important for BetaWall competitions. 
 - Spectators
-
 - People watch the Olympic Events that BetaComp [mimics](/guide/How/OtherSport).
 <!-- ---------------------------------------------------------------------------- -->
 ## Motivation
 
-
+- BetaComps are designed to be playful
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Nostalgia
 
-- Johnny Dawes was always talking about Sticky Rubber.
+- Before monochrome routes became the norm in gyms, setters created routes from multiple colors of holds, just like [BetaWall](/reference/CompType/BetaWall)
+
+
 
 - Moonkick
-
 - Gaston or Dulfer
 
-
+Experience a specific Beta like jumping to a [PocketHold]() in Action Directe.
 
 ::: tip Action Directe
 > Jump to a Pocket
@@ -106,24 +107,34 @@ Hey this exists what do you think you could use it for
 <!-- ---------------------------------------------------------------------------- -->
 ## Organizes
 
+
+
 ### Easy to search
 
+Easier to search through than any book about climbing technique, since BetaComp has a [search function](/guide/What/WhatBetaCompWebsite#search).
 
 ### Formalizes
 
-- Standardized Naming System
+- Standardized Naming System like [chemical compounds](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry) or [biological names of organisms](https://en.wikipedia.org/wiki/Taxonomy_(biology)).
 
 - [What is Beta](/guide/What/WhatBeta)
 
 ### Systematizes
 - Movement Hierarchy
+    - Movements have been categorized in the Reference Section, which allows climbers to gain a deeper understanding of the relationships between the parts of a Climber's experience.
+
+- BetaComp's BetaSystem allows new concepts and BetaElements to be added to the climbing current knowledge base.
+
+- Beta is broken down into its most simple parts, these simple parts can then be rearranged into sequences or novel elements.
+
 
 
 ### Measures
--DifficultyScore
+- DifficultyScore
 
--ExecutionScore
+- ExecutionScore
 
+- CompositionScore
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Provides Access
@@ -158,13 +169,17 @@ Tall Person Beta
 <!-- ---------------------------------------------------------------------------- -->
 ## Provides Hope
 
-Same Project
-Shared Project
+- BetaComp's BetaSystem give hope to Novice Climbers by providing a way to systematically increase their understanding of their climbing experience, instead of just relying on trial and error. Trial and Error can quickly cause a climber to feel hopeless about their project, since they can't communicate what is causing them to fall. The BetaSystem gives Climbers hope by helping them to understand what to expect. 
+
+- Climbing isn't magic, you can learn it.  
+
+
+
 <!-- ---------------------------------------------------------------------------- -->
 
 ## Quality
 
-A Climbers ability is easier to **qualify** than to quantify. 
+BetaComp requires Climbers to have high quality Beta, which can easily be applied to any climbing outside of competitions. 
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Anxiety
 
@@ -174,8 +189,18 @@ Being able to externalize the Beta of your project by putting on paper reduces A
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Effort
 
-- Reduces the distance travelled by planters by using efficient Routing.
-- Increased CognitiveEase leads to feelings of effortlessness.
+![CognitiveEase_00](/CognitiveEase_00.png)
+
+Increasing Cognitive Ease results in feelings of Effortlessness. BetaComp enhances these four factors which determine Cognitive Ease.
+- Priming
+- Repetition
+    - [Tests](/tests/TestsOverview)
+- Clarity
+    - BetaSystem
+- Good Mood
+    - Reduces Fatigue
+    - Reduces the distance travelled by Climbers by using efficient Routes.
+
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Risk
@@ -188,7 +213,7 @@ Being able to externalize the Beta of your project by putting on paper reduces A
 BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it takes to learn all of routesetting's vocabulary about Routes and Walls, therefore the cost to train routesetters is reduced.
 
 <!-- ---------------------------------------------------------------------------- -->
-## Rewards Me
+## Personally Rewarding
 
 - Be able to track your progress as a Climber by the number of elements that you've understood then mastered.
 
@@ -202,6 +227,7 @@ BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it
 <!-- ---------------------------------------------------------------------------- -->
 ## Self-Actualization
 
+![SelfActualization_00](/SelfActualization_00.png)
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -221,16 +247,14 @@ BetaComp simplifies Climbing by breaking a Climber's experience into their most 
 
 
 
-<!-- ---------------------------------------------------------------------------- -->
-## Therapeutic Value
-
-
 
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Variety
 
-Creativity Competitions increase the **variety** of movements by finding producing novel Moves, Routes, walls, and ways of thinking.
+- Creativity Competitions increase the **variety** of movements by finding producing novel Moves, Routes, walls, and ways of thinking.
+
+- Variety is incorporated into  the [CompositionScore](/reference/Score/Composition/Overview#variety) of BetaComps. 
 
 
 
