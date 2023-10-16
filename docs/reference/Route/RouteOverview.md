@@ -20,6 +20,24 @@ The [Environment](/reference/Envrionment/EnvironmentOverview) is a novel concept
 
 ## What is a Route actually composed of?
 
+### RouteStart
+
+
+
+### RouteFinish
+
+Climber must touch the [FinishHold]() with both hands while in control. 
+
+### BonusHold
+
+Climber must use the BonusHold.
+
+Climber must use the BonusHold to Move to another RouteSurface or 
+
+to [Reposition]() themselves without using a 
+
+If the BonusHold was removed then the Climber wouldn't be able to perform their Move.
+
 ### RouteSurface
 
 > A **RouteSurface** is any surface of the [Environment](/reference/Envrionment/EnvironmentOverview) which a Climber contacts while performing a [Move](/reference/Move/MoveOverview).

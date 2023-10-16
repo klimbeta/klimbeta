@@ -22,6 +22,8 @@ An aspect of a Climber's Beta which can't be changed.
 
 ## Lead Climbing
 
+## OffRoute
+
 ## Onsight
 
 When a Climber completes a Route without contacting any of the Route or seeing anyone climb any part of the route before.
