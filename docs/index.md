@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "🔷 BetaComp 🔷"
   tagline: When the goal isn't to reach the top! 
-  text: A Vision of Climbing's Future
+  text: A Vision of Climbing
   image:
     src: /BetaSetDiagram.png
     alt: BetaSetDiagram

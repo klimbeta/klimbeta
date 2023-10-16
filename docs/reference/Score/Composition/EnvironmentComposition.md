@@ -4,4 +4,4 @@ The only BetaComp that uses the Environment Composition Score is [BetaBauen](/re
 
 ## BetaBauen
 
-![Bauhaus](/)
+![Bauhaus](/Bauhaus.png)
