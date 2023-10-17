@@ -28,3 +28,5 @@
 - Limited Route Space
     - PocketHold
     - CrackWall
+
+## Route Risk Factors

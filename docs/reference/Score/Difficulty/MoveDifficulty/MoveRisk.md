@@ -1,3 +1,5 @@
+
+
 # 🔷🟠 Move Risk
 
 ## Definition
@@ -85,7 +87,7 @@ Consequence4: High
 Consequence5: Extreme
 - Fall
 
-## Quotes
+## Quotes about Move Risk
 
 > “Low percentage movement”
 
@@ -134,7 +136,7 @@ Security
 - SlabClimbing
 - RicochetJump
 
-## Risk Factors
+## Move Risk Factors
 
 ### Accuracy
 
@@ -144,9 +146,22 @@ SlotMovement
     - FingerSlot into a TwoFingerPocketHold is Risky.
     - Adding a BlockerHold increases the Risk that the Climber will miss the LoadingSurface.
 
-RiskOfLosingGrip from being Gripping in IncorrectRoutePosition and or IncorrectLoadingAngleRange.
+RiskOfLosingGrip from being Gripped in IncorrectRoutePosition and or IncorrectLoadingAngleRange.
 - HandSlip
     - CausedBy(GripEndurance)
+
+HandCatch
+- Microbeta about FingerPosition.
+    - HandPianoSwap on Gioia (V15)
+    - BowlingBallHold
+        - MultiplePocketHold
+            - PinchPocketGrip
+    -   When the position of each finger on a RockCrystal matters.
+        - HandPosition@(HandCatch)
+    - Rotpunkt(2019)\Rotpunkt | [Alex Megos and the Advent, the Agony and the Art of the Redpoint](https://youtu.be/SbWvFjUIt5k?t=2338)
+
+
+
 
 
 

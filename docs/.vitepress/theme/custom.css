@@ -1,0 +1,12 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand-1: #569cd6;
+    --vp-c-brand-2: #747bff;
+
+  }
+
+move { color: #bf6a34 }
+route { color: #f44747 }
+neuro { color: #c586c0 }
+beta { color: #569cd6}
+bg { color: #1f1f1f }
