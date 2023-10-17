@@ -1,4 +1,4 @@
-# Setting a BetaComp
+# <envi>Setting a BetaComp</envi>
 
 ::: tip
 Routesetter is a misnomer given BetaComp's definition of a Route and the [differentiation between a Route and Environment](/reference/Environment/EnvironmentOverview.html#what-is-the-difference-between-Environment-and-Route). 
