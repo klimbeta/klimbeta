@@ -18,6 +18,7 @@ To minimize the Risk of Injury Climbers **MUST** avoid these Moves:
 :::
 
 
+
 ## Examples of Move Risk
 
 Risk of Dabbing
@@ -35,4 +36,117 @@ Risk of Dabbing
 - Dynamic SlotMove
 - No Recovery
 - Irreversible
+
+## Probability
+
+Levels of Probability
+- [Improbable, Remote, Occasional, Probable, Frequent]
+
+### Examples Of Probability
+
+MoveRisk.Probability1: Improbable
+- JugGrip.Error.Slip
+
+MoveRisk.Probability2: Remote
+- Fall from SlipMovement when all other Contacts are Stable.
+
+Probability3: Occasional
+
+Probability4: Probable
+
+MoveRisk.Probability5: Frequent
+
+- CrimpGrip.SharpHold
+- OneFingerCatch
+- DownDyno
+
+> “The first and last down jump”
+
+MyKeysToRouteSetting(191)
+
+### Prediction
+
+The inability to predict what a Movement or Route part will feel like increases the Risk, such as when onsighting a Route
+
+## Consequence
+
+NoRecovery
+Irreversible
+
+
+Consequence1:Negligible
+
+Consequence2: Low
+
+Consequence3: Moderate
+
+Consequence4: High
+
+Consequence5: Extreme
+- Fall
+
+## Quotes
+
+> “Low percentage movement”
+
+> “Do I go or not go”
+
+> “Risk worth the reward”,”Worth the risk”
+
+> “Not recoverable”,”there’s no return”,”Can’t undo this move”
+
+> “Riskier”,”Riskiest”,”Risky”,”Super risky”
+
+> “Sketchy move”,”Super sketchy”
+
+Chance, 
+
+> “Good chance”,”Bad chance”
+
+Percent
+
+> “Low Percentage”
+
+Probability
+
+Safety
+
+> “Safer”,”Safer option”
+
+Security
+
+> “Secure”, “Insecure”,”Precarious”,”Treacherous”, ”Not confident about this foot placement”
+
+> “Committing”,
+
+> “Delicate [Grip, FootPlacement]”,”Tenuous [Grip, FootPlacement]”
+
+> “Dicey”
+
+> “Implausible”,”Unlikely”
+
+> “No room for error”, “no margin for error”
+
+> “Uncertain”,”Unclear what to do”
+
+> “touch and go”\A maneuver in which an aircraft touches the ground as in landing and immediately takes off again
+
+- SlabClimbing
+- RicochetJump
+
+## Risk Factors
+
+### Accuracy
+
+SlotMovement
+- (PocketHoldSize)InverselyProportionalTo(Risk)
+- BlockerHold
+    - FingerSlot into a TwoFingerPocketHold is Risky.
+    - Adding a BlockerHold increases the Risk that the Climber will miss the LoadingSurface.
+
+RiskOfLosingGrip from being Gripping in IncorrectRoutePosition and or IncorrectLoadingAngleRange.
+- HandSlip
+    - CausedBy(GripEndurance)
+
+
 

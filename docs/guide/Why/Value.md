@@ -227,7 +227,12 @@ BetaComp's [reference section](/reference/ReferenceOverview) reduces the time it
 <!-- ---------------------------------------------------------------------------- -->
 ## Self-Actualization
 
+> Self-actualization can generally be thought of as the full realization of one’s creative, intellectual, and social potential through internal drive (versus for external rewards like money, status, or power).
+- Read more about Self Actualization [here](https://www.verywellmind.com/characteristics-of-self-actualized-people-2795963)
+
 ![SelfActualization_00](/SelfActualization_00.png)
+
+> While self-actualized people have concrete goals, they don't see things as simply a means to an end. The journey toward achieving a goal is just as important and enjoyable as actually accomplishing the goal.
 
 
 <!-- ---------------------------------------------------------------------------- -->
