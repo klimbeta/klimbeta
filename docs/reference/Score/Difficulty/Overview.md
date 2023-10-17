@@ -6,7 +6,7 @@ Based on the **RICscale** which was developed by Tonde Katiyo and Jacky Godoffe,
 
 The RICscale is used mostly by Routesetters to design and describe their Routes. In a BetaComp the RICscale can be applied to Routes, Moves, and to the Wall itself. 
 
-![DifficultyScore](/DifficultyScoreTree.png)
+![BetaScores](/BetaScores.png)
 
 
 ## Numerical Score
