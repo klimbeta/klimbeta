@@ -10,7 +10,7 @@ A Route is chosen and Climbers are scored on the difficulty of the Moves and exe
 
 Speed Climbing Competitions are similar to BetaRoute competitions since they both test **HOW** a climber climbs a route and not **IF** a climber can climb the route.
 
-Both the [Route](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary#fixed).
+Both the [<route>Route</route>](/reference/Route/RouteOverview) and the [Moves](/reference/Move/MoveOverview) that the Climber must execute are [fixed](/reference/Glossary#fixed).
 
 
 

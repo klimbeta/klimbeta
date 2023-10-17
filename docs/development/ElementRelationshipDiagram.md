@@ -68,9 +68,7 @@ Feeling for Hold
     - Set of Submoves
     - RouteSequence
 
-### Outcome > Output
 
-False value is a bunch of features that planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EnvironmentElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -83,7 +81,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The RouteElement(GoodMicrosite, FlagSite) gives the EnvironmentElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+The <route>RouteElement</route>(GoodMicrosite, FlagSite) gives the EnvironmentElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -213,9 +211,9 @@ MoveSelection.MoveEvaluation
 
 ---
 
-### RouteElementValue
+### <route>RouteElement</route>Value
 
-::: tip RouteElementValue Addition
+::: tip <route>RouteElement</route>Value Addition
 
 ---
 
@@ -251,7 +249,7 @@ MoveSelection.MoveEvaluation
 :::
 
 
-::: danger Negative RouteElementValue
+::: danger Negative <route>RouteElement</route>Value
 
 ---
 

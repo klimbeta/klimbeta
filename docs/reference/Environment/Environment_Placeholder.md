@@ -65,10 +65,10 @@ Graph which represents how this element is related to other elements in the Beta
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-## Related 🔺 RouteElements
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+## Related 🔺 <route>RouteElement</route>s
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ## Related 💜 NeuroElements
 - Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
@@ -84,9 +84,7 @@ Quotes about this Move
 - "Quote3"
 - "Quote4"
 
-## MoveErrors
 
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
 
 ## Examples
 

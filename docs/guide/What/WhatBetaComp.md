@@ -1,6 +1,6 @@
 # What is a BetaComp?
 
-A BetaComp is a **group** of Climbing competitions which test a Climber's [Beta](/guide/What/WhatBeta), not just a Climber's ability to complete a [Route](/reference/Route/RouteOverview) or how fast they can complete a [Route](/reference/Route/RouteOverview).
+A BetaComp is a **group** of Climbing competitions which test a Climber's [Beta](/guide/What/WhatBeta), not just a Climber's ability to complete a [<route>Route</route>](/reference/Route/RouteOverview) or how fast they can complete a [<route>Route</route>](/reference/Route/RouteOverview).
 
 BetaComp mimics the competition structures of other Olympic Sports. Following the names of other  sports, in the Olympics BetaComp would be called "*Freestyle* Climbing" (like *Freestyle* Skiing) or "*Artistic* Climbing" (like *Artistic* Gymnastics).
 

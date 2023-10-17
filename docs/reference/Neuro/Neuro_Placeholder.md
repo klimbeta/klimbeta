@@ -50,10 +50,10 @@ Graph which represents how this element is related to other elements in the Beta
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-## Related 🔺 RouteElements
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+## Related 🔺 <route>RouteElement</route>s
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 ## Examples
 
 - Use Media donated by Climbers. 

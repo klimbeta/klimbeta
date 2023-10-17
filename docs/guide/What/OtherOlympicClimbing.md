@@ -10,7 +10,7 @@ The main difference between BetaComp and all other Olympic Climbing Events is th
 ## Speed Climbing Competition Compared to BetaComp  
 
 Similarities to BetaComp
-- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview)
+- All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview)
 
 
 Differences from BetaComp
@@ -23,34 +23,34 @@ Differences from BetaComp
 ## Bouldering Competition Compared to BetaComp
 
 Similarities to BetaComp
-- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview) 
+- All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview) 
 - [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
 
 
 Differences from BetaComp
-- Competitors try to get to the top of [Wall](/reference/Environment/EnvironmentOverview).
+- Competitors try to get to the top of [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview).
 - Forced Movements
-- Forced [Route](/reference/Route/RouteOverview)
+- Forced [<route>Route</route>](/reference/Route/RouteOverview)
 
 ## Lead Climbing Competition Compared To BetaComp 
 
 Similarities to BetaComp
-- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview)
+- All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview)
 - [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
 
 
 Differences from BetaComp
 - [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
-- Competitors try to get to the top of [Wall](/reference/Environment/EnvironmentOverview).
+- Competitors try to get to the top of [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview).
 - Forced Movements
-- Forced [Route](/reference/Route/RouteOverview)
+- Forced [<route>Route</route>](/reference/Route/RouteOverview)
 
 ## BetaComp Compared to Dyno Competition
 
 Similarities to BetaComp
-- All competitors use the same [Wall](/reference/Environment/EnvironmentOverview)
+- All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview)
 
 Differences from BetaComp
-- Competitors try to get to the top of [Wall](/reference/Environment/EnvironmentOverview).
+- Competitors try to get to the top of [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview).
 - Forced Movements
-- Forced [Route](/reference/Route/RouteOverview)
+- Forced [<route>Route</route>](/reference/Route/RouteOverview)

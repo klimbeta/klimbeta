@@ -27,12 +27,12 @@ Office québécois de la langue française
 
 ## What does 'Beta' mean in a BetaComp? 
 
-BetaComp defines Beta as a system composed of four subsystems: [Environment](/reference/Environment/EnvironmentOverview), [Move](/reference/Move/MoveOverview), [Route](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
+BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [<route>Route</route>](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaSetDiagram](/BetaSetDiagram.png) 
 
 ::: tip Examples of the Environmental aspects of Beta
-![Environment](/Environment.png)
+![<envi>Environment</envi>](/Environment.png)
 
 ---
 
@@ -46,7 +46,7 @@ BetaComp defines Beta as a system composed of four subsystems: [Environment](/re
 
 ::: tip Examples of the Movement aspects of Beta
 
-![Move](/Move.png)
+![<move>Move</move>](/Move.png)
 
 <!-- ![InsertImage]() of LegWhip[SpaceFoot]
 
@@ -58,7 +58,7 @@ BetaComp defines Beta as a system composed of four subsystems: [Environment](/re
 
 ::: tip Examples of the Routing aspects of Beta
 
-![Route](/Route.png)
+![<route>Route</route>](/Route.png)
 
 ---
 
@@ -87,12 +87,12 @@ BetaComp defines Beta as a system composed of four subsystems: [Environment](/re
 
 ## What is the difference between Environment and Route?
 
-Philosophically, a [Route](/reference/Route/RouteOverview) is an Abstraction of the [Environment](/reference/Environment/EnvironmentOverview). The Route **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
+Philosophically, a [<route>Route</route>](/reference/Route/RouteOverview) is an Abstraction of the [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview). The Route **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
 
-The [Environment](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a Route they are referring to the [Wall](/reference/Environment/Wall/Overview), which is an element of the Environment.
+The [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a Route they are referring to the [<envi>Wall</envi>](/reference/Environment/Wall/Overview), which is an element of the Environment.
 
 ::: danger Ask Yourself...
-> If a Climber ascends a [Wall](/reference/Environment/Wall/Overview) using a particular color of holds and another Climber comes along ascends the same Wall using the same color of holds as the first Climber, but skips half of them, then did both Climbers climb the same Route?
+> If a Climber ascends a [<envi>Wall</envi>](/reference/Environment/Wall/Overview) using a particular color of holds and another Climber comes along ascends the same Wall using the same color of holds as the first Climber, but skips half of them, then did both Climbers climb the same Route?
 
 
 > If a Climber [FootSmears](/reference/Move/FootMove/FootSmear) beside a colored indoor hold, are they [OffRoute](/reference/Glossary#offroute) because they're not touching a colored hold?
@@ -113,7 +113,7 @@ It is important to remember that every type of Climbing uses every aspect of Bet
 <!-- ![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics -->
 <!-- ![InsertImage]() of Route Climbing Dyno Psico Buildering -->
 
-::: tip Climbers focus on the [Route](/reference/Route/RouteOverview) aspect of Beta
+::: tip Climbers focus on the [<route>Route</route>](/reference/Route/RouteOverview) aspect of Beta
 
 Free Climbing a Route without using any tools to advance yourself along the Route. Any Moves, even if they aren't pretty, are used to complete the Route. This is by far the most common goal of Climbing. Some Routes finish at an arbitrary location, or they could finish in the middle of a Big Wall. 
 
@@ -133,7 +133,7 @@ Free Climbing a Route without using any tools to advance yourself along the Rout
 
 <!-- ![InsertImage] of Move Climbing -->
 
-::: tip Climbers focus on the [Move](/reference/Move/MoveOverview) aspect of Beta. 
+::: tip Climbers focus on the [<move>Move</move>](/reference/Move/MoveOverview) aspect of Beta. 
 
 - Climbers focus on Moves when they are training to complete a Route.
 - Climbing with a weight vest.

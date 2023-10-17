@@ -17,11 +17,11 @@ Click on a Section to go to its Overview.
 
 ## [🔷 Beta System 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 
-## [🟠 Move 🟠 ![Move](/Move.png)](/reference/Move/MoveOverview)
+## [🟠 Move 🟠 ![<move>Move</move>](/Move.png)](/reference/Move/MoveOverview)
 
-## [🔺 Route 🔺 ![Route](/Route.png)](/reference/Route/RouteOverview)
+## [🔺 Route 🔺 ![<route>Route</route>](/Route.png)](/reference/Route/RouteOverview)
 
-## [🟩 Environment 🟩 ![Environment](/Environment.png)](/reference/Environment/EnvironmentOverview)
+## [🟩 Environment 🟩 ![<envi>Environment</envi>](/Environment.png)](/reference/Environment/EnvironmentOverview)
 
 ## [💜 Neuro 💜 ![Neuro](/Neuro.png)](/reference/Neuro/NeuroOverview)
 

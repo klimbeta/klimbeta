@@ -4,7 +4,7 @@
         <img height="350" width="350" src="/RouteImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of RouteElement. How the RouteElement got its name. Common misconceptions about the RouteElement. How to differentiate this RouteElement from another similar RouteElement</p>
+        <p >Description of <route>RouteElement</route>. How the <route>RouteElement</route> got its name. Common misconceptions about the <route>RouteElement</route>. How to differentiate this <route>RouteElement</route> from another similar <route>RouteElement</route></p>
     </div>
 </div>
 
@@ -58,13 +58,13 @@ Graph which represents how this element is related to other elements in the Beta
 
 - Use Media donated by Climbers. 
 
-## Related 🔺 RouteElements 🔺
+## Related 🔺 <route>RouteElement</route>s 🔺
 
-Links to other related RouteElements. 
+Links to other related <route>RouteElement</route>s. 
 
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ::: details External References
 

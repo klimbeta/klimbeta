@@ -1,4 +1,4 @@
-# 🌲 [Plantbeta Click Here to Go to Plantbeta](https://klimbeta.github.io/plantbeta/)🌲
+# 🌲 [<envi>Plantbeta</envi> Click Here to Go to <envi>Plantbeta</envi>](https://klimbeta.github.io/plantbeta/)🌲
 
 ![BetaComp_Plantbeta](/BetaComp_Plantbeta.png)
 
@@ -16,7 +16,7 @@
 
 Planting is a solution.
 
-You can contribute to the 2 Billion Tree by using Plantbeta.
+You can contribute to the 2 Billion Tree by using <envi>Plantbeta</envi>.
 
 ### Articles About How Planting Trees Combats Climate Change 
 
@@ -35,11 +35,11 @@ You can contribute to the 2 Billion Tree by using Plantbeta.
 
 ### 🔥 Get all articles about wildfires and replanting
 
-## Rookie Planter Story without Plantbeta
+## Rookie Planter Story without <envi>Plantbeta</envi>
 
 Explain what tree planting is from the perspective of a Rookie Planter.
 
-## Rookie Planter Story with BetaComp and Plantbeta
+## Rookie Planter Story with BetaComp and <envi>Plantbeta</envi>
 
 Show the utility of BetaComp for Planters
 
@@ -56,9 +56,9 @@ Show the utility of BetaComp for Planters
 
 ---
 
-### 2. How [Plantbeta]() helps Planting to Combat Climate Change
+### 2. How [<envi>Plantbeta</envi>]() helps Planting to Combat Climate Change
 
-Plantbeta can allow the planting rate to stay the same as past years while increasing the difficulty of the environment that planters must plant. 
+<envi>Plantbeta</envi> can allow the planting rate to stay the same as past years while increasing the difficulty of the environment that planters must plant. 
 
 Currently there is no way to teach planting
 
@@ -81,7 +81,7 @@ Less Clearcutting: Selective Logging
 
 Plant more than just trees.
 
-Fill plants are the most complicated [Routes](reference/Route/RouteOverview), since it can be very difficult to remember and see where you've already planted. Flagger is used the most during FillPlants, Plantbeta educates Planters how to [Flag](https://klimbeta.github.io/plantbeta/reference/Route/Flag/Overview.html) as productively as possible.
+Fill plants are the most complicated [<route>Routes</route>](reference/Route/RouteOverview), since it can be very difficult to remember and see where you've already planted. Flagger is used the most during FillPlants, <envi>Plantbeta</envi> educates Planters how to [Flag](https://klimbeta.github.io/plantbeta/reference/Route/Flag/Overview.html) as productively as possible.
 
 
 #### Increase Seedling Survival Rate
@@ -92,7 +92,7 @@ Fill plants are the most complicated [Routes](reference/Route/RouteOverview), si
 
 - Planters often mess up their density simply because they don't know how to plant optimal density, becuase they are never taught in the first place.
 
-- Assuming that Planters plant low quality trees because it requires less effort. As Planters become more skilled from Plantbeta, they also learn how to expend less effort for each tree.
+- Assuming that Planters plant low quality trees because it requires less effort. As Planters become more skilled from <envi>Plantbeta</envi>, they also learn how to expend less effort for each tree.
 
 - A skilled planter uses less effort to plant the same tree as a Rookie Planter.
 
@@ -102,7 +102,7 @@ Fill plants are the most complicated [Routes](reference/Route/RouteOverview), si
 
 ---
 
-### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [Plantbeta](https://klimbeta.github.io/plantbeta/)
+### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [<envi>Plantbeta</envi>](https://klimbeta.github.io/plantbeta/)
 
 
 
@@ -111,7 +111,7 @@ Fill plants are the most complicated [Routes](reference/Route/RouteOverview), si
 
 > Apply the system that you're familiar from Climbing with to plant more Efficiently 
 
-The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Plantbeta.
+The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to <envi>Plantbeta</envi>.
 
 #### [BetaScore](/reference/Score/Overview)
 
@@ -143,7 +143,7 @@ Planters become physically fit and ambidextrous
 
 It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
 
-BetaComp's BetaSystem increases the efficiency and effectiveness of Plantbeta.
+BetaComp's BetaSystem increases the efficiency and effectiveness of <envi>Plantbeta</envi>.
 
 BetaComp keeps Planters fit during their OffSeason so they can return to planting fitter than the year before.
 
