@@ -10,14 +10,9 @@
   text-decoration-color: #808080;
 }
 
-move { 
-  color: #bf6a34;
-
-}
+move { color: #bf6a34 }
 route { color: #f44747 }
 neuro { color: #c586c0 }
-beta { color: #569cd6}
-envi { 
-  color: #6a9955;
-}
+beta { color: #569cd6 }
+envi { color: #6a9955 }
 bg { color: #1f1f1f }

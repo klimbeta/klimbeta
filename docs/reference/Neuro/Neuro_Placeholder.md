@@ -47,9 +47,9 @@ Graph which represents how this element is related to other elements in the Beta
 - Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
 
 ## Related 🟩 EnvironmentElements
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
 ## Related 🔺 <route>RouteElement</route>s
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).

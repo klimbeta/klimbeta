@@ -62,18 +62,18 @@ Graph which represents how this element is related to other elements in the Beta
 ## Related 🟠 MoveElements 🟠
 
 ## Related 🟩 EnvironmentElements
-- Description of how this movement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this movement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this movement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-## Related 🔺 <route>RouteElement</route>s
+- Description of how this movement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this movement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this movement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+## Related 🔺 RouteElements
 - Description of how this movement relates to a particular [<route>RouteElement </route>](/reference/Route/RouteOverview).
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ## Related 💜 NeuroElements
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 
 ## Quotes
 

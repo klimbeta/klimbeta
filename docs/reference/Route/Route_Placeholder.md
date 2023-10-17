@@ -41,13 +41,13 @@ Graph which represents how this element is related to other elements in the Beta
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 🟩 EnvironmentElements
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
 ## Related 💜 NeuroElements
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 
 ## Related 🟠 MoveElements
 - Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).

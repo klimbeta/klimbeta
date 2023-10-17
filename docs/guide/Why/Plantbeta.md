@@ -1,4 +1,4 @@
-# 🌲 [<envi>Plantbeta</envi> Click Here to Go to <envi>Plantbeta</envi>](https://klimbeta.github.io/plantbeta/)🌲
+# 🌲 [Plantbeta Click Here to Go to Plantbeta](https://klimbeta.github.io/plantbeta/)🌲
 
 ![BetaComp_Plantbeta](/BetaComp_Plantbeta.png)
 
@@ -16,7 +16,7 @@
 
 Planting is a solution.
 
-You can contribute to the 2 Billion Tree by using <envi>Plantbeta</envi>.
+You can contribute to the 2 Billion Tree by using Plantbeta.
 
 ### Articles About How Planting Trees Combats Climate Change 
 
@@ -92,7 +92,7 @@ Fill plants are the most complicated [<route>Routes</route>](reference/Route/Rou
 
 - Planters often mess up their density simply because they don't know how to plant optimal density, becuase they are never taught in the first place.
 
-- Assuming that Planters plant low quality trees because it requires less effort. As Planters become more skilled from <envi>Plantbeta</envi>, they also learn how to expend less effort for each tree.
+- Assuming that Planters plant low quality trees because it requires less effort. As Planters become more skilled from Plantbeta, they also learn how to expend less effort for each tree.
 
 - A skilled planter uses less effort to plant the same tree as a Rookie Planter.
 
@@ -102,7 +102,7 @@ Fill plants are the most complicated [<route>Routes</route>](reference/Route/Rou
 
 ---
 
-### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [<envi>Plantbeta</envi>](https://klimbeta.github.io/plantbeta/)
+### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [Plantbeta](https://klimbeta.github.io/plantbeta/)
 
 
 
@@ -111,7 +111,7 @@ Fill plants are the most complicated [<route>Routes</route>](reference/Route/Rou
 
 > Apply the system that you're familiar from Climbing with to plant more Efficiently 
 
-The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to <envi>Plantbeta</envi>.
+The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Plantbeta.
 
 #### [BetaScore](/reference/Score/Overview)
 
@@ -143,7 +143,7 @@ Planters become physically fit and ambidextrous
 
 It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
 
-BetaComp's BetaSystem increases the efficiency and effectiveness of <envi>Plantbeta</envi>.
+BetaComp's BetaSystem increases the efficiency and effectiveness of Plantbeta.
 
 BetaComp keeps Planters fit during their OffSeason so they can return to planting fitter than the year before.
 
