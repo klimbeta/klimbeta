@@ -1,11 +1,11 @@
 
 
-# 🔷🟠 Move Risk
+# 🔷🟠 <move>Move</move> Risk
 
 ## Definition
 
 - Probability
-    - Move Risk is about a Move's probability of success, not risk of injury. **There should be no risk of injury while Climbing**
+    - <move>Move</move> Risk is about a <move>Move</move>'s <neuro>probability</neuro> of success, not risk of injury. **There should be no risk of injury while Climbing**
     - Improbable, Remote, Occasional, Probable, Frequent
 - Consequence of <move>MoveError</move>
     - Negligible, Marginal, Moderate, Critical, Catastrophic
@@ -136,6 +136,16 @@ Security
 - <envi>SlabClimbing</envi>
 - <move>RicochetJump</move>
 
+
+## Advantage
+
+ClimberHeight
+
+- A tall Climber can reverse a Dyno which a shorter Climber couldn’t perform.
+    - BypassRouteSection
+        - ”Worth the risk”
+
+
 ## Move Risk Factors
 
 ### Accuracy
@@ -161,7 +171,126 @@ Security
     - Rotpunkt(2019)\Rotpunkt | [Alex Megos and the Advent, the Agony and the Art of the Redpoint](https://youtu.be/SbWvFjUIt5k?t=2338)
 
 
+BodyPosition
+- Position of Climber in space. Particularly the position of a Climber’s CenterOfMass.
+- BarnDoor
 
+
+### Irreversible
+
+Definition(Irreversible)
+- A movement which can’t be reversed.
+
+Get BradGobright quote about FreeSolo in Eldorado Canyon in ReelRock.
+
+
+Dyno
+
+Irreversible.MoveRisk(Low)
+- Movements which are reversible but with at least a moderate probability of resulting in a Fall.
+
+### BlindMove
+
+ProprioceptiveMovement
+- Definition(ProprioceptiveMovement)
+    - A Movement which relies on Proprioception (sensing the position of one’s body). Without being able to use one’s eyes to guide the Movement.
+
+MoveRisk.ProprioceptiveMovement(+)
+- PaddleDyno
+- HiddenFootSwap
+- HiddenHandMatch
+- HiddenBumpMovement
+- HiddenLoadingSurface
+
+MoveRisk.ProprioceptiveMovement(-)
+- HandSwap
+    - Hands have high Proprioceptive ability, but it is possible that they could make MovementError, such as FingerOverlap or not NoSurfaceLeft.
+
+### No Recovery
+
+Definition(NoRecovery)
+- Climber can’t recover if MovementFailure happens. If HandSlip or FootSlip, or MissedTargetSurface happens, then Climber will not be able to recover control so that Climber doesn’t Fall.
+- No option to Redirect
+- Muscle can’t be used to regain control during Movement or after MovementFailure.
+- If Climber has an AnteSubmovementFailure, then Climber won’t be able to perform RecoveryMovement.
+- Not possible to muscle through a RouteSequenceError
+    - HandMatch not possible, therefore HandSwap not possible
+        - SmallHold, GripFatigue
+
+- ThresholdPassed
+
+    > “Over the line”
+
+    > “Crossed the line”
+
+    - LoadingSurface FrictionLine RangeOfRouteAnglesLimitLine
+
+    - GeometricalLimit
+
+    > “Cling on”, ”Stay on”
+
+    > “Past the point of no return”
+
+- Barndoor
+    - What is the PhysicsName for the threshold of a Barndoor, beyond which is a Fall?
+    - Does Barndoor imply Fall. A Barndoor can be used for LateralDynamicMovement
+- Dyno
+    - Unable to return to the Holds used to during LaunchPhase of Dyno
+
+### Pain
+
+
+RiskOfInjury
+- TooManyAttempts
+    > “If I do this one more time then I’ll start to bleed”
+    
+    - SelfPreservation
+    - SelfControl
+    - LongGame
+
+- PushMovementTooFar
+    - JointRangeOfMotion
+    - (HeelHook+RockUp)
+        - Pete Whittaker
+            - https://youtu.be/uUh5pAcEtGc?t=399
+
+- Overload tissues
+    - TendonTear
+    - LigamentTear
+
+### Environment
+
+WallType can modify MoveRisk or RouteRisk.
+- SlabWall increases Risk of SlipMovement.
+- NoShadowHold
+- SmallHold
+- SlightConcavityHold
+- AlexHonnold on the FreeblastSlab in FreeSoloMovie.
+
+
+## LowRiskMovement
+- Stand on (Ledge, Ground)
+- Kneebar
+    - ShallowKneebar is riskier than DeepKneebar.
+- Sit
+- JugGrip
+    - JugGrip.Risk(+)
+        - WetLoadingSurface
+    - JugGrip.Risk(-)
+        - 2_JugGrip
+- Standing
+- Sitting
+- RestPosition
+- ShakeOut
+
+## HighRiskMovement
+- FootSwap where supporting FootPosition must be maintained
+    - FootCrossSwap
+- SlotMovement
+    - FootSlot
+    - HandSlot
+- PaddleDyno
+- Multiple ClimberPart Smearing on SlabWall
 
 
 
