@@ -12,7 +12,7 @@ Although the BetaSystem is useful for all types of Climbing, Climbers don't need
 
 ## What does 'Beta' mean in a BetaComp? 
 
-BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [<route>Route</route>](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
+BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaSetDiagram](/BetaSetDiagram.png) 
 
@@ -43,7 +43,7 @@ Like Gymnastics Element, Skateboard Trick, Snowboard Trick, Dance Phrase,
 
 ::: tip Examples of the Routing aspects of Beta
 
-![<route>Route</route>](/Route.png)
+![ <route>Route</route> ](/Route.png)
 
 ---
 
@@ -63,9 +63,9 @@ Like Gymnastics Element, Skateboard Trick, Snowboard Trick, Dance Phrase,
 
 ## What is the difference between Environment and Route?
 
-Philosophically, a [<route>Route</route>](/reference/Route/RouteOverview) is an Abstraction of the [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview). The Route **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
+Philosophically, a [ <route>Route</route> ](/reference/Route/RouteOverview) is an Abstraction of the [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview). The <route>Route</route> **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
 
-The [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a Route they are referring to the [<envi>Wall</envi>](/reference/Environment/Wall/Overview), which is an element of the Environment.
+The [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a <route>Route</route> they are referring to the [<envi>Wall</envi>](/reference/Environment/Wall/Overview), which is an element of the Environment.
 
 ::: danger Ask Yourself...
 > If a Climber ascends a [<envi>Wall</envi>](/reference/Environment/Wall/Overview) using a particular color of holds and another Climber comes along ascends the same Wall using the same color of holds as the first Climber, but skips half of them, then did both Climbers climb the same Route?

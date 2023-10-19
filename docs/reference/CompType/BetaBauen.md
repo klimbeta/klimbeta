@@ -12,7 +12,7 @@ BetaBauen is inspired by Bauhaus. "Bauen" is a germanic word which means "to bui
 
 Is the most complex of all the BetaComp types since competitors (BetaBauers) must be both skilled at setting and [BetaClimbing](/guide/What/WhatBeta).
 
-Setters set a Route or Wall then climb it themselves or another team member climbs it.
+Setters set a <route>Route</route> or Wall then climb it themselves or another team member climbs it.
 
 
 
@@ -32,7 +32,7 @@ A combination of BetaComps and Setter Showdown
 ## Implementation
 
 - Each Team is given the same blank Wall, Modules and Holds. 
-- Setters set a Route or Wall then climb it themselves or another team member climbs it.
+- Setters set a <route>Route</route> or Wall then climb it themselves or another team member climbs it.
 
 ### How can Climbers train for this Competition?
 

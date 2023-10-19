@@ -17,7 +17,7 @@ Each performed Element has a particular numerical value.
 
 For example this Route:
 
-TODO A Tagged Storyboard of a Climber on a Route 
+TODO A Tagged Storyboard of a Climber on a <route>Route</route> 
 
 
 ::: tip Beta Difficulty
@@ -35,7 +35,7 @@ Move Complexity
 
 ---
 
-::: tip Route Difficulty
+::: tip <route>Route</route> Difficulty
 
 Route Risk
 
@@ -62,7 +62,7 @@ Environment Complexity
 
 ## Levels of BetaDifficultyScore
 
-The Dimensions of DifficultyScore give the route its difficulty.
+The Dimensions of DifficultyScore give the <route>Route</route> its difficulty.
 
 IntensityMatching
 
@@ -207,7 +207,7 @@ RouteConsistency
 
 - Use (++) and (--) to adjust the RICscore dimensions of a Route.
 - Consistent Difficulty for each Grade
-    - To ensure that each Route of the gym’s arbitrary grading scale has the same difficulty.
+    - To ensure that each <route>Route</route> of the gym’s arbitrary grading scale has the same difficulty.
     > “That move doesn’t feel like a Blue level move”
 
 - ConsistentRICscoreValue
@@ -215,7 +215,7 @@ RouteConsistency
     - Usually applies to Intensity
 
 GoodRoute to RICscore
-- Explain why a Route is ‘good’.
+- Explain why a <route>Route</route> is ‘good’.
 
 RICscore to GoodRoute
 
@@ -259,17 +259,17 @@ What aspect of climbing is the BetaRICscore describing?
 
 Scopes are arranged in a hierarchical structure
 - CompetitionRouteHierarchy
-    - (RouteSurface < Hold < Wall < Route < CompetitionRound < Competition)
+    - (RouteSurface < Hold < Wall < <route>Route</route> < CompetitionRound < Competition)
 
 - MultipitchRouteHierarchy
-    - (RouteSurface < Hold < Wall < Route < Pitch < Multipitch)
+    - (RouteSurface < Hold < Wall < <route>Route</route> < Pitch < Multipitch)
 
 
 ### Why
 
-- To articulate how a Route is (Hard, Difficult, Tough, Challenging, Problematic).
+- To articulate how a <route>Route</route> is (Hard, Difficult, Tough, Challenging, Problematic).
 
-- To articulate how a Route is (Hard, Difficult, Tough, Challenging, Problematic).
+- To articulate how a <route>Route</route> is (Hard, Difficult, Tough, Challenging, Problematic).
 - To modify the difficulty of each               
 - To specify particular instances when a Climber is on the Wall.
 - To describe Movements.
@@ -306,7 +306,7 @@ Modify Route.RIC
 EnvironmentalInfluences
 - Time
     - RouteTiming
-    - Does Route contain Time?\TimeLimit\The LappnorProject has a season. DawnWall has a time of day before it gets too warm.
+    - Does <route>Route</route> contain Time?\TimeLimit\The LappnorProject has a season. DawnWall has a time of day before it gets too warm.
 
 
 Maximize

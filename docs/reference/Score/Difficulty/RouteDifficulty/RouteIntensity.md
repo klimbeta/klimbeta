@@ -1,10 +1,10 @@
-# 🔷🔺 Route Intensity
+# 🔷🔺 <route>Route</route> Intensity
 
 ## Definition
 
 
 
-## Examples of Route Intensity
+## Examples of <route>Route</route> Intensity
 
 RouteDisplacement
 - Displacement between Launching and Catching RouteSurfaces during a Dyno Competition
@@ -12,11 +12,11 @@ RouteDisplacement
 
 RouteLength
 
-### Low Route Intensity
+### Low <route>Route</route> Intensity
 
 Short Route
 
-### High Route Intensity
+### High <route>Route</route> Intensity
 
 - RouteSurfaces far apart
 - Long Route

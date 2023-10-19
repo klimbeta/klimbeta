@@ -1,12 +1,12 @@
-# Route Composition
+# <route>Route</route> Composition
 
-## Route Combinations
+## <route>Route</route> Combinations
 
 Transitions
 
 Contiguous Route
 
-## Route Variety
+## <route>Route</route> Variety
 
 Like "Use Of Course" in Freeski
 
@@ -14,7 +14,7 @@ During the [BetaWall]() or [SetRoute](/reference/Glossary#SetRoute) inspection,
 
 Route Repetition
 
-### Route Direction Variety
+### <route>Route</route> Direction Variety
 
 Traverse
 
@@ -24,18 +24,18 @@ DownClimb
 
 
 
-### Route Surface Variety 
+### <route>Route</route> Surface Variety 
 
 Using same RouteSurface many times decreases RouteCompositionScore.
 
-Use of Wall Corners increases Route Variety.
+Use of Wall Corners increases <route>Route</route> Variety.
 
 
 
-## Route Progression
+## <route>Route</route> Progression
 
 
-## Route Structure
+## <route>Route</route> Structure
 
 ### PullOn Move
 
@@ -45,7 +45,7 @@ Novel
 
 ### Move Location
 
-Where along the Route is the trick performed?
+Where along the <route>Route</route> is the trick performed?
 
 Freeski(8.2.1)
 

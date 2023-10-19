@@ -27,7 +27,7 @@ Office québécois de la langue française
 
 ## What does 'Beta' mean in a BetaComp? 
 
-BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [<route>Route</route>](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
+BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaSetDiagram](/BetaSetDiagram.png) 
 
@@ -58,7 +58,7 @@ BetaComp defines Beta as a system composed of four subsystems: [<envi>Environmen
 
 ::: tip Examples of the Routing aspects of Beta
 
-![<route>Route</route>](/Route.png)
+![ <route>Route</route> ](/Route.png)
 
 ---
 
@@ -87,9 +87,9 @@ BetaComp defines Beta as a system composed of four subsystems: [<envi>Environmen
 
 ## What is the difference between Environment and Route?
 
-Philosophically, a [<route>Route</route>](/reference/Route/RouteOverview) is an Abstraction of the [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview). The Route **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
+Philosophically, a [ <route>Route</route> ](/reference/Route/RouteOverview) is an Abstraction of the [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview). The <route>Route</route> **only** exists in the minds of Climbers. There are no start holds in nature. The Environment is Concrete and exists whether or not a Climber climbs it. A skill of Climbers who seek first ascents is to see potential Routes in the Environment.
 
-The [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a Route they are referring to the [<envi>Wall</envi>](/reference/Environment/Wall/Overview), which is an element of the Environment.
+The [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is a novel concept in Climbing. Usually when a Climber talks about a <route>Route</route> they are referring to the [<envi>Wall</envi>](/reference/Environment/Wall/Overview), which is an element of the Environment.
 
 ::: danger Ask Yourself...
 > If a Climber ascends a [<envi>Wall</envi>](/reference/Environment/Wall/Overview) using a particular color of holds and another Climber comes along ascends the same Wall using the same color of holds as the first Climber, but skips half of them, then did both Climbers climb the same Route?
@@ -108,14 +108,13 @@ There are many goals in Climbing, your goal determines the part of Beta that Cli
 
 It is important to remember that every type of Climbing uses every aspect of Beta, each of the four types of Climbing just emphasize different the different aspects of Beta.
 
-### When Completing a Particular Route is a Climber's Goal
+### When Completing a Particular <route>Route</route> is a Climber's Goal
 
-<!-- ![InsertImage]() of Route Climbing Bouldering Lead Speed Combined Olympics -->
-<!-- ![InsertImage]() of Route Climbing Dyno Psico Buildering -->
 
-::: tip Climbers focus on the [<route>Route</route>](/reference/Route/RouteOverview) aspect of Beta
 
-Free Climbing a Route without using any tools to advance yourself along the Route. Any Moves, even if they aren't pretty, are used to complete the Route. This is by far the most common goal of Climbing. Some Routes finish at an arbitrary location, or they could finish in the middle of a Big Wall. 
+::: tip Climbers focus on the [ <route>Route</route> ](/reference/Route/RouteOverview) aspect of Beta
+
+Free Climbing a <route>Route</route> without using any tools to advance yourself along the Route. Any Moves, even if they aren't pretty, are used to complete the Route. This is by far the most common goal of Climbing. Some Routes finish at an arbitrary location, or they could finish in the middle of a Big Wall. 
 
 - Bouldering
 - Lead Climbing
@@ -131,15 +130,15 @@ Free Climbing a Route without using any tools to advance yourself along the Rout
 
 ### When Moving in a Particular Way is a Climber's Goal.
 
-<!-- ![InsertImage] of Move Climbing -->
+<!-- ![InsertImage] of<move>Move</move>Climbing -->
 
 ::: tip Climbers focus on the [<move>Move</move>](/reference/Move/MoveOverview) aspect of Beta. 
 
 - Climbers focus on Moves when they are training to complete a Route.
 - Climbing with a weight vest.
 - High altitude Alpinism without supplemental oxygen.
-    - Climbers just try to keep moving when the movement of breathing becomes a challenge and each step feels strenuous, while the same Move at sea level would be easy. 
-    - Climbers usually have completed their Route before with the aid of supplemental oxygen.
+    - Climbers just try to keep moving when the movement of breathing becomes a challenge and each step feels strenuous, while the same<move>Move</move>at sea level would be easy. 
+    - Climbers usually have completed their <route>Route</route> before with the aid of supplemental oxygen.
 - Campusboarding
 - Deadhang Competition
 - Grip Strength Competition
@@ -154,8 +153,8 @@ Free Climbing a Route without using any tools to advance yourself along the Rout
 
 - Free Solo Climbing and Free Base Climbing
     - Climbers cultivate the ability to calm their minds so that they can climb without any protection in Environments where a fall will result in death or life changing injury.
-    - Climbers usually Free Solo Routes that they have already completed and are well under their maximum difficulty. 
-    - Completing the Route is necessary but not the ultimate goal of Free Soloing. 
+    - Climbers usually Free Solo <route>Route</route> that they have already completed and are well under their maximum difficulty. 
+    - Completing the <route>Route</route> is necessary but not the ultimate goal of Free Soloing. 
     - Climbers seek the release of the neurotransitter **Adrenaline**, which occurs when Climbers are in a stressful situation. Climbers often describe the feeling of "heightened senses"
 
 - Flow Climbing

@@ -27,7 +27,7 @@ Competitions which don't require a full reset. A BetaWall doesn't need to be res
 #### Staff Training Cost
 
 Give Potential Setters a way to increase their theoretical understanding of Climbing.
-- Gives routesetters a resource which list all the moves, route and environments that they can set
+- Gives routesetters a resource which list all the moves, <route>Route</route> and environments that they can set
 
 
 Nonclimber spectators since visual appeal

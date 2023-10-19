@@ -23,6 +23,32 @@ Subjective Scores are informed by personal experience, while inspecting the Envi
 
 Objective Criteria
 
+
+Footcut
+
+PullUp
+
+TRexArms
+
+Landing
+
+FalseStart
+
+DoubleSwap
+- Swap Back
+
+Elevated Scapula
+
+FootArchSmear
+
+Pec Hang Sag
+
+Not Breathing
+
+Pause
+
+TouchingHolds
+
 #### Control
 
 Slipping off a RouteSurface when you didn't intend to.

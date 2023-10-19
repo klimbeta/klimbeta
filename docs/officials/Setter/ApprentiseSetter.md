@@ -1,5 +1,5 @@
 # Apprentise Setter
 
-Place Route Markings
-- Route Tape
-- Route Card
+Place <route>Route</route> Markings
+- <route>Route</route> Tape
+- <route>Route</route> Card

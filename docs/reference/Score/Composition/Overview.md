@@ -48,7 +48,7 @@ Sonata Structure
 - BetaBauen
 - BetaDance
 
-Competitions with a fixed Route, like BetaRoute competitions, don't have a CompositionScore since there the route greatly limits the range of possible movements. 
+Competitions with a fixed Route, like BetaRoute competitions, don't have a CompositionScore since there the <route>Route</route> greatly limits the range of possible movements. 
 
 
 ## Variety
@@ -71,7 +71,7 @@ Naming new Elements after yourself is common practice in gymnastics, it is **not
 
 ### Creativity
 
-Creativity is a subjective criteria which can apply to a creative Route Composition, MoveComposition, MoveExecution and a novel Move or Move Variation. 
+Creativity is a subjective criteria which can apply to a creative <route>Route</route> Composition, MoveComposition, MoveExecution and a novel Move or Move Variation. 
 
 ### Longevity of Progression
 

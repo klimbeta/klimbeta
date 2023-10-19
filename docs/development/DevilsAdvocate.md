@@ -11,7 +11,7 @@ By making all these rules which define the "right" or "correct" way to climb.
 
 ::: tip Response
 
-- Most of the Move Errors are due to Physics.
+- Most of the<move>Move</move>Errors are due to Physics.
 -   
 
 :::

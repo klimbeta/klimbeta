@@ -34,7 +34,7 @@ Christopher living in Montréal, Canada
 #### 🔷 Setting Inspired DifficultyScore
 - RICscale from My Keys to Routesetting.
 - Prioritize Complexity over Intensity.
-    - Spurred on by the feedback from a former setter "The routes are less cryptic than before", which I took to mean that the route were lacking complexity.
+    - Spurred on by the feedback from a former setter "The <route>Routes</route> are less cryptic than before", which I took to mean that the <route>Route</route> were lacking complexity.
     - Didn't like CrimpGrip
 
 #### 🔷 BetaWall Inspired by Setting a SprayWall
@@ -51,7 +51,7 @@ While at Coyote Rock Gym I was able to help run a Routesetting Clinic, then a ye
     - Movement Library exists.
     - Only basic glossaries of setting terminology exists.
 
-BetaRoute was inspired by all the time spent thinking about all the alternatives to a route which is being set. Trying to BreakBeta is a form of BetaRoute Competition. 
+BetaRoute was inspired by all the time spent thinking about all the alternatives to a <route>Route</route> which is being set. Trying to BreakBeta is a form of BetaRoute Competition. 
 
 ### ♻ Inspired as a Coach
 BetaComp was inspired by the climbing games and training drills which are used by coaches.
@@ -79,7 +79,7 @@ Coaches use [ForcedBeta](/reference/CompType/ForcedBeta) all the time.
 
 Maintaining optimal posture to prevent injury.
 
-Straight arms to increase Move Efficiency.
+Straight arms to increase<move>Move</move>Efficiency.
 
 HipsClose
 
@@ -87,7 +87,7 @@ SilentFeet
 
 ## ♻ Inspired by Vertical Reality as a Climber
 - Backfill Wall
-- No Route Grades
+- No <route>Route Grades</route>
 
 ## ♻ Inspired by Montréal as a Climber
 - Variety

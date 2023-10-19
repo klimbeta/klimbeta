@@ -6,11 +6,11 @@ Make sure you choose Letter Sized or A4 depending on i
 
 ## Reference Material
 
-### 🖨️ Movement Hierarchy Tree Chart
+### 🖨️ <move>Movement Hierarchy Tree Chart</move>
 
 Poster which is assembled from multiple Letter Sized or A4 Papers
 
-### 🖨️ Route Hierarchy Tree Chart
+### 🖨️ <route>Route Hierarchy Tree Chart</route>
 
 ## 🖨️ Tests
 
@@ -38,25 +38,30 @@ A printable PDF of the Elements in the Reference Section. The Elements have less
 
 The difference between a Beta Steno Sheet and a Beta Transcription Template is that the Beta Transcription Template isn't used for scoring, instead it is used to record and analyze Beta.
 
-### 🖨️ Route Diagram Template
+### 🖨️  <route>Route</route> Route Diagram Template
 
-Use the Route Diagram Template to record then analyze a Route.
+Use the <route>Route</route> Diagram Template to record then analyze a Route.
 
-### 🖨️ Move Diagram Template
+### 🖨️<move>Move</move>Diagram Template
 
-Use the Route Diagram Template to record then analyze a Move.
+Use the <route>Route</route> Diagram Template to record then analyze a Move.
 
-### 🖨️ Move Card Template
+### 🖨️<move>Move</move>Card Template
 
-Use the Move Card Template to design a Move Card which can be submitted to BetaComp for publishing in the Reference Section.
+Use the<move>Move</move>Card Template to design a<move>Move</move>Card which can be submitted to BetaComp for publishing in the Reference Section.
 
 ### 🖨️ Environment Card Template
 
 Use the Environment Card Template to design a Environment Card which can be submitted to BetaComp for publishing in the Reference Section.
 
-### 🖨️ Route Card Template
+### 🖨️ <route>Route</route> Card Template
 
-Use the Route Card Template to design a Route Card which can be submitted to BetaComp for publishing in the Reference Section.
+Use the <route>Route</route> Card Template to design a  <route>Route</route> 
+
+
+
+
+ Card which can be submitted to BetaComp for publishing in the Reference Section.
 
 
 ## Marketing

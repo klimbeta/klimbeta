@@ -1,11 +1,11 @@
 # ReadBeta
 
-## Route Reading
+## <route>Route</route> Reading
 
-Usually performed before starting to climb. Route reading also occurs while a Climber is on the Route.
+Usually performed before starting to climb. <route>Route</route> reading also occurs while a Climber is on the  <route>Route</route> .
 
 Where are all the RouteSurfaces?
 
 What is the RouteSpace?
 
-You can know the Route before you know the Move.
+You can know the <route>Route</route> before you know the Move.

@@ -15,15 +15,15 @@ Click on a Section to go to its Overview.
 
 ## [🔷 Scoring System 🔷![BetaScores](/BetaScore/BetaScores.png)](/reference/Score/Overview)
 
-## [🔷 Beta System 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
+## [🔷 <beta>Beta System</beta> 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 
-## [🟠 Move 🟠 ![<move>Move</move>](/Move.png)](/reference/Move/MoveOverview)
+## [🟠 <move>Move</move> 🟠 ![<move>Move</move>](/Move.png)](/reference/Move/MoveOverview)
 
-## [🔺 Route 🔺 ![<route>Route</route>](/Route.png)](/reference/Route/RouteOverview)
+## [🔺 <route>Route</route> 🔺 ![ <route>Route</route> ](/Route.png)](/reference/Route/RouteOverview)
 
-## [🟩 Environment 🟩 ![<envi>Environment</envi>](/Environment.png)](/reference/Environment/EnvironmentOverview)
+## [🟩 <envi>Environment</envi> 🟩 ![<envi>Environment</envi>](/Environment.png)](/reference/Environment/EnvironmentOverview)
 
-## [💜 Neuro 💜 ![Neuro](/Neuro.png)](/reference/Neuro/NeuroOverview)
+## [💜 <neuro>Neuro</neuro> 💜 ![Neuro](/Neuro.png)](/reference/Neuro/NeuroOverview)
 
 ## [📖 Glossary](/reference/Glossary)
 

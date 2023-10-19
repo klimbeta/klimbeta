@@ -7,39 +7,39 @@
 - Probability
     - Move Risk is about a Move's probability of success, not risk of injury. **There should be no risk of injury while Climbing**
     - Improbable, Remote, Occasional, Probable, Frequent
-- Consequence of MoveError
+- Consequence of <move>MoveError</move>
     - Negligible, Marginal, Moderate, Critical, Catastrophic
 Risky Moves have a small margin for error. 
 
 
 ::: warning
 To minimize the Risk of Injury Climbers **MUST** avoid these Moves:
-- Dynamic Moves using PocketHolds can injure finger joints.
-- HandCrack Climbing without gloves or tape can rip the skin on the back of hand and wrist.
-- Dynoing down to a hold can injure shoulder joints.
+- <move>Dynamic Moves</move> using <envi>PocketHolds</envi> can <move>injure finger joints</move>.
+- <move>HandCrack</move> Climbing without gloves or tape can rip the skin on the back of hand and wrist.
+- <move>Dynoing</move> down to a <envi>hold</envi> can injure shoulder joints.
 :::
 
 
 
-## Examples of Move Risk
+## Examples of <move>Move Risk</move>
 
-Risk of Dabbing
+Risk of <move>Dabbing</move>
 
 
-### Low Risk Move
+### Low Risk <move>Move</move>
 
-- Statically Climbing on JugHold.
+- <move>Statically Movement</move> on <envi>JugHold</envi>.
 
-### High Risk Move
+### High Risk <move>Move</move>
 
-- BodyDrop onto a surface 
-- FootSwap on featureless SlabWall.
-- Catching a HiddenHold
-- Dynamic SlotMove
-- No Recovery
-- Irreversible
+- <move>BodyDrop</move> onto a <route>RouteSurface</route> 
+- <move>FootSwap</move> on <envi>featureless SlabWall</envi>.
+- <move>Catching</move> a <envi>HiddenHold</envi>
+- <move>Dynamic SlotMove</move>
+- No <move>Recovery Movement</move> possible
+- <move>Irreversible MoveSequence</move>
 
-## Probability
+## <neuro>Probability</neuro>
 
 Levels of Probability
 - [Improbable, Remote, Occasional, Probable, Frequent]
@@ -47,10 +47,10 @@ Levels of Probability
 ### Examples Of Probability
 
 MoveRisk.Probability1: Improbable
-- JugGrip.Error.Slip
+- <move>JugGrip.Error.Slip</move>
 
 MoveRisk.Probability2: Remote
-- Fall from SlipMovement when all other Contacts are Stable.
+- <move>Fall</move> from <move>SlipMovement</move> when all other Contacts are Stable.
 
 Probability3: Occasional
 
@@ -58,9 +58,9 @@ Probability4: Probable
 
 MoveRisk.Probability5: Frequent
 
-- CrimpGrip.SharpHold
-- OneFingerCatch
-- DownDyno
+- <move>CrimpGrip.SharpHold</move>
+- <move>OneFingerCatch</move>
+- <move>DownDyno</move>
 
 > “The first and last down jump”
 
@@ -68,7 +68,7 @@ MyKeysToRouteSetting(191)
 
 ### Prediction
 
-The inability to predict what a Movement or Route part will feel like increases the Risk, such as when onsighting a Route
+The inability to <neuro>predict</neuro> what a <move>Movement</move> or <route>Route</route> part will feel like increases the Risk, such as when <beta>onsighting</beta> a  <route>Route</route> 
 
 ## Consequence
 
@@ -133,31 +133,31 @@ Security
 
 > “touch and go”\A maneuver in which an aircraft touches the ground as in landing and immediately takes off again
 
-- SlabClimbing
-- RicochetJump
+- <envi>SlabClimbing</envi>
+- <move>RicochetJump</move>
 
 ## Move Risk Factors
 
 ### Accuracy
 
-SlotMovement
-- (PocketHoldSize)InverselyProportionalTo(Risk)
-- BlockerHold
-    - FingerSlot into a TwoFingerPocketHold is Risky.
-    - Adding a BlockerHold increases the Risk that the Climber will miss the LoadingSurface.
+<move>SlotMovement</move>
+- (<envi>PocketHoldSize</envi>)InverselyProportionalTo(Risk)
+- <envi>BlockerHold</envi>
+    - <move>FingerSlot</move> into a <envi>TwoFingerPocketHold</envi> is Risky.
+    - Adding a <envi>BlockerHold</envi> increases the Risk that the Climber will miss the <route>RouteSurface</route>.
 
-RiskOfLosingGrip from being Gripped in IncorrectRoutePosition and or IncorrectLoadingAngleRange.
-- HandSlip
-    - CausedBy(GripEndurance)
+<move>RiskOfLosingGrip</move> from being Gripped in <route>IncorrectRoutePosition</route> and or <route>IncorrectLoadingAngleRange</route>.
+- <move>HandSlip</move>
+    - CausedBy(<move>GripEndurance</move>)
 
-HandCatch
-- Microbeta about FingerPosition.
-    - HandPianoSwap on Gioia (V15)
-    - BowlingBallHold
-        - MultiplePocketHold
-            - PinchPocketGrip
-    -   When the position of each finger on a RockCrystal matters.
-        - HandPosition@(HandCatch)
+<move>HandCatch</move>
+- <beta>Microbeta</beta> about <move>FingerPosition</move>.
+    - <move>HandPianoSwap</move> on <route>Gioia</route> (V15)
+    - <envi>BowlingBallHold</envi>
+        - <envi>MultiplePocketHold</envi>
+            - <move>PinchPocketGrip</move>
+    -   When the position of each finger on a <envi>RockCrystal</envi> matters.
+        - <move>HandPosition@(HandCatch)</move>
     - Rotpunkt(2019)\Rotpunkt | [Alex Megos and the Advent, the Agony and the Art of the Redpoint](https://youtu.be/SbWvFjUIt5k?t=2338)
 
 

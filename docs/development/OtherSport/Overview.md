@@ -1,7 +1,7 @@
 # BetaComp 
 
 ::: tip What makes a BetaComp?
-Wall is constant, Route and Moves are decided by Competitor.
+Wall is constant, <route>Route</route> and Moves are decided by Competitor.
 :::
 
 
@@ -98,7 +98,7 @@ The class or category that BetaComp refers to is a competition where difficulty 
 
 BetaComp takes parts from each of the other sport's rulebooks.
 
-::: tip Using Skateboarding's Use Of Course and Variety Of Obstacles for Route Difficulty Score 
+::: tip Using Skateboarding's Use Of Course and Variety Of Obstacles for <route>Route</route> Difficulty Score 
 
 Refers to the manner in which an athlete navigates the course and utilizes the
 obstacles within. An athlete may choose to perform tricks on a few obstacles throughout the

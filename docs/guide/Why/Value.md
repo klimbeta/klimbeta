@@ -7,6 +7,41 @@ BetaComp **provides** Value to participants.
 
 How participants **derive** Value from BetaComp.
 
+
+<!-- ---------------------------------------------------------------------------- -->
+## Accessibility
+
+- Provides access to information about how to plant which currently only exists in the brains of Experienced Climbers.
+
+If you're climbing within your range then grade is irrelevant
+
+The ranges of v12 climber overlap with a v4 climber. The v4 climber can get a better BetaScore.
+
+### Level of Fitness
+
+- A normal fitness person can climb with more elegance than the most physically fit Climber. 
+
+- Paxi Usobiaga Quote about not having technique so he just relies on strength
+
+### Movement Literacy
+
+Literacy provides access to knowledge.
+
+Udini
+
+- Beta is a Language expressed with the Body, Graphically, and Verbally
+
+- The reference section of BetaComp is a library of Movements. 
+
+
+### Climber Bias
+
+Advantages depending on Climber Height
+
+"morpho Move"
+Short Person Beta
+Tall Person Beta
+
 <!-- ---------------------------------------------------------------------------- -->
 ## Affiliation Belonging
 
@@ -20,7 +55,7 @@ How participants **derive** Value from BetaComp.
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-- If Climbers want to know their max Route Grade, then they'd probably want to know how [Difficult](/reference/Score/Difficulty/Overview) they can climb.
+- If Climbers want to know their max <route>Route</route> Grade, then they'd probably want to know how [Difficult](/reference/Score/Difficulty/Overview) they can climb.
 
 - Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
 - Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for Climbing jobs.
@@ -44,7 +79,7 @@ How participants **derive** Value from BetaComp.
 - BetaComp encourages innovation in the design of "System boards" like Kilterboard, Tension board, Moonboard, by 
 
 
-- Watching an elegant Climber flowing around a SprayWall or up a Route is aethetically beautiful.
+- Watching an elegant Climber flowing around a SprayWall or up a <route>Route</route> is aethetically beautiful.
 
 
 
@@ -136,35 +171,7 @@ Easier to search through than any book about climbing technique, since BetaComp 
 
 - CompositionScore
 
-<!-- ---------------------------------------------------------------------------- -->
-## Provides Access
 
-- Provides access to information about how to plant which currently only exists in the brains of Experienced Climbers.
-
-### Level of Fitness
-
-- A normal fitness person can climb with more elegance than the most physically fit Climber. 
-
-- Paxi Usobiaga Quote about not having technique so he just relies on strength
-
-### Movement Literacy
-
-Literacy provides access to knowledge.
-
-Udini
-
-- Beta is a Language expressed with the Body, Graphically, and Verbally
-
-- The reference section of BetaComp is a library of Movements. 
-
-
-### Climber Bias
-
-Advantages depending on Climber Height
-
-"morpho Move"
-Short Person Beta
-Tall Person Beta
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Provides Hope
@@ -243,7 +250,7 @@ Climbers can discover new movements which will shared with the whole Climbing co
 <!-- ---------------------------------------------------------------------------- -->
 ## Sensory Appeal
 
-"That Move **looked** really cool"
+"That<move>Move</move>**looked** really cool"
 
 <!-- ---------------------------------------------------------------------------- -->
 ## Simplifies

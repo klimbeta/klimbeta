@@ -1,13 +1,11 @@
-# BetaWall Competition
-
-![BetaCompTypes_04](/BetaCompTypes_04.png)
+# 🔷🟩 <envi>BetaWall Competition</envi>
 
 ## What?
 
-Only the Environment is [fixed](/reference/Glossary#fixed)
+Only the <envi>Environment</envi> is [fixed](/reference/Glossary#fixed)
 
 
-A BetaWall is SprayWall, Tensionboard, Moonboard.
+A <envi>BetaWall</envi> is <envi>SprayWall</envi>, <envi>Tensionboard</envi>, <envi>Moonboard</envi>.
 
 
 ### Similar Competitions
@@ -25,7 +23,7 @@ A BetaWall is SprayWall, Tensionboard, Moonboard.
 
 ### Rules
 
-There is no fixed Route.
+There is no fixed <route>Route</route>.
 
 ### Beta Scoring System
 

@@ -10,7 +10,7 @@ MoveElement to MoveElement
 
 M -->
 
-The Route provides value to Move by giving Climber a stationary thing for Closed Kinetic Chain Move.
+The <route>Route</route> provides value to<move>Move</move>by giving Climber a stationary thing for Closed Kinetic Chain Move.
 
 ### General Ways that each of the four parts of Beta relate to each other.
 
@@ -81,7 +81,8 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The <route>RouteElement</route>(GoodMicrosite, FlagSite) gives the EnvironmentElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+
+
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -146,7 +147,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 
 **Access**
 - Fold a plant out of the way of Hole.
-- Move a branch out of the way when walking through Slash or a residual patch.
+-<move>Move</move>a branch out of the way when walking through Slash or a residual patch.
 
 
 :::
@@ -195,11 +196,11 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 :::
 
 MoveSelection.MoveEvaluation
-    - "Is that the **best** move for the current BetaInstance"
+    - "Is that the **best**<move>Move</move>for the current BetaInstance"
     - Neuro.Judgement
         - All evaluations are judgements. See Kahneman
-    - What is the most valuable move gi
-    - Which move solves the current state?
+    - What is the most valuable<move>Move</move>gi
+    - Which<move>Move</move>solves the current state?
 - Energy to move.
 - Knowing where to go
     - Route

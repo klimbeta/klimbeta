@@ -2,7 +2,35 @@
 
 # StyleGuide
 
+``` js
 
+<move></move>
+
+```
+
+``` js
+
+<route></route>
+
+```
+
+``` js
+
+<neuro></neuro>
+
+```
+
+``` js
+
+<envi></envi>
+
+```
+
+``` js
+
+<beta></beta>
+
+```
 
 <move>Make Blue darker</move>
 
@@ -41,6 +69,6 @@ RiskOfLosingGrip from being Gripped in IncorrectRoutePosition and or IncorrectLo
 
 
 <move>Move</move>
-<route>Route</route>
+ <route>Route</route> 
 <neuro>Neuro</neuro>
 <beta>Beta</beta>

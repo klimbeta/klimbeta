@@ -1,7 +1,7 @@
-# 🔷🔺 Route Difficulty Overview
+# 🔷🔺 <route>Route</route> Difficulty Overview
 
 
-## Route Difficulty Score
+## <route>Route</route> Difficulty Score
 Used to compare the RICscore values of RouteComponents.
 
 RouteRIC.Continuum
@@ -20,7 +20,7 @@ RouteRIC.Continuum
 
 ### CompetitionRound.RICscore
 - To compare (QualifierRound, SemiRound, FinalRound) in Competitions.
-- A round is a Route where you get to Rest between RouteSections.
+- A round is a <route>Route</route> where you get to Rest between RouteSections.
     - (“A bunch of boulders stacked on top of each other”)RouteVerticalAlignment. BoulderRound is RouteHorizontalAlignment
 
 ## Pitch.RICscore

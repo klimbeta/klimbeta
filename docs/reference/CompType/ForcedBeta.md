@@ -5,9 +5,9 @@
 What routesetters dreams of.
 
 ## What?
-Climbers are told the Beta that they must perform  the Moves and Route they must take and are scored on the number of attempts it takes to complete the Beta
+Climbers are told the Beta that they must perform  the Moves and <route>Route</route> they must take and are scored on the number of attempts it takes to complete the Beta
 
-Similar to Route comps, Beta can be flashed or take multiple attempts to perform the Beta.
+Similar to <route>Route</route> comps, Beta can be flashed or take multiple attempts to perform the Beta.
 
 ::: warning
 Breaking Beta is not permitted! 

@@ -59,9 +59,9 @@ Graph which represents how this element is related to other elements in the Beta
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟠 MoveElements 🟠
+## Related 🟠 <move>MoveElements</move> 🟠
 
-## Related 🟩 EnvironmentElements
+## Related 🟩 <envi>EnvironmentElements</envi>  🟩
 - Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
 - Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
@@ -70,7 +70,7 @@ Graph which represents how this element is related to other elements in the Beta
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 - Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
-## Related 💜 NeuroElements
+## Related 💜 <neuro>NeuroElements</neuro> 💜
 - Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 - Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 - Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
