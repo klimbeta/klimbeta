@@ -2,14 +2,9 @@
 
 ## Definition
 
-<<<<<<< HEAD:docs/reference/Scoring/Difficulty/MoveDifficulty/MoveIntensity.md
 ### Relationship between Move Intensity and Route Intensity
 
 Routes determine the minimum intensity of a move.
-=======
-- Amplitude for BetaDynoComp
-- MoveSize
->>>>>>> 73fddeab1c39249c495c14a55adbe8f9108ee933:docs/reference/Score/Difficulty/MoveDifficulty/MoveIntensity.md
 
 Climbers can perform a really intense move which is more intense than it needs to be.
 - Climbing with TRexArm is more intense than ArmHang with straight arms, both are performed on the same route.
