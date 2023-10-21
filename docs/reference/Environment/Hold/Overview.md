@@ -1,4 +1,4 @@
-# 🟩 Hold
+# 🟩 <envi>Hold</envi>
 
 Climbers grip holds.
 
@@ -15,3 +15,14 @@ A Hold has one or more surfaces.
 ::: tip
 All Holds have RouteSurfaces, not all RouteSurfaces are Holds.
 :::
+
+
+## Differentiate Hold, Macro and Module
+
+What is the difference between a Hold, a Macro and a Module?
+
+Hold:
+
+Macro:
+
+Module:

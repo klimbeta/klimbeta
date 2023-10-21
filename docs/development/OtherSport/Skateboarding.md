@@ -1,5 +1,9 @@
 # Skateboarding
 
+## What to Copy
+
+## What to Not Copy
+
 ## 2022-24 Paris Cycle JudgingCriteria Version 1.3 - 2022
 
 ::: tip Cover Page

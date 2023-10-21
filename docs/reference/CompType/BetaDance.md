@@ -1,5 +1,10 @@
 # BetaDance Competition
 
+
+::: danger 🛠 🛠 🛠 🛠 🛠 🛠 
+BetaDance is NOT currently being developed, since the other more simple types of BetaComp must be implemented and tested before BetaDance will be able to take place.
+:::
+
 ## What?
 A BetaDance competition is not currently possible, but not impossible in the future. 
 
@@ -23,15 +28,16 @@ Like in Breaking, Climbers will be judged on their Musicality.
     - Smooth
     - Staccato
 
-### Similar Competitions
-
+### Similar BetaComp Competitions
+[BetaWall](/reference/CompType/BetaWall)
+[BetaBattle](/reference/CompType/BetaBattle)
 
 ## Who?
 
 
 ## Where?
 
-## How?
+## Implementation
 
 ### How do Setters set the Competition?
 

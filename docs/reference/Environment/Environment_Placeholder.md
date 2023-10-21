@@ -59,21 +59,21 @@ Graph which represents how this element is related to other elements in the Beta
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟠 MoveElements 🟠
+## Related 🟠 <move>MoveElements</move> 🟠
 
-## Related 🟩 EnvironmentElements
-- Description of how this movement relates to a particular [EnvironmentElement]().
-- Description of how this movement relates to a particular [EnvironmentElement]().
-- Description of how this movement relates to a particular [EnvironmentElement]().
-## Related 🔺 RouteElements
-- Description of how this movement relates to a particular [RouteElement]().
-- Description of how this movement relates to a particular [RouteElement]().
-- Description of how this movement relates to a particular [RouteElement]().
+## Related 🟩 <envi>EnvironmentElements</envi>  🟩
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [<envi>EnvironmentElement</envi>](/reference/Environment/EnvironmentOverview).
+## Related 🔺 <route>RouteElement</route>s
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
-## Related 💜 NeuroElements
-- Description of how this movement relates to a particular [NeuroElement]().
-- Description of how this movement relates to a particular [NeuroElement]().
-- Description of how this movement relates to a particular [NeuroElement]().
+## Related 💜 <neuro>NeuroElements</neuro> 💜
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 
 ## Quotes
 
@@ -84,9 +84,7 @@ Quotes about this Move
 - "Quote3"
 - "Quote4"
 
-## MoveErrors
 
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
 
 ## Examples
 

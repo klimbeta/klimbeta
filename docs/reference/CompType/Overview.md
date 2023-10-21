@@ -1,40 +1,47 @@
 # Competition Types
 
-![BetaCompTypes_01](/BetaCompTypes_01.png)
+## [🔺 BetaRoute Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaRoute)
+
+### [How to Implement a BetaRoute Competition](/reference/CompType/BetaRoute#implementation)
 
 ---
 
-![BetaCompTypes_02](/BetaCompTypes_02.png)
+## [🟩 BetaWall Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaWall)
+
+### [How to Implement a BetaWall Competition](/reference/CompType/BetaWall#implementation)
 
 ---
 
-![MoveComp](/MoveComp.png)
+
+## [💬 ForcedBeta Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/ForcedBeta)
+
+### [ How to Implement a ForcedBeta Competition](/reference/CompType/ForcedBeta#implementation)
 
 ---
 
-![BetaCompTypes_04](/BetaCompTypes_04.png)
+## [🔷🔷 BetaBattle Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaBattle)
+
+### [How to Implement a BetaBattle Competition](/reference/CompType/BetaBattle#implementation)
+
+
 
 ---
 
-![BetaCompTypes_05](/BetaCompTypes_05.png)
+## [🛠 BetaBauen Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaBauen)
+
+### [How to Implement a BetaBauen Competition](/reference/CompType/BetaBauen#implementation)
 
 ---
 
-![BetaCompTypes_06](/BetaCompTypes_06.png)
+## [TeamBeta Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/TeamBeta)
+
+### [How to Implement a TeamBeta Competition](/reference/CompType/TeamBeta#implementation)
 
 ---
 
-![BetaCompTypes_07](/BetaCompTypes_07.png)
+## [🟠 BetaDance Competition ![ImagePlaceholder](/ImagePlaceholder.png)](/reference/CompType/BetaDance)
 
+### [How to Implement a BetaDance Competition](/reference/CompType/BetaDance#implementation)
 
-## What?
+---
 
-## Who?
-
-## Where?
-
-## How?
-
-## Why?
-
-## When?

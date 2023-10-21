@@ -6,7 +6,7 @@
 
 Basic Moves
 
-What are Move errors and how to avoid them.
+What are<move>Move</move>errors and how to avoid them.
 - StraightArms
 - Scapula
 

@@ -1,9 +1,8 @@
 # What is this BetaComp Website?
 
+The BetaComp website can most easily be understood as a rulebook for the BetaComps.
+
 ## Analogous Websites in Other Sports
-
-
-## Guide and Reference of All the Elements of A Sport
 
 ::: tip Surf Sports
 ![Tricktionary](/Tricktionary.png)
@@ -25,36 +24,39 @@
 - http://www.codeofpoints.com/
 :::
 
-## The BetaComp website is created using Vitepress
+## [Guide Section](/guide/What/WhatBetaComp)
 
-BetaComp uses Vitepress and Vue.js to create this website. Both are open source projects, which means that they are free to use and are not controlled by a single business. 
+[Video Tour of Guide Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
+
+## [Reference Section](/reference/ReferenceOverview)
+On the website there's a reference section for all the types of Beta Element, these elements are grouped into
+
+[Video Tour of Reference Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
+
+## [Officials](/officials/OfficialsOverview)
+
+[Video Tour of Officials Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
+
+## [Development Section](/development/DevelopmentOverview)
+
+[Video Tour of Development Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
+
+## [Tests Section](/tests/TestsOverview)
+Theres also a section to test your knowledge of the beta elements
+
+Lastly there's a section for the research and development of BetaComp
+
+[Video Tour of Tests Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
+
+## [Sponsor](/sponsor/Sponsor)
+
+[Video Tour of Sponsor Section ![ImagePlaceholder](/ImagePlaceholder.png)](https://www.youtube.com/@Klimbeta)
 
 
-### Vitepress
-
-![Vitepress](/Vitepress.png)
-
-Vitepress has a similar role to the popular publishing tool called Wordpress.
-
-Vitepress was chosen for BetaComp for the following reasons:
-
-- Vitepress is an open source project.
-- Like the name suggests, Vitepress is very fast at loading the website.
-- Vitepress works (and looks good) on any screensize.
-- Vitepress is highly customizable.
+## Search
 
 
-### Vue.js
 
-![VueJS](/VueJS.jpeg)
-
-Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.
-
-Vue was chosen for BetaComp for a few reasons. 
-
-- Vitepress itself is created with Vue.
-- Vue is an open source project which is in the same league as Google's [AngularJS](https://angularjs.org/) and Facebook's [React](https://react.dev/).
-- There is a large community of VueJs users, so there is lots of support when problems inevitably arise.
 
 
 ## Multilingual

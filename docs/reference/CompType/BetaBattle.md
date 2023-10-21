@@ -19,7 +19,7 @@ Basketball H.O.R.S.E.
 
 
 
-## How?
+## Implementation
 
 ### How do Setters set the Competition?
 

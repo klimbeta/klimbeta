@@ -1,10 +1,13 @@
-# BetaWall Competition
-
-![BetaCompTypes_04](/BetaCompTypes_04.png)
+# 🔷🟩 <envi>BetaWall Competition</envi>
 
 ## What?
 
-A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
+Only the <envi>Environment</envi> is [fixed](/reference/Glossary#fixed)
+
+
+A <envi>BetaWall</envi> is <envi>SprayWall</envi>, <envi>Tensionboard</envi>, <envi>Moonboard</envi>.
+
+
 ### Similar Competitions
 
 ## Who?
@@ -12,7 +15,7 @@ A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
 
 ## Where?
 
-## How?
+## Implementation
 
 ### How do Setters set the Competition?
 
@@ -20,7 +23,7 @@ A BetaWall is SprayWall, Kilterboard, Tensionboard, Moonboard.
 
 ### Rules
 
-There is no fixed Route.
+There is no fixed <route>Route</route>.
 
 ### Beta Scoring System
 
