@@ -10,6 +10,8 @@
 
 ## Center of Mass
 
+## Dynamic Tool
+
 ## GriGri
 
 ## Fall Protection
@@ -29,6 +31,8 @@ An aspect of a Climber's Beta which can't be changed.
 When a Climber completes a <route>Route</route> without contacting any of the <route>Route</route> or seeing anyone climb any part of the <route>Route</route> before.
 
 ## Spotter
+
+## Static Tool
 
 ## Top Out <route>Route</route> 
 

@@ -1,21 +1,21 @@
-# 🔷🟠 <move>Move</move> Intensity
+# 🔷🟠 <move>MoveIntensity</move> 
 
 ## Definition
 
-### Relationship between Move Intensity and Route Intensity
+### Relationship between <move>MoveIntensity</move> and <route>RouteIntensity</route>
 
-Routes determine the minimum intensity of a move.
+Routes determine the minimum intensity of a <move>move</move>.
 
 Climbers can perform a really intense move which is more intense than it needs to be.
-- Climbing with TRexArm is more intense than ArmHang with straight arms, both are performed on the same route.
+- Climbing with <move>TRexArm</move> is more intense than <move>ArmHang</move> with straight arms, both are performed on the same <route>route</route>.
 
-- Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can ArmReach with LowIntensity while a ShortClimber must Dyno with HighIntensity for the same route. Does this mean that Route Intensity is relative to climber? No, the Beta is more intense but the Route Intensity stays the same. Beta is more intense for ShortClimber than TallClimber.
+- Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can <move>ArmReach</move> with LowIntensity while a ShortClimber must <move>Dyno</move> with HighIntensity for the same <route>route</route>. Does this mean that Route Intensity is relative to climber? No, the <beta>Beta</beta> is more intense but the Route Intensity stays the same. <beta>Beta</beta> is more intense for ShortClimber than TallClimber.
 
 - Route Intensity is independent of MoveIntensity.
 
 - MoveIntensity depends on RouteIntensity.
 
-### Relationship between Move Intensity and Neuro Intensity
+### Relationship between <neuro>MoveIntensity</neuro> and <neuro>NeuroIntensity</neuro>
 
 MoveComplexity increases NeuroIntensity
 
