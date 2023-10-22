@@ -1,4 +1,4 @@
-# 🔺 <route>BetaRoute Competition</route>
+# 🔺 <route>BetaRoute Competition</route> 🔺
 
 A Beta <route>Route</route> Competition is the easiest BetaComp type to understand and run, since it is the most similar to current Climbing Competitions. 
 

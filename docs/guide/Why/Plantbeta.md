@@ -1,4 +1,4 @@
-# 🌲 [Plantbeta Click Here to Go to Plantbeta](https://klimbeta.github.io/plantbeta/)🌲
+# 🌲 [<envi>Plantbeta</envi> Click Here to Go to <envi>Plantbeta</envi>](https://klimbeta.github.io/plantbeta/)🌲
 
 ![Klimbeta_Plantbeta](/Klimbeta_Plantbeta.png)
 

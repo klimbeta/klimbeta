@@ -11,7 +11,7 @@ footer: false
 import Poster from '../vuejs/Poster.vue'
 </script>
 
-# BetaRoute
-
 <Poster />
+
+
 
