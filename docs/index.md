@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "🔷 BetaComp 🔷"
+  name: "🔷 Klimbeta 🔷"
   tagline: When the goal isn't to reach the top! 
   text: A Vision of Climbing
   image:
@@ -33,15 +33,15 @@ hero:
 features:
   - icon: 🧗‍♀️
     title: By Climbers, for Climbers
-    details: BetaComp is a FREE resource designed to progress the sport of climbing towards an Art instead of just sport.
+    details: Klimbeta is a FREE resource designed to progress the sport of climbing towards an Art instead of just sport.
     link: /guide/What/WhatBetaComp  
   - icon: 🛠️
     title: This is just the beginning!
-    details: Last Updated on October 15, 2023
+    details: Last Updated on October 21, 2023
     link: /development/Roadmap
   - icon: 🌲
     title: Plantbeta
-    details: Click Here to Discover How BetaComp Helps to Combat Climate Change by Training Tree Planters.
+    details: Click Here to Discover How Klimbeta Helps to Combat Climate Change by Training Tree Planters.
     link: /guide/Why/Plantbeta 
 
 

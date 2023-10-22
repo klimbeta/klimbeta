@@ -5,6 +5,6 @@ If you would like to contribute a research question, then please contact christo
 :::
 
 
-What are the Pain Points of BetaComp?
+What are the Pain Points of Klimbeta?
 - Complexity
 - Lack of Clarity

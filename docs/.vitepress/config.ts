@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "BetaComp",
-  description: "The Development of a New Climbing Olympic Event",
-  base: '/BetaComp/',
+  title: "Klimbeta",
+  description: "A Vision of Climbing",
+  base: '/klimbeta/',
   ignoreDeadLinks: true,
   lastUpdated: true,
 
@@ -16,14 +16,14 @@ export default defineConfig({
       { icon: 'instagram', link: 'https://www.instagram.com/klimbeta/' }
     ],
     footer: {
-      message: '<a href="https://klimbeta.github.io/BetaComp/development/Contact">Contact</a>',
-      copyright: 'Copyright BetaComp © 2023-present'
+      message: '<a href="https://klimbeta.github.io/klimbeta/development/Contact">Contact</a>',
+      copyright: 'Copyright Klimbeta © 2023-present'
     },
     search: {
       provider: 'local'
     },
 
-    siteTitle: 'BetaComp',
+    siteTitle: 'Klimbeta',
     nav: nav(),
 
     sidebar: {
@@ -92,8 +92,8 @@ function sidebarGuide() {
       text: 'Why ❔',
       collapsed: true,
       items: [
-        { text: '❔🔷 How does BetaComp provide Value to Climbers?', link: '/guide/Why/Value' },
-        { text: '❔🌲 How does BetaComp help combat Climate Change?', link: '/guide/Why/Plantbeta' },
+        { text: '❔🔷 How does Klimbeta provide Value to Climbers?', link: '/guide/Why/Value' },
+        { text: '❔🌲 How does Klimbeta help combat Climate Change?', link: '/guide/Why/Plantbeta' },
 
       ]
     },

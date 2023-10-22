@@ -1,6 +1,6 @@
 # 👩‍💻 Coding
 
-BetaComp uses Vitepress and Vue.js to create this website. Both are open source projects, which means that they are free to use and are not controlled by a single business. 
+Klimbeta uses Vitepress and Vue.js to create this website. Both are open source projects, which means that they are free to use and are not controlled by a single business. 
 
 
 ## Vitepress
@@ -9,7 +9,7 @@ BetaComp uses Vitepress and Vue.js to create this website. Both are open source 
 
 Vitepress has a similar role to the popular publishing tool called Wordpress.
 
-Vitepress was chosen for BetaComp for the following reasons:
+Vitepress was chosen for Klimbeta for the following reasons:
 
 - Vitepress is an open source project.
 - Like the name suggests, Vitepress is very fast at loading the website.
@@ -23,7 +23,7 @@ Vitepress was chosen for BetaComp for the following reasons:
 
 Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.
 
-Vue was chosen for BetaComp for a few reasons. 
+Vue was chosen for Klimbeta for a few reasons. 
 
 - Vitepress itself is created with Vue.
 - Vue is an open source project which is in the same league as Google's [AngularJS](https://angularjs.org/) and Facebook's [React](https://react.dev/).
