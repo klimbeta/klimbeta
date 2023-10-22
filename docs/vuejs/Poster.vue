@@ -9,8 +9,8 @@
         <h1 id="title">Beta Route Competition</h1>
     </div>
 
-    <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/lFlu60qs7_4?si=ldOepJA-PsWYvxtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div >
+        <iframe class="video video-s" src="https://www.youtube.com/embed/lFlu60qs7_4?si=ldOepJA-PsWYvxtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="background-color: red;">
         <h1>Intro</h1>
@@ -43,6 +43,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+@media only screen and (min-width: 1000px) {
+  /* For desktop: */
+    .video{
+        width: 1000px;
+        height: 562px;
+    }
 }
 
 </style>
