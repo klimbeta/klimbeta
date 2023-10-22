@@ -11,9 +11,7 @@ Click on a Section to go to its Overview.
 :::
 
 
-## [🔷 Competition Types 🔷 ![Comps](/Comps.png)](/reference/BetaComp/Overview)
-
-## [🔷 Scoring System 🔷![BetaScores](/BetaScore/BetaScores.png)](/reference/Score/Overview)
+## [🔷 Beta Competitions 🔷 ![Comps](/Comps.png)](/reference/BetaComp/Overview)
 
 ## [🔷 <beta>Beta System</beta> 🔷 ![BetaSetDiagram](/BetaSetDiagram.png)](/reference/Beta/BetaOverview)
 
