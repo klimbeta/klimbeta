@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "🔷 Klimbeta 🔷"
-  tagline: When the goal isn't to reach the top! 
+  tagline: 
   text: A Vision of Climbing
   image:
     src: /BetaSetDiagram.png
@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Start Here
-      link: /guide/What/WhatBetaComp
+      link: /guide/What/WhatKlimbeta
     - theme: brand
       text: 🔷🔺💜🟠🟩
       link: /reference/ReferenceOverview
@@ -34,7 +34,7 @@ features:
   - icon: 🧗‍♀️
     title: By Climbers, for Climbers
     details: Klimbeta is a FREE resource designed to progress the sport of climbing towards an Art instead of just sport.
-    link: /guide/What/WhatBetaComp  
+    link: /guide/What/WhatKlimbeta  
   - icon: 🛠️
     title: This is just the beginning!
     details: Last Updated on October 21, 2023

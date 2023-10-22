@@ -40,7 +40,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatBetaComp',
+      link: '/guide/What/Klimbeta',
       activeMatch: '/guide/'
     },
     {
@@ -84,7 +84,7 @@ function sidebarGuide() {
         { text: '🔷 What is Beta?', link: '/guide/What/WhatBeta' },
         { text: '🔷 What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
         { text: '🔷 What is difference from current Olympic Climbing Events?', link: '/guide/What/OtherOlympicClimbing' },
-        { text: '🔷 What is this BetaComp Website?', link: '/guide/What/WhatBetaCompWebsite' },
+        { text: '🔷 What is this Klimbeta Website?', link: '/guide/What/WhatKlimbetaWebsite' },
 
       ]
     },
