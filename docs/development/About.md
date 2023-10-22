@@ -59,23 +59,23 @@ BetaComp was inspired by the climbing games and training drills which are used b
 - Precomp
 
 
-#### [🔷 BetaRoute](/reference/CompType/BetaRoute) from Coaching
+#### [🔷 BetaRoute](/reference/BetaComp/BetaRoute) from Coaching
 
 BetaRoute is inspired by the TakeAway Game which is played on an easy route.
 
 
-#### [🔷 BetaWall](reference/CompType/BetaWall) from Coaching
+#### [🔷 BetaWall](reference/BetaComp/BetaWall) from Coaching
 
 BetaWall is inspired by the AddOn Game which is played on a SprayWall.
 
-#### [🔷 ForcedBeta](/reference/CompType/ForcedBeta) from Coaching
+#### [🔷 ForcedBeta](/reference/BetaComp/ForcedBeta) from Coaching
 
 Arbitrary Rules
 
-Coaches use [ForcedBeta](/reference/CompType/ForcedBeta) all the time.
+Coaches use [ForcedBeta](/reference/BetaComp/ForcedBeta) all the time.
 - One Handed Climbing
 - Climbing while holding tennis balls
-#### [🔷 ExecutionScore](/reference/Score/Execution/Overview) from Coaching
+#### [🔷 ExecutionScore](/reference/Score/ExecutionScore/Overview) from Coaching
 
 Maintaining optimal posture to prevent injury.
 
@@ -133,8 +133,8 @@ Storytelling with Climbing. Climbing in costume. Climbing without any routes.
 #### Brachiation
 
 #### Comparison Videos
-- [BetaRoute](/reference/CompType/BetaRoute)
-    - Which Climber chose the least [Difficult](/reference/Score/Difficulty/Overview) and the better [Execution](/reference/Score/Execution/Overview)
+- [BetaRoute](/reference/BetaComp/BetaRoute)
+    - Which Climber chose the least [Difficult](/reference/Score/DifficultyScore/Overview) and the better [Execution](/reference/Score/ExecutionScore/Overview)
 
 
 

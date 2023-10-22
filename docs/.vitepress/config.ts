@@ -143,97 +143,97 @@ function sidebarGuide() {
 
 function sidebarReference() {
   return [
-    { text: 'Go to Guide', link: '/guide/What/WhatBetaComp' },
+    { text: 'Go to Guide', link: '/guide/What/WhatKlimbeta' },
     {
-      text: '🔷 Competition Types',
+      text: '🔷 Beta Competitions',
       collapsed: true,
       items: [
-        { text: '🔷 Overview', link: '/reference/CompType/Overview' },
-        { text: '🔺 BetaRoute', link: '/reference/CompType/BetaRoute' },
-        { text: '🟩 BetaWall', link: '/reference/CompType/BetaWall' },
-        { text: '🔷🔷 BetaBattle', link: '/reference/CompType/BetaBattle' },
-        { text: '💬 ForcedBeta', link: '/reference/CompType/ForcedBeta' },
-        { text: '🛠 BetaBauen', link: '/reference/CompType/BetaBauen' },
-        { text: '🟠 BetaDance', link: '/reference/CompType/BetaDance' },
-        { text: '🔷 TeamBeta', link: '/reference/CompType/TeamBeta' },
-
+        { text: '🔷 Overview', link: '/reference/BetaComp/Overview' },
+        { text: '🔺 BetaRoute', link: '/reference/BetaComp/BetaRoute' },
+        { text: '🟩 BetaWall', link: '/reference/BetaComp/BetaWall' },
+        { text: '🔷🔷 BetaBattle', link: '/reference/BetaComp/BetaBattle' },
+        { text: '💬 ForcedBeta', link: '/reference/BetaComp/ForcedBeta' },
+        { text: '🛠 BetaBauen', link: '/reference/BetaComp/BetaBauen' },
+        { text: '🟠 BetaDance', link: '/reference/BetaComp/BetaDance' },
+        { text: '🔷 TeamBeta', link: '/reference/BetaComp/TeamBeta' },
+        {
+          text: '🔷 BetaScore',
+          collapsed: true,
+          items: [
+            { text: '🔷 BetaScore Overview', link: '/reference/Score/Overview' },
+            {
+              text: '🔷 Difficulty Score',
+              collapsed: true,
+              items: [
+                { text: '🔷 Overview', link: '/reference/Score/DifficultyScore/Overview' },
+                {
+                  text: '🔷 Beta Difficulty Score',
+                  collapsed: true,
+                  items: [
+                    { text: '🔷 Overview', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/Overview' },
+                    { text: '🔷 Beta Risk Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaRiskScore' },
+                    { text: '🔷 Beta Intensity Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaIntensityScore' },
+                    { text: '🔷 Beta Complexity Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaComplexityScore' },
+    
+                  ]
+                },
+                {
+                  text: '🔷🟠 Move Difficulty Score',
+                  collapsed: true,
+                  items: [
+                    { text: '🔷🟠 Overview', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/Overview' },
+                    { text: '🔷🟠 Move Risk Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveRiskScore' },
+                    { text: '🔷🟠 Move Intensity Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveIntensityScore' },
+                    { text: '🔷🟠 Move Complexity Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore' },
+                  ]
+                },
+                {
+                  text: '🔷🔺 Route Difficulty Score',
+                  collapsed: true,
+                  items: [
+                    { text: '🔷🔺 Overview', link: '/reference/Score/DifficultyScore/RouteDifficulty/Overview' },
+                    { text: '🔷🔺 Route Risk Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteRiskScore' },
+                    { text: '🔷🔺 Route Intensity Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteIntensityScore' },
+                    { text: '🔷🔺 Route Complexity Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteComplexityScore' },
+                  ]
+                },
+                {
+                  text: '🔷🟩 Environment Difficulty Score',
+                  collapsed: true,
+                  items: [
+                    { text: '🔷🟩 Overview', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/Overview' },
+                    { text: '🔷🟩 Environment Risk', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentRiskScore' },
+                    { text: '🔷🟩 Environment Intensity', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentIntensityScore' },
+                    { text: '🔷🟩 Environment Complexity', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentComplexityScore' },
+                  ]
+                },
+              ]
+            },
+            {
+              text: '🔷 Execution Score',
+              collapsed: true,
+              items: [
+                { text: '🔷 Overview', link: '/reference/Score/Execution/Overview' },
+                { text: '🔷🟠 Move Execution Score', link: '/reference/Score/ExecutionScore/MoveExecutionScore' },
+                { text: '🔷🔺 Route Execution Score', link: '/reference/Score/ExecutionScore/RouteExecutionScore' },
+                { text: '🔷🟩 Environment Execution Score', link: '/reference/Score/ExecutionScore/EnvironmentExecutionScore' },
+    
+              ]
+            },
+            {
+              text: '🔷 Composition Score',
+              collapsed: true,
+              items: [
+                { text: '🔷 Overview', link: '/reference/Score/Composition/Overview' },
+                { text: '🔷🟠 Move Composition', link: '/reference/Score/CompositionScore/MoveCompositionScore' },
+                { text: '🔷🔺 Route Composition', link: '/reference/Score/CompositionScore/RouteCompositionScore' },
+              ]
+            },
+          ]
+        },
       ]
     },
-    {
-      text: '🔷 BetaScore',
-      collapsed: true,
-      items: [
-        { text: '🔷 BetaScore Overview', link: '/reference/Score/Overview' },
-        {
-          text: '🔷 Difficulty Score',
-          collapsed: true,
-          items: [
-            { text: '🔷 Overview', link: '/reference/Score/Difficulty/Overview' },
-            {
-              text: '🔷 Beta Difficulty',
-              collapsed: true,
-              items: [
-                { text: '🔷 Overview', link: '/reference/Score/Difficulty/BetaDifficulty/Overview' },
-                { text: '🔷 Beta Risk', link: '/reference/Score/Difficulty/BetaDifficulty/BetaRisk' },
-                { text: '🔷 Beta Intensity', link: '/reference/Score/Difficulty/BetaDifficulty/BetaIntensity' },
-                { text: '🔷 Beta Complexity', link: '/reference/Score/Difficulty/BetaDifficulty/BetaComplexity' },
 
-              ]
-            },
-            {
-              text: '🔷🟠 Move Difficulty',
-              collapsed: true,
-              items: [
-                { text: '🔷🟠 Overview', link: '/reference/Score/Difficulty/MoveDifficulty/Overview' },
-                { text: '🔷🟠 Move Risk', link: '/reference/Score/Difficulty/MoveDifficulty/MoveRisk' },
-                { text: '🔷🟠 Move Intensity', link: '/reference/Score/Difficulty/MoveDifficulty/MoveIntensity' },
-                { text: '🔷🟠 Move Complexity', link: '/reference/Score/Difficulty/MoveDifficulty/MoveComplexity' },
-              ]
-            },
-            {
-              text: '🔷🔺 Route Difficulty',
-              collapsed: true,
-              items: [
-                { text: '🔷🔺 Overview', link: '/reference/Score/Difficulty/RouteDifficulty/Overview' },
-                { text: '🔷🔺 Route Risk', link: '/reference/Score/Difficulty/RouteDifficulty/RouteRisk' },
-                { text: '🔷🔺 Route Intensity', link: '/reference/Score/Difficulty/RouteDifficulty/RouteIntensity' },
-                { text: '🔷🔺 Route Complexity', link: '/reference/Score/Difficulty/RouteDifficulty/RouteComplexity' },
-              ]
-            },
-            {
-              text: '🔷🟩 Environment Difficulty',
-              collapsed: true,
-              items: [
-                { text: '🔷🟩 Overview', link: '/reference/Score/Difficulty/EnvironmentDifficulty/Overview' },
-                { text: '🔷🟩 Environment Risk', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentRisk' },
-                { text: '🔷🟩 Environment Intensity', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentIntensity' },
-                { text: '🔷🟩 Environment Complexity', link: '/reference/Score/Difficulty/EnvironmentDifficulty/EnvironmentComplexity' },
-              ]
-            },
-          ]
-        },
-        {
-          text: '🔷 Execution Score',
-          collapsed: true,
-          items: [
-            { text: '🔷 Overview', link: '/reference/Score/Execution/Overview' },
-            { text: '🔷🟠 Move Execution', link: '/reference/Score/Execution/MoveExecution' },
-            { text: '🔷🔺 Route Execution', link: '/reference/Score/Execution/RouteExecution' },
-            { text: '🔷🟩 Environment Execution', link: '/reference/Score/Execution/EnvironmentExecution' },
-
-          ]
-        },
-        {
-          text: '🔷 Composition Score',
-          collapsed: true,
-          items: [
-            { text: '🔷 Overview', link: '/reference/Score/Composition/Overview' },
-            { text: '🔷🟠 Move Composition', link: '/reference/Score/Composition/MoveComposition' },
-            { text: '🔷🔺 Route Composition', link: '/reference/Score/Composition/RouteComposition' },
-          ]
-        },
-      ]
-    },
 
     {
       text: '🔷 Beta',

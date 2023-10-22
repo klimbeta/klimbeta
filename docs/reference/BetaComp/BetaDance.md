@@ -29,8 +29,8 @@ Like in Breaking, Climbers will be judged on their Musicality.
     - Staccato
 
 ### Similar BetaComp Competitions
-[BetaWall](/reference/CompType/BetaWall)
-[BetaBattle](/reference/CompType/BetaBattle)
+[BetaWall](/reference/BetaComp/BetaWall)
+[BetaBattle](/reference/BetaComp/BetaBattle)
 
 ## Who?
 

@@ -3,13 +3,13 @@
 
 The sequence of events to develop a BetaComp for the Olympics.
 
-1. Hold a [BetaRoute](/reference/CompType/BetaRoute) Competition
+1. Hold a [BetaRoute](/reference/BetaComp/BetaRoute) Competition
     - Score the Video of the Competition instead of Live Scoring.
     - Get Feedback from Competitors.
     - Post results a couple days after the Competition
 
 
-2. Hold a [BetaWall](/reference/CompType/BetaWall) Competition
+2. Hold a [BetaWall](/reference/BetaComp/BetaWall) Competition
 
 
 ## Website

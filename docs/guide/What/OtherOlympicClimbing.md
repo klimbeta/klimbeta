@@ -14,9 +14,9 @@ Similarities to BetaComp
 
 
 Differences from BetaComp
-- Speed Climbing has a Low [RouteComplexity](/reference/Score/Difficulty/RouteDifficulty/RouteComplexity)
-- Speed Climbing is mostly a test of [MoveIntensity](/reference/Score/Difficulty/MoveDifficulty/MoveIntensity).
-- In Speed Climbing the [RouteDifficulty](/reference/Score/Difficulty/RouteDifficulty/Overview) is the same for each Competitor.
+- Speed Climbing has a Low [RouteComplexity](/reference/Score/DifficultyScore/RouteDifficultyScore/RouteComplexityScore)
+- Speed Climbing is mostly a test of [MoveIntensity](/reference/Score/DifficultyScore/MoveDifficultyScore/MoveIntensityScore).
+- In Speed Climbing the [RouteDifficulty](/reference/Score/DifficultyScore/RouteDifficultyScore/Overview) is the same for each Competitor.
 
 
 
@@ -24,7 +24,7 @@ Differences from BetaComp
 
 Similarities to BetaComp
 - All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview) 
-- [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
+- [HighMoveComplexity](/reference/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore)
 
 
 Differences from BetaComp
@@ -36,11 +36,11 @@ Differences from BetaComp
 
 Similarities to BetaComp
 - All competitors use the same [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview)
-- [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
+- [HighMoveComplexity](/reference/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore)
 
 
 Differences from BetaComp
-- [HighMoveComplexity](/reference/Score/Difficulty/MoveDifficulty/MoveComplexity)
+- [HighMoveComplexity](/reference/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore)
 - Competitors try to get to the top of [<envi>Wall</envi>](/reference/Environment/EnvironmentOverview).
 - Forced Movements
 - Forced [ <route>Route</route> ](/reference/Route/RouteOverview)

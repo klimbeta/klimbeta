@@ -55,7 +55,7 @@ Tall Person Beta
 <!-- ---------------------------------------------------------------------------- -->
 ## BadgeValue
 
-- If Climbers want to know their max <route>Route</route> Grade, then they'd probably want to know how [Difficult](/reference/Score/Difficulty/Overview) they can climb.
+- If Climbers want to know their max <route>Route</route> Grade, then they'd probably want to know how [Difficult](/reference/Score/DifficultyScore/Overview) they can climb.
 
 - Being the first person to person a BetaElement is like gaining the "Badge" of a First Ascent.
 - Get a perfect score on BetaComp's [tests](/tests/TestsOverview) to add to your CV when applying for Climbing jobs.
@@ -105,7 +105,7 @@ Hey this exists what do you think you could use it for
 <!-- ---------------------------------------------------------------------------- -->
 ## Integrates
 
-- Integrates Routesetting knowledge into mainstream Climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/Score/Difficulty/Overview).
+- Integrates Routesetting knowledge into mainstream Climbing by repurposing routesetting's RICscale into BetaComp's [DifficultyScore](/reference/Score/DifficultyScore/Overview).
 
 - Integrates the techniques used while training on a SprayWall into the current way that Climbers compete. BetaBattle and BetaComp both use SprayWall like a dancefloor. If Janja Garnbret uses SprayWalls to train then they're probably very useful.
 
@@ -127,7 +127,7 @@ Hey this exists what do you think you could use it for
 <!-- ---------------------------------------------------------------------------- -->
 ## Nostalgia
 
-- Before monochrome routes became the norm in gyms, setters created routes from multiple colors of holds, just like [BetaWall](/reference/CompType/BetaWall)
+- Before monochrome routes became the norm in gyms, setters created routes from multiple colors of holds, just like [BetaWall](/reference/BetaComp/BetaWall)
 
 
 
@@ -266,7 +266,7 @@ BetaComp simplifies Climbing by breaking a Climber's experience into their most 
 
 - Creativity Competitions increase the **variety** of movements by finding producing novel Moves, Routes, walls, and ways of thinking.
 
-- Variety is incorporated into  the [CompositionScore](/reference/Score/Composition/Overview#variety) of BetaComps. 
+- Variety is incorporated into  the [CompositionScore](/reference/Score/CompositionScore/Overview#variety) of BetaComps. 
 
 
 

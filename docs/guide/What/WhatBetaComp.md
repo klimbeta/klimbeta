@@ -12,7 +12,7 @@ You don't need to have a formal competition hosted by a gym to compete in a Beta
 
 ![OlympicRings](/OlympicRings.png)
 
-::: tip The defining feature of BetaComps is that Climbers are scored using a [DifficultyScore](/reference/Score/Difficulty/Overview), an [ExecutionScore](/reference/Score/Execution/Overview) and a [CompositionScore](/reference/Score/Composition/Overview).
+::: tip The defining feature of BetaComps is that Climbers are scored using a [DifficultyScore](/reference/Score/DifficultyScore/Overview), an [ExecutionScore](/reference/Score/ExecutionScore/Overview) and a [CompositionScore](/reference/Score/CompositionScore/Overview).
 :::
 
 

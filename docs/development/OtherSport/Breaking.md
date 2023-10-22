@@ -22,10 +22,10 @@ Toprocking and Downrocking are reversed in BetaComp. In Breaking most of Moves u
 
 ### Toprock
 - Toprocking is traditionally used to clear the dance floor so that breakers can downrock in a crowd without colliding with anyone.
-- In [BetaWall](/reference/CompType/BetaWall) or [BetaBattle](/reference/CompType/BetaBattle) Toprocking would be performed on the floor infront of the BetaWall
+- In [BetaWall](/reference/BetaComp/BetaWall) or [BetaBattle](/reference/BetaComp/BetaBattle) Toprocking would be performed on the floor infront of the BetaWall
 - Toprocking is like when Gymnasts perform Moves before mounting their apparatus.
 - Toprocking in BetaComp could be used if Climbers unintentionally fall to the ground and dance their way back to the wall.
-- Toprocking could be used by Climbers instead of walking from their corner to the Wall. Climbers could Jump to the BetaWall then swing themselves over to the place on the BetaWall where they want to mount the [BetaWall](/reference/CompType/BetaWall).  
+- Toprocking could be used by Climbers instead of walking from their corner to the Wall. Climbers could Jump to the BetaWall then swing themselves over to the place on the BetaWall where they want to mount the [BetaWall](/reference/BetaComp/BetaWall).  
 
 ### Downrock 
 - Downrocking is when a breaker touches the floor with their hands.

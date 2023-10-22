@@ -55,7 +55,7 @@ If the BonusHold was removed then the Climber wouldn't be able to perform their 
 
 
 ::: tip 
-The difference between [ <route>Route</route> ](/reference/Route/RouteOverview) and [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is most important during a [BetaWall](/reference/CompType/BetaWall) competition, where there is a fixed <route>Route</route> that Climbers must follow, instead each Climber chooses their <route>Route</route> and Moves on the wall.
+The difference between [ <route>Route</route> ](/reference/Route/RouteOverview) and [<envi>Environment</envi>](/reference/Envrionment/EnvironmentOverview) is most important during a [BetaWall](/reference/BetaComp/BetaWall) competition, where there is a fixed <route>Route</route> that Climbers must follow, instead each Climber chooses their <route>Route</route> and Moves on the wall.
 :::
 
 

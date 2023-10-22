@@ -15,7 +15,7 @@ Dual Texture
 
 ## Surface Temperature
 
-Sometimes RockWall are too hot to touch. Or are warm enough that they quickly cause sweating in Climber's fingertips which drastically increases the [MoveIntensity](/reference/Score/Difficulty/MoveDifficulty/MoveIntensity) of a Route.
+Sometimes RockWall are too hot to touch. Or are warm enough that they quickly cause sweating in Climber's fingertips which drastically increases the [MoveIntensity](/reference/Score/DifficultyScore/MoveDifficultyScore/MoveIntensityScore) of a Route.
 
 During a competition the [Holds] can warm up from the conduction of heat from successive competitors gripping the hold, escpecially on a <route>Route</route> with a big dyno launch where competitors may grip a hold for tens of seconds.
 

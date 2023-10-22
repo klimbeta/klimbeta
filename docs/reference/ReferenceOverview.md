@@ -11,7 +11,7 @@ Click on a Section to go to its Overview.
 :::
 
 
-## [🔷 Competition Types 🔷 ![Comps](/Comps.png)](/reference/CompType/Overview)
+## [🔷 Competition Types 🔷 ![Comps](/Comps.png)](/reference/BetaComp/Overview)
 
 ## [🔷 Scoring System 🔷![BetaScores](/BetaScore/BetaScores.png)](/reference/Score/Overview)
 

@@ -4,7 +4,7 @@ A Beta <route>Route</route> Competition is the easiest BetaComp type to understa
 
 ## What is a BetaRoute Competition?
 
-A BetaRoute competition is a climbing competition where climbers get [one attempt](/reference/CompType/BetaRoute#onsight-only) to climb a <route>Route</route> and are scored on How they climb the  <route>Route</route> . 
+A BetaRoute competition is a climbing competition where climbers get [one attempt](/reference/BetaComp/BetaRoute#onsight-only) to climb a <route>Route</route> and are scored on How they climb the  <route>Route</route> . 
 
 A <route>Route</route> is chosen and Climbers are scored on the difficulty of the <move>Moves</move> and execution of the <move>Moves</move> that they perform on the  <route>Route</route> .
 
@@ -65,7 +65,7 @@ The [Lead Climbing](/reference/Glossary#lead-climbing) BetaRoute Competition.
 
 ### Similar BetaComp Competitions
 
-- [<beta>ForcedBeta</beta>](/reference/CompType/ForcedBeta)
+- [<beta>ForcedBeta</beta>](/reference/BetaComp/ForcedBeta)
 
 
 ## Who?
@@ -133,7 +133,7 @@ To make climbers who's <beta>technique</beta> far surpasses their <move>brute st
 
 ### Benefits for Climbers
 
-Increases Climber's Ability to [<beta>RouteRead</beta>](/reference/Beta/BetaAction/ReadBeta#route-reading) since BetaComp [integrates](/guide/Why/Value#integrates) [setting](/officials/Setter/Overview) into Climbing so that Climbers can gain a [<neuro>better understanding</neuro>](/reference/Environment/EnvironmentOverview) of what the setting team's [<beta>intended beta</beta>](/reference/CompType/ForcedBeta) is. 
+Increases Climber's Ability to [<beta>RouteRead</beta>](/reference/Beta/BetaAction/ReadBeta#route-reading) since BetaComp [integrates](/guide/Why/Value#integrates) [setting](/officials/Setter/Overview) into Climbing so that Climbers can gain a [<neuro>better understanding</neuro>](/reference/Environment/EnvironmentOverview) of what the setting team's [<beta>intended beta</beta>](/reference/BetaComp/ForcedBeta) is. 
 
 Increases Climber's ability to find the easiest <route>Route</route> in an <envi>Environment</envi>.
 
