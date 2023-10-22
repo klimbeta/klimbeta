@@ -25,9 +25,9 @@ Office québécois de la langue française
 
 :::
 
-## What does 'Beta' mean in a BetaComp? 
+## What does 'Beta' mean in a Klimbeta? 
 
-BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
+Klimbeta defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [Neuro](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaSetDiagram](/BetaSetDiagram.png) 
 
