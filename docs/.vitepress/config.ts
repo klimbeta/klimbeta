@@ -31,7 +31,7 @@ export default defineConfig({
       '/reference/': sidebarReference(),
       '/tests/': sidebarTests(),
       '/development/': sidebarDevelopment(),
-      '/officials/': sidebarOfficials(),
+      '/betacomp/': sidebarBetaComp(),
     },
   }
 })
@@ -49,9 +49,9 @@ function nav() {
       activeMatch: '/reference/'
     },
     {
-      text: 'Officials',
-      link: '/officials/OfficialsOverview',
-      activeMatch: '/officials/'
+      text: 'BetaComp',
+      link: '/betacomp/WhatBetaComp',
+      activeMatch: '/betacomp/'
     },
     {
       text: 'Tests',
@@ -82,8 +82,7 @@ function sidebarGuide() {
       collapsed: true,
       items: [
         { text: '🔷 What is Beta?', link: '/guide/What/WhatBeta' },
-        { text: '🔷 What is a BetaComp?', link: '/guide/What/WhatBetaComp' },
-        { text: '🔷 What is difference from current Olympic Climbing Events?', link: '/guide/What/OtherOlympicClimbing' },
+        { text: '🔷 What is Klimbeta?', link: '/guide/What/WhatKlimbeta' },
         { text: '🔷 What is this Klimbeta Website?', link: '/guide/What/WhatKlimbetaWebsite' },
 
       ]
@@ -144,97 +143,6 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     { text: 'Go to Guide', link: '/guide/What/WhatKlimbeta' },
-    {
-      text: '🔷 Beta Competitions',
-      collapsed: true,
-      items: [
-        { text: '🔷 Overview', link: '/reference/BetaComp/Overview' },
-        { text: '🔺 BetaRoute', link: '/reference/BetaComp/BetaRoute' },
-        { text: '🟩 BetaWall', link: '/reference/BetaComp/BetaWall' },
-        { text: '🔷🔷 BetaBattle', link: '/reference/BetaComp/BetaBattle' },
-        { text: '💬 ForcedBeta', link: '/reference/BetaComp/ForcedBeta' },
-        { text: '🛠 BetaBauen', link: '/reference/BetaComp/BetaBauen' },
-        { text: '🟠 BetaDance', link: '/reference/BetaComp/BetaDance' },
-        { text: '🔷 TeamBeta', link: '/reference/BetaComp/TeamBeta' },
-        {
-          text: '🔷 BetaScore',
-          collapsed: true,
-          items: [
-            { text: '🔷 BetaScore Overview', link: '/reference/Score/Overview' },
-            {
-              text: '🔷 Difficulty Score',
-              collapsed: true,
-              items: [
-                { text: '🔷 Overview', link: '/reference/Score/DifficultyScore/Overview' },
-                {
-                  text: '🔷 Beta Difficulty Score',
-                  collapsed: true,
-                  items: [
-                    { text: '🔷 Overview', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/Overview' },
-                    { text: '🔷 Beta Risk Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaRiskScore' },
-                    { text: '🔷 Beta Intensity Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaIntensityScore' },
-                    { text: '🔷 Beta Complexity Score', link: '/reference/Score/DifficultyScore/BetaDifficultyScore/BetaComplexityScore' },
-    
-                  ]
-                },
-                {
-                  text: '🔷🟠 Move Difficulty Score',
-                  collapsed: true,
-                  items: [
-                    { text: '🔷🟠 Overview', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/Overview' },
-                    { text: '🔷🟠 Move Risk Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveRiskScore' },
-                    { text: '🔷🟠 Move Intensity Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveIntensityScore' },
-                    { text: '🔷🟠 Move Complexity Score', link: '/reference/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore' },
-                  ]
-                },
-                {
-                  text: '🔷🔺 Route Difficulty Score',
-                  collapsed: true,
-                  items: [
-                    { text: '🔷🔺 Overview', link: '/reference/Score/DifficultyScore/RouteDifficulty/Overview' },
-                    { text: '🔷🔺 Route Risk Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteRiskScore' },
-                    { text: '🔷🔺 Route Intensity Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteIntensityScore' },
-                    { text: '🔷🔺 Route Complexity Score', link: '/reference/Score/DifficultyScore/RouteDifficultyScore/RouteComplexityScore' },
-                  ]
-                },
-                {
-                  text: '🔷🟩 Environment Difficulty Score',
-                  collapsed: true,
-                  items: [
-                    { text: '🔷🟩 Overview', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/Overview' },
-                    { text: '🔷🟩 Environment Risk', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentRiskScore' },
-                    { text: '🔷🟩 Environment Intensity', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentIntensityScore' },
-                    { text: '🔷🟩 Environment Complexity', link: '/reference/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentComplexityScore' },
-                  ]
-                },
-              ]
-            },
-            {
-              text: '🔷 Execution Score',
-              collapsed: true,
-              items: [
-                { text: '🔷 Overview', link: '/reference/Score/Execution/Overview' },
-                { text: '🔷🟠 Move Execution Score', link: '/reference/Score/ExecutionScore/MoveExecutionScore' },
-                { text: '🔷🔺 Route Execution Score', link: '/reference/Score/ExecutionScore/RouteExecutionScore' },
-                { text: '🔷🟩 Environment Execution Score', link: '/reference/Score/ExecutionScore/EnvironmentExecutionScore' },
-    
-              ]
-            },
-            {
-              text: '🔷 Composition Score',
-              collapsed: true,
-              items: [
-                { text: '🔷 Overview', link: '/reference/Score/Composition/Overview' },
-                { text: '🔷🟠 Move Composition', link: '/reference/Score/CompositionScore/MoveCompositionScore' },
-                { text: '🔷🔺 Route Composition', link: '/reference/Score/CompositionScore/RouteCompositionScore' },
-              ]
-            },
-          ]
-        },
-      ]
-    },
-
-
     {
       text: '🔷 Beta',
       collapsed: true,
@@ -692,6 +600,8 @@ function sidebarDevelopment() {
     { text: '📎 Downloads', link: '/development/Downloads' },
     { text: '❔ Research Questions', link: '/development/ResearchQuestions' },
     { text: '🕸 Element Relationship Diagram', link: '/development/ElementRelationshipDiagram' },
+    { text: 'Poster', link: '/development/Poster' },
+
     { text: '🔷 Roadmap', link: '/development/Roadmap' },
     { text: '☑ ToDo', link: '/development/ToDo' },
     {
@@ -712,64 +622,155 @@ function sidebarDevelopment() {
   ]
 }
 
-function sidebarOfficials() {
+function sidebarBetaComp() {
   return [
-    {
-      text: '🎤 Announcer',
-      collapsed: true,
-      items: [
-        { text: '🎤 Overview', link: '/officials/Judge/JudgingOverview' },
 
-      ]
-    },
+    { text: '🔷 Overview', link: '/betacomp/WhatBetaComp' },
+    { text: '🔺 BetaRoute', link: '/betacomp/BetaRoute' },
+    { text: '🟩 BetaWall', link: '/betacomp/BetaWall' },
+    { text: '🔷🔷 BetaBattle', link: '/betacomp/BetaBattle' },
+    { text: '💬 ForcedBeta', link: '/betacomp/ForcedBeta' },
+    { text: '🛠 BetaBauen', link: '/betacomp/BetaBauen' },
+    { text: '🟠 BetaDance', link: '/betacomp/BetaDance' },
+    { text: '🔷 TeamBeta', link: '/betacomp/TeamBeta' },
     {
-      text: '🎙 Commentator',
+      text: '🔷 BetaScore',
       collapsed: true,
       items: [
-        { text: '🎙 Overview', link: '/officials/Commentator/Overview' },
+        { text: '🔷 BetaScore Overview', link: '/betacomp/Score/Overview' },
+        {
+          text: '🔷 Difficulty Score',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/betacomp/Score/DifficultyScore/Overview' },
+            {
+              text: '🔷 Beta Difficulty Score',
+              collapsed: true,
+              items: [
+                { text: '🔷 Overview', link: '/betacomp/Score/DifficultyScore/BetaDifficultyScore/Overview' },
+                { text: '🔷 Beta Risk Score', link: '/betacomp/Score/DifficultyScore/BetaDifficultyScore/BetaRiskScore' },
+                { text: '🔷 Beta Intensity Score', link: '/betacomp/Score/DifficultyScore/BetaDifficultyScore/BetaIntensityScore' },
+                { text: '🔷 Beta Complexity Score', link: '/betacomp/Score/DifficultyScore/BetaDifficultyScore/BetaComplexityScore' },
 
-      ]
-    },
-    {
-      text: '⚖ Judge',
-      collapsed: true,
-      items: [
-        { text: '⚖ Overview', link: '/officials/Judge/JudgingOverview' },
-        { text: '⚖ Become a Judge', link: '/officials/Judge/HowBecomeJudge' },
-        { text: '⚖ Educate Judges', link: '/officials/Judge/HowEducateJudge' },
-        { text: '⚖ Recruit Judges', link: '/officials/Judge/HowRecruitJudge' },
-        { text: '⚖ Set Up Judging Area', link: '/officials/Judge/JudgingAreaSetUp' },
-        { text: '⚖ Rules', link: '/officials/Judge/Rules' },
-        { text: '⚖ Judging Process', link: '/officials/Judge/JudgingProcess' },
-        { text: '⚖ Beta Scoring App', link: '/officials/Judge/BetaScoreApp' },
-        { text: '⚖ Contingency Plans', link: '/officials/Judge/ContingencyPlans' },
-      ]
-    },
-    {
-      text: '📝 Registrar',
-      collapsed: true,
-      items: [
-        { text: '📝 Overview', link: '/officials/Registrar/Overview' },
+              ]
+            },
+            {
+              text: '🔷🟠 Move Difficulty Score',
+              collapsed: true,
+              items: [
+                { text: '🔷🟠 Overview', link: '/betacomp/Score/DifficultyScore/MoveDifficultyScore/Overview' },
+                { text: '🔷🟠 Move Risk Score', link: '/betacomp/Score/DifficultyScore/MoveDifficultyScore/MoveRiskScore' },
+                { text: '🔷🟠 Move Intensity Score', link: '/betacomp/Score/DifficultyScore/MoveDifficultyScore/MoveIntensityScore' },
+                { text: '🔷🟠 Move Complexity Score', link: '/betacomp/Score/DifficultyScore/MoveDifficultyScore/MoveComplexityScore' },
+              ]
+            },
+            {
+              text: '🔷🔺 Route Difficulty Score',
+              collapsed: true,
+              items: [
+                { text: '🔷🔺 Overview', link: '/betacomp/Score/DifficultyScore/RouteDifficulty/Overview' },
+                { text: '🔷🔺 Route Risk Score', link: '/betacomp/Score/DifficultyScore/RouteDifficultyScore/RouteRiskScore' },
+                { text: '🔷🔺 Route Intensity Score', link: '/betacomp/Score/DifficultyScore/RouteDifficultyScore/RouteIntensityScore' },
+                { text: '🔷🔺 Route Complexity Score', link: '/betacomp/Score/DifficultyScore/RouteDifficultyScore/RouteComplexityScore' },
+              ]
+            },
+            {
+              text: '🔷🟩 Environment Difficulty Score',
+              collapsed: true,
+              items: [
+                { text: '🔷🟩 Overview', link: '/betacomp/Score/DifficultyScore/EnvironmentDifficultyScore/Overview' },
+                { text: '🔷🟩 Environment Risk', link: '/betacomp/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentRiskScore' },
+                { text: '🔷🟩 Environment Intensity', link: '/betacomp/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentIntensityScore' },
+                { text: '🔷🟩 Environment Complexity', link: '/betacomp/Score/DifficultyScore/EnvironmentDifficultyScore/EnvironmentComplexityScore' },
+              ]
+            },
+          ]
+        },
+        {
+          text: '🔷 Execution Score',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/betacomp/Score/ExecutionScore/Overview' },
+            { text: '🔷🟠 Move Execution Score', link: '/betacomp/Score/ExecutionScore/MoveExecutionScore' },
+            { text: '🔷🔺 Route Execution Score', link: '/betacomp/Score/ExecutionScore/RouteExecutionScore' },
+            { text: '🔷🟩 Environment Execution Score', link: '/betacomp/Score/ExecutionScore/EnvironmentExecutionScore' },
 
+          ]
+        },
+        {
+          text: '🔷 Composition Score',
+          collapsed: true,
+          items: [
+            { text: '🔷 Overview', link: '/betacomp/Score/CompositionScore/Overview' },
+            { text: '🔷🟠 Move Composition', link: '/betacomp/Score/CompositionScore/MoveCompositionScore' },
+            { text: '🔷🔺 Route Composition', link: '/betacomp/Score/CompositionScore/RouteCompositionScore' },
+          ]
+        },
       ]
     },
     {
-      text: '🔧 Setter',
+      text: ' Officials',
       collapsed: true,
       items: [
-        { text: '🔧 Overview', link: '/officials/Setter/Overview' },
-        { text: '🔧 Chief Setter', link: '/officials/Setter/ChiefSetter' },
-        { text: '🔧 Apprentise Setter', link: '/officials/Setter/ApprentiseSetter' },
-        { text: '🔧 Technician', link: '/officials/Setter/Technician' },
+        {
+          text: '🎤 Announcer',
+          collapsed: true,
+          items: [
+            { text: '🎤 Overview', link: '/officials/Judge/JudgingOverview' },
+    
+          ]
+        },
+        {
+          text: '🎙 Commentator',
+          collapsed: true,
+          items: [
+            { text: '🎙 Overview', link: '/officials/Commentator/Overview' },
+    
+          ]
+        },
+        {
+          text: '⚖ Judge',
+          collapsed: true,
+          items: [
+            { text: '⚖ Overview', link: '/officials/Judge/JudgingOverview' },
+            { text: '⚖ Become a Judge', link: '/officials/Judge/HowBecomeJudge' },
+            { text: '⚖ Educate Judges', link: '/officials/Judge/HowEducateJudge' },
+            { text: '⚖ Recruit Judges', link: '/officials/Judge/HowRecruitJudge' },
+            { text: '⚖ Set Up Judging Area', link: '/officials/Judge/JudgingAreaSetUp' },
+            { text: '⚖ Rules', link: '/officials/Judge/Rules' },
+            { text: '⚖ Judging Process', link: '/officials/Judge/JudgingProcess' },
+            { text: '⚖ Beta Scoring App', link: '/officials/Judge/BetaScoreApp' },
+            { text: '⚖ Contingency Plans', link: '/officials/Judge/ContingencyPlans' },
+          ]
+        },
+        {
+          text: '📝 Registrar',
+          collapsed: true,
+          items: [
+            { text: '📝 Overview', link: '/officials/Registrar/Overview' },
+    
+          ]
+        },
+        {
+          text: '🔧 Setter',
+          collapsed: true,
+          items: [
+            { text: '🔧 Overview', link: '/officials/Setter/Overview' },
+            { text: '🔧 Chief Setter', link: '/officials/Setter/ChiefSetter' },
+            { text: '🔧 Apprentise Setter', link: '/officials/Setter/ApprentiseSetter' },
+            { text: '🔧 Technician', link: '/officials/Setter/Technician' },
+          ]
+        },
+        {
+          text: '🔌 Technologist',
+          collapsed: true,
+          items: [
+            { text: '🔌 Overview', link: '/officials/Technologist/Overview' },
+          ]
+        },
       ]
     },
-    {
-      text: '🔌 Technologist',
-      collapsed: true,
-      items: [
-        { text: '🔌 Overview', link: '/officials/Technologist/Overview' },
-      ]
-    },
+
     { text: 'Go to Tests', link: '/tests/TestsOverview' },
   ]
 }
