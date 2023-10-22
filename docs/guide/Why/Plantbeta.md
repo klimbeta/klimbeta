@@ -1,6 +1,6 @@
 # 🌲 [Plantbeta Click Here to Go to Plantbeta](https://klimbeta.github.io/plantbeta/)🌲
 
-![BetaComp_Plantbeta](/BetaComp_Plantbeta.png)
+![Klimbeta_Plantbeta](/Klimbeta_Plantbeta.png)
 
 <!-- Use an insane amount of links because this page is easily the most complicated part of the whole project and it ties everything together. Non-planters, non-climbers will need to be able to understand this page AskMom, AskAlex, AskLees-->
 
@@ -39,11 +39,11 @@ You can contribute to the 2 Billion Tree by using Plantbeta.
 
 Explain what tree planting is from the perspective of a Rookie Planter.
 
-## Rookie Planter Story with BetaComp and <envi>Plantbeta</envi>
+## Rookie Planter Story with Klimbeta and <envi>Plantbeta</envi>
 
-Show the utility of BetaComp for Planters
+Show the utility of Klimbeta for Planters
 
-## How exactly BetaComp combats Climate Change
+## How exactly Klimbeta combats Climate Change
 
 ### 1. How Planting combats Climate Change
 
@@ -102,7 +102,7 @@ Fill plants are the most complicated [<route>Routes</route>](reference/Route/Rou
 
 ---
 
-### 3. How [BetaComp](/guide/What/WhatBetaComp) contributes to [Plantbeta](https://klimbeta.github.io/plantbeta/)
+### 3. How [Klimbeta](/guide/What/WhatBetaComp) contributes to [Plantbeta](https://klimbeta.github.io/plantbeta/)
 
 
 
@@ -111,7 +111,7 @@ Fill plants are the most complicated [<route>Routes</route>](reference/Route/Rou
 
 > Apply the system that you're familiar from Climbing with to plant more Efficiently 
 
-The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Plantbeta.
+The [Beta System](reference/Beta/WhatBetaSystem) which is developed in Klimbeta can be directly applied to Plantbeta.
 
 #### [BetaScore](/reference/Score/Overview)
 
@@ -139,15 +139,15 @@ Planters become physically fit and ambidextrous
 
 ---
 
-### 4. How BetaComp helps Planters to Combat Climate Change
+### 4. How Klimbeta helps Planters to Combat Climate Change
 
-It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
+It's not Klimbeta that is combatting Climate Change, it's the climbers that are engaged with Klimbeta who are directly or indirectly combatting Climate Change.
 
-BetaComp's BetaSystem increases the efficiency and effectiveness of Plantbeta.
+Klimbeta's BetaSystem increases the efficiency and effectiveness of Plantbeta.
 
-BetaComp keeps Planters fit during their OffSeason so they can return to planting fitter than the year before.
+Klimbeta keeps Planters fit during their OffSeason so they can return to planting fitter than the year before.
 
-BetaComp gives Planters an occasion to socialize with their Planting friends in the OffSeason, therefore strengthening their social support during the season.
+Klimbeta gives Planters an occasion to socialize with their Planting friends in the OffSeason, therefore strengthening their social support during the season.
 
 
 

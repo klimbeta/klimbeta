@@ -42,7 +42,7 @@ Learn how to
 
 Make all Images Square 
 - to prevent distortion when the screen size changes.
-- To be able to directly post to Instagram with a link to BetaComp for the details. 
+- To be able to directly post to Instagram with a link to Klimbeta for the details. 
 
 
 ## Color Highlight

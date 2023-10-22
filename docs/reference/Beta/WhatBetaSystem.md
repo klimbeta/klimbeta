@@ -1,18 +1,18 @@
 # Beta System
 
-BetaComp uses a systemized form of <beta>Beta</beta> which has it's own way of writing <beta>Beta</beta>.
+Klimbeta uses a systemized form of <beta>Beta</beta> which has it's own way of writing <beta>Beta</beta>.
 
 ::: warning  Beta System is [Descriptive](https://dictionary.cambridge.org/dictionary/english/descriptive), not [Prescriptive](https://dictionary.cambridge.org/dictionary/english/prescriptive).
 
-The BetaComp has no intention to limit Climbers through the use of the <beta>BetaSystem</beta>. The <beta>BetaSystem</beta> is merely a tool to describe what a Climber does or thinks. The <beta>BetaSystem</beta> is designed to be open to new additions and it will take a [long time](/development/Roadmap) to completely describe Climbing, perhaps there are some aspects of Climbing which can not be described.
+The Klimbeta has no intention to limit Climbers through the use of the <beta>BetaSystem</beta>. The <beta>BetaSystem</beta> is merely a tool to describe what a Climber does or thinks. The <beta>BetaSystem</beta> is designed to be open to new additions and it will take a [long time](/development/Roadmap) to completely describe Climbing, perhaps there are some aspects of Climbing which can not be described.
 
 Although the <beta>BetaSystem</beta> is useful for all types of Climbing, Climbers don't need to use the <beta>BetaSystem</beta> outside of BetaComps if you don't want to.
 
 :::
 
-## What does 'Beta' mean in a BetaComp? 
+## What does 'Beta' mean in a Klimbeta? 
 
-BetaComp defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [<neuro>Neuro</neuro>](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
+Klimbeta defines Beta as a system composed of four subsystems: [<envi>Environment</envi>](/reference/Environment/EnvironmentOverview), [<move>Move</move>](/reference/Move/MoveOverview), [ <route>Route</route> ](/reference/Route/RouteOverview), and [<neuro>Neuro</neuro>](/reference/Neuro/NeuroOverview). Each subsystem or aspect of Beta affects the other aspects of Beta. Everything is connected. 
 
 ![BetaSetDiagram](/BetaSetDiagram.png) 
 
