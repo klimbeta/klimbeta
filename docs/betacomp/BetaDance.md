@@ -19,7 +19,7 @@ There are too few, if any, Climbers who have attempted to climb to music. The cl
 ### Music
 No Climber is good enough to climb to music, but after a few years of BetaComp Climbers will probably be able to climb to a simple beat.
 
-![Breaking_03](/Breaking_03.png)
+![Breaking_03](/Breaking/Breaking_03.png)
 
 Like in Breaking, Climbers will be judged on their Musicality. 
 - Moving the Rhythm of the music.
