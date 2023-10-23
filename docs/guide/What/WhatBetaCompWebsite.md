@@ -15,7 +15,7 @@ The BetaComp website can most easily be understood as a rulebook for the BetaCom
 :::
 
 ::: tip Freestyle Skiing Trick List
-![FIS_TrickList](/FIS_TrickList.png)
+![FIS_TrickList](/Freeski/FIS_TrickList.png)
 - https://www.fis-ski.com/DB/freestyle-freeski/freeski/trick-list.html
 :::
 
