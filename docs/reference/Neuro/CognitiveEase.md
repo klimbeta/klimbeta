@@ -1,6 +1,6 @@
 # CognitiveEase
 
-![CogntiveEase_00](/CognitiveEase_00.png)
+![CogntiveEase_00](/Neuro/CognitiveEase_00.png)
 
 ## Factors to induce CognitiveEase:
 ### ClarityEase
