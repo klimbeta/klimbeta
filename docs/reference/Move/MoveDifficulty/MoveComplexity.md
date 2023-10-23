@@ -353,3 +353,51 @@ ApparentPathOfLeastResistanceDeception
         - [This bridge should not be possible to climb](https://youtu.be/hZ6pm2G543E?t=573)(9:33)
             - Climbers must have HighMovementPrecision to Maintain LaybackPosition on a FeaturelessOutsideCornerWallRoute without Barndooring in either LeftDirection or RightDirection.
             - Maintain OptimalLoadingForceVector in HandMovement and FootMovement
+
+
+## Movement Repeatability
+
+### Quote
+
+> ”The movement is so complex that it’s almost impossible to do it the same way twice in a row”
+
+- MovementComplexityHigh
+    - BurdenOfDream(V17)\(6:05)\”The movement is so complex that it’s almost impossible to do it the same way twice in a row”
+        - https://vimeo.com/ondemand/thelappnorproject17
+
+
+## Rest
+
+- Neuro
+    - Timing
+        - Knowing when to rest
+- Resting often isn’t PassiveMovement. ShakeMovements are not PassiveMovement. Knowing how to get muscles to relax is a skill.
+
+
+## Move Sequence
+
+- Notation
+    - [,]
+        - [StandUp, UnderclingHold]
+            - MovementSequence[CrimpGrip, SpoonSmear, CrimpGrip]
+
+
+- Differentiate(Timing, Sequencing)
+Timing is often used erroneously instead of sequence.
+- Sequencing is ordered, but without Duration of Submovements
+- On(Event) = Sequence
+    - On(ClimberPosition)
+        - [RockOver, LegSquat]
+    - On(Sensation)
+        - On(FootContact)
+            - Pressure of FootContacting and Loading Surface.
+        - On(HandContact)
+            - Touch Sensation when FingerContact TargetSurface.
+    - On(Proprioception)
+    - On(Stretch)
+        - LegWhip into Wall when LegAnteriorMuscles are stretched to their MaximumMuscleLength, during LegBackSwing.
+
+- On(Time) = Timing
+    - On(30second)\RestTime during a CompetitionRound
+    - Timing can be used when HiddenClimberPosition or Position isn’t clear, such as when knowing when to HandRelease during Dyno.LaunchPhase.
+    - ClimberPosition is often more clear to the Spectator than to the Climber on the Route.

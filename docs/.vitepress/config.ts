@@ -329,6 +329,16 @@ function sidebarReference() {
             { text: '❔🟠 What is MoveSequence?', link: '/reference/Move/MoveSequence/Overview' }
           ]
         },
+        {
+          text: '🟠🟠 Move Difficulty',
+          collapsed: true,
+          items: [
+            { text: '❔🟠 Overview', link: '/reference/Move/MoveDifficulty/Overview' },
+            { text: '❔🟠 Move Complexity', link: '/reference/Move/MoveDifficulty/MoveComplexity' },
+            { text: '❔🟠 Move Intensity', link: '/reference/Move/MoveDifficulty/MoveIntensity' },
+            { text: '❔🟠 Move Risk', link: '/reference/Move/MoveDifficulty/MoveRisk' },
+          ]
+        },
       ]
     },
     {
@@ -380,6 +390,16 @@ function sidebarReference() {
           collapsed: true,
           items: [
             { text: '❔🔺 What is a Route Sequence?', link: '/reference/Route/RouteSequence/Overview' }
+          ]
+        },
+        {
+          text: '🔺🔺 Route Difficulty',
+          collapsed: true,
+          items: [
+            { text: '❔🔺 Overview', link: '/reference/Route/RouteDifficulty/Overview' },
+            { text: '❔🔺 Route Complexity', link: '/reference/Route/RouteDifficulty/RouteComplexity' },
+            { text: '❔🔺 Route Intensity', link: '/reference/Route/RouteDifficulty/RouteIntensity' },
+            { text: '❔🔺 Route Risk', link: '/reference/Route/RouteDifficulty/RouteRisk' },
           ]
         },
       ]
@@ -464,6 +484,16 @@ function sidebarReference() {
             { text: '❔🟩 What is a Environment Sequence?', link: '/reference/Environment/EnvironmentSequence/Overview' },
           ]
         },
+        {
+          text: '🟩🟩🟩 Environment Sequence',
+          collapsed: true,
+          items: [
+            { text: '🟩 Overview', link: '/reference/Environment/EnvironmentDifficulty/Overview' },
+            { text: '🟩 Environment Complexity', link: '/reference/Environment/EnvironmentDifficulty/EnvironmentComplexity' },
+            { text: '🟩 Environment Intensity', link: '/reference/Environment/EnvironmentDifficulty/EnvironmentIntensity' },
+            { text: '🟩 Environment Risk', link: '/reference/Environment/EnvironmentDifficulty/EnvironmentRisk' },
+          ]
+        },
       ]
     },
     {
@@ -475,11 +505,14 @@ function sidebarReference() {
         { text: '💜 Alignment', link: '/reference/Neuro/Alignment' },
         { text: '💜 Attention', link: '/reference/Neuro/Attention' },
         { text: '💜 Awareness', link: '/reference/Neuro/Awareness' },
+        { text: '💜 CogntiveEase', link: '/reference/Neuro/CogntiveEase' },
         { text: '💜 Counting', link: '/reference/Neuro/Counting' },
         { text: '💜 Decision', link: '/reference/Neuro/Decision' },
         { text: '💜 Energy', link: '/reference/Neuro/Energy' },
         { text: '💜 Estimation', link: '/reference/Neuro/Estimation' },
         { text: '💜 Event', link: '/reference/Neuro/Event' },
+        { text: '💜 Judgement', link: '/reference/Neuro/Judgement' },
+        { text: '💜 Learning', link: '/reference/Neuro/Learning' },
         { text: '💜 Listening', link: '/reference/Neuro/Listening' },
         { text: '💜 Memory', link: '/reference/Neuro/Memory' },
         { text: '💜 Music', link: '/reference/Neuro/Music' },

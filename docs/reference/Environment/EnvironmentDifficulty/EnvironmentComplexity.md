@@ -14,3 +14,8 @@
 
 
 ### High Environment Complexity
+
+
+## Protection
+
+Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)

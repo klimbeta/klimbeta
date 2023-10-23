@@ -127,4 +127,24 @@
     - “When the conditions are just right”
 
 
-## Protection
+## Route Space
+
+- LackOfSpace
+    - ConstrictedSpace
+        - Kneebar
+        - BodyJam
+        - OffWidthCrack
+    - CrampedSpace
+    - TightSpace
+- ExpansiveSpace
+    - WideSpace
+- MovementError
+    - FootDab
+- CaveRoute
+    - CaveRoofWallRoute
+        - WitnessTheFitness
+        - WheelOfLife
+- RoofWall
+- JamMovement
+    - OffWidthJam
+        - ChickenWing
