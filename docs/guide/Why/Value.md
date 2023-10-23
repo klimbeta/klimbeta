@@ -196,7 +196,7 @@ Being able to externalize the Beta of your project by putting on paper reduces A
 <!-- ---------------------------------------------------------------------------- -->
 ## Reduces Effort
 
-![CognitiveEase_00](/CognitiveEase_00.png)
+![CognitiveEase_00](/Neuro/CognitiveEase_00.png)
 
 Increasing Cognitive Ease results in feelings of Effortlessness. BetaComp enhances these four factors which determine Cognitive Ease.
 - Priming
