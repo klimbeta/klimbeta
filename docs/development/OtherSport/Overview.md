@@ -31,7 +31,7 @@ There is no opposition to the competitors of these sports. Each athelete or team
 :::
 
 ::: tip [Breaking](https://olympics.com/en/sports/breaking/)
-![InsertImage](/Breaking.png)
+![InsertImage](/Breaking/Breaking.png)
 
 © Comité International Olympique (CIO) / RUTAR, Ubald
 :::
