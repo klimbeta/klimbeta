@@ -33,9 +33,9 @@
 ## Advantage
 
 Advantage over other Climbers.
-- Risk increases in Competition when the Friction of LoadingSurfaces decreases when Holds become TooChalky.
+- Risk increases in Competition when the Friction of RouteSurfaces decreases when Holds become TooChalky.
 
-- Risk decreases when LoadingSurfaces are Prechalked.
+- Risk decreases when RouteSurfaces are Prechalked.
 
 ## <route>Route</route> Risk Factors
 
@@ -53,9 +53,9 @@ SmallHold.Route.R+
 - PocketHold
     - BowlingBallHold\Crux of Biographie (5.15a)
 
-- Risk increases when there is only a small part of a SmallHold which must be hit perfectly, i.e. there is little margin of error of FingerPlacement on a LoadingSurface.
+- Risk increases when there is only a small part of a SmallHold which must be hit perfectly, i.e. there is little margin of error of FingerPlacement on a RouteSurface.
 
-- Risk increases when there is a limited range of directions (vectors) in which to load a LoadingSurface.
+- Risk increases when there is a limited range of directions (vectors) in which to load a RouteSurface.
 
 - StabMovement
     - HangingFootTransfer ->
@@ -70,7 +70,7 @@ AccurateTiming
     - The faster a Climber moves, the more time they have to get to TargetSurface or RestPosition.
     - Climbers can wait longer if they can move fast.
 - ReflexSpeed
-- When the Climber needs to get a ClimberPart to a LoadingSurface
+- When the Climber needs to get a ClimberPart to a RouteSurface
 
 - Risk increases when Movement timing has a small margin for error.
     - CoordinationMovement, Dyno.HandRelease, ArmBrake, FootStab, ReleaseMovement
@@ -96,9 +96,9 @@ Commitment.RouteRisk(-)
 
 ### Hidden Route Surface
 
-Definition(HiddenLoadingSurface)
-- A LoadingSurface which can’t be seen from a Climber’s RoutePosition.
-- A HiddenLoadingSurface increases the Risk of a Movement.
+Definition(HiddenRouteSurface)
+- A RouteSurface which can’t be seen from a Climber’s RoutePosition.
+- A HiddenRouteSurface increases the Risk of a Movement.
 
 
 Quote
@@ -111,11 +111,11 @@ Quote
 
 
 HiddenRouteSurface.MoveRisk(-)
-- A LoadingSurface which was recently visible from AnteRoutePosition is lower Risk than a HiddenLoadingSurface which isn’t seen until CurrentRoutePosition or PostRoutePosition.
-    - MoveRisk.HiddenLoadingSurface(TopOut.TargetSurface > SitStart.StartHold)
+- A RouteSurface which was recently visible from AnteRoutePosition is lower Risk than a HiddenRouteSurface which isn’t seen until CurrentRoutePosition or PostRoutePosition.
+    - MoveRisk.HiddenRouteSurface(TopOut.TargetSurface > SitStart.StartHold)
 
 Hidden ByRouteSurfaceSize
-- Some LoadingSurfaces are so small that they can’t be seen.
+- Some RouteSurfaces are so small that they can’t be seen.
 
 
 HiddenByRouteForm
@@ -123,31 +123,31 @@ HiddenByRouteForm
     - RoutePosition
     - MovementPosition
 
-- SwapMovement on LoadingSurface.
+- SwapMovement on RouteSurface.
 - UnderclingGrip when you can’t see from Distal of Elbow.
 - FootHold
 
 - HiddenByShadow
-    - A LoadingSurface can be Hidden in a Shadow
-        - What LoadingSurfaceType is most easily HiddenByShadow?
+    - A RouteSurface can be Hidden in a Shadow
+        - What RouteSurfaceType is most easily HiddenByShadow?
             - SmallHold
 
     - HiddenByNoShadow
         - HiddenByNoShadow only applies to RockWalls, since ArtificialHolds are almost always a different color from the wall and artificial lighting doesn’t ever vary.
-        - Shadows help Climbers to see the 3Dimensional form of LoadingSurfaces.
+        - Shadows help Climbers to see the 3Dimensional form of RouteSurfaces.
         - There are no Shadows when the light is directly shining on the Wall.
 
-- Mnemonic of LoadingSurfaceLocation decreases Risk.
-    - (LoadingSurfaceLocation)RelativeTo(Route, Climber, (Route+Climber))
-    - Using a distinct part of the wall on the Climber’s side of an OutsideCornerWall as a guide for the LoadingSurface on the Hidden side of the CornerWall.
+- Mnemonic of RouteSurfaceLocation decreases Risk.
+    - (RouteSurfaceLocation)RelativeTo(Route, Climber, (Route+Climber))
+    - Using a distinct part of the wall on the Climber’s side of an OutsideCornerWall as a guide for the RouteSurface on the Hidden side of the CornerWall.
     - TicMark
         - TicMark decreases Risk.
     - TicMark can’t be unseen, just like a story spoiler.
     - TicMarks prevent OnsightAttempt.
-    - Knowing the location of all the holds and LoadingSurfaces decreases Risk.
+    - Knowing the location of all the holds and RouteSurfaces decreases Risk.
 
 - Hold hidden under a Volume
-- LoadingSurface is Hidden around a CornerWall 
+- RouteSurface is Hidden around a CornerWall 
     - VerticalCornerWall (Arete)
     - HorizontalCornerWall (Bulge, TopOut)
         - Foothold is hidden from Climber since it is below a BulgeWall
@@ -159,7 +159,7 @@ HiddenByRouteForm
     - Climber’s chest too close to the wall to Look down at a Hold.
         - LookAt.MovementError(ChestTooClose)
 - JumpStart
-    - When performing a JumpStart, Climbers can’t see what the LoadingSurface is like.
+    - When performing a JumpStart, Climbers can’t see what the RouteSurface is like.
 
 
 ### Irreversible
@@ -173,7 +173,7 @@ Definition(Irreversible)
 Irreversible.RouteRisk(High)
 
 - Deadpoint from a NonJugHold
-- LoadingSurfaces which use StaticUpMovements that finish with FingertipPress and can’t start with FingertipPress when DownClimbing.
+- RouteSurfaces which use StaticUpMovements that finish with FingertipPress and can’t start with FingertipPress when DownClimbing.
 - DynamicDownMovement is not possible because it will overload StaticFrictionThreshold.
 
 
@@ -223,8 +223,8 @@ SmallHold
 - SmallFootHold
     - FootSwap, FootStab
 
-LoadingSurface.Risk(++)
-- Decrease LoadingSurface CoefficientOfFriction
+RouteSurface.Risk(++)
+- Decrease RouteSurface CoefficientOfFriction
 - SmoothTexture increases Risk since there is less Friction, therefore there is a great chance of FootSlip.
 
 

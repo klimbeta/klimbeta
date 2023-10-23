@@ -48,7 +48,7 @@
 
 - HiddenByBlockerHold
 - HiddenBySun
-    - Sun in a Climber’s eyes affects Complexity since LoadingSurfaces can become HiddenLoadingSurface.
+    - Sun in a Climber’s eyes affects Complexity since RouteSurfaces can become HiddenRouteSurface.
 - HiddenByWall
 
 ## RouteSurface
@@ -67,10 +67,10 @@
 ## TooManyOptions
 
 - RouteComplexity
-    - (RouteComplexity)ProportionalTo(LoadingSurfaceCount)
-    - (RouteComplexity)ProportionalTo(LoadingSurfaceSize)
+    - (RouteComplexity)ProportionalTo(RouteSurfaceCount)
+    - (RouteComplexity)ProportionalTo(RouteSurfaceSize)
         - MacroHold
-            - MacroHolds are so big that they have many LoadingSurfaces.
+            - MacroHolds are so big that they have many RouteSurfaces.
         - RailHold
         - Arete Layback
             - L’angle Allain (6a)
@@ -83,14 +83,14 @@
             - NoviceClimbers usually don’t place their feet in the OptimalRoutePosition on Volume.
             - Volumes are a great way to increase the RouteComplexity of RouteGrade.Low.
     - RouteComplexity(High)
-        - LoadingSurfaceCount
+        - RouteSurfaceCount
         - RedHerring Surface
     - RouteComplexity(Low)
     - RouteComplexity(++)
     - RouteComplexity(--)
     - Neuro
-        - Remember which LoadingSurface to choose.
-            - Climbers must be able to select the best Hold and LoadingSurface from many options. Selection implies excess.
+        - Remember which RouteSurface to choose.
+            - Climbers must be able to select the best Hold and RouteSurface from many options. Selection implies excess.
     - See(LegendsOnly)
 
 ## RouteLine

@@ -53,7 +53,7 @@ Make all Images Square
 - (PocketHoldSize)InverselyProportionalTo(Risk)
 - [<move>BlockerHold</move>]()
     - FingerSlot into a TwoFingerPocketHold is Risky.
-    - Adding a BlockerHold increases the Risk that the Climber will miss the LoadingSurface.
+    - Adding a BlockerHold increases the Risk that the Climber will miss the RouteSurface.
 
 RiskOfLosingGrip from being Gripped in IncorrectRoutePosition and or IncorrectLoadingAngleRange.
 - HandSlip

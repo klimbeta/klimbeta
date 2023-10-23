@@ -73,7 +73,7 @@ High MoveIntensity increases NeuroIntensity
 ### Climber Height
 
 - RouteSurfaceDisplacement
-    - ClimberHeight is inversely proportional to LoadingSurfaceDisplacement.Intensity.
+    - ClimberHeight is inversely proportional to RouteSurfaceDisplacement.Intensity.
 
 - Torque
     - Leverage
@@ -347,7 +347,7 @@ ArmPump
 
 ## MovementSize
 - (GripIntensity)ProportionalTo(PinchGrip.Width)
-- Intensity is proportional to the DisplacementMagnitude between LoadingSurfaces.
+- Intensity is proportional to the DisplacementMagnitude between RouteSurfaces.
 - MovementSize increases the Intensity since more force must be generated to move further.
 - MovementNameList
     - IronCross

@@ -506,7 +506,7 @@ function sidebarReference() {
         { text: '💜 Alignment', link: '/reference/Neuro/Alignment' },
         { text: '💜 Attention', link: '/reference/Neuro/Attention' },
         { text: '💜 Awareness', link: '/reference/Neuro/Awareness' },
-        { text: '💜 CogntiveEase', link: '/reference/Neuro/CogntiveEase' },
+        { text: '💜 CognitiveEase', link: '/reference/Neuro/CognitiveEase' },
         { text: '💜 Counting', link: '/reference/Neuro/Counting' },
         { text: '💜 Decision', link: '/reference/Neuro/Decision' },
         { text: '💜 Energy', link: '/reference/Neuro/Energy' },

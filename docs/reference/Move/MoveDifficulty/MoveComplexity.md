@@ -107,7 +107,7 @@
 - Find center
 
 - Align(Climber)RelativeTo(Route)
-    - To optimize Friction, since Friction is greatest when the applied force is perpendicular to LoadingSurface.
+    - To optimize Friction, since Friction is greatest when the applied force is perpendicular to RouteSurface.
     - Align(HorizontalMovement)
         - MovementNameList
             - Stemming
@@ -147,7 +147,7 @@
 - Expectation
 - PathOfLeastResistance
 - MovementError
-    - Climbers who reach for the closest LoadingSurface and use an erroneous sequence. 
+    - Climbers who reach for the closest RouteSurface and use an erroneous sequence. 
         - FarThenClose
 
 ## Creativity
@@ -198,7 +198,7 @@
     - Changing the ClimberPart which contacts a given RouteSurface.
         - FootSwap
             - FootSmearSwap
-                - FootSmear beside TargetLoadingSurface.
+                - FootSmear beside TargetRouteSurface.
     - HandSwap
         - HandOverlapSwap
         - HandPianoSwap
@@ -233,7 +233,7 @@
     - Hop into Standing on a SmallHold on SlabWall.
     - Overshoot the TargetSurface or TargetBodyPosition, then need to redirect
 - Overgripping
-    - Gripping the Hold with a force which is greater than the minimum force required to maintain StaticFriction between the Climber and LoadingSurface.
+    - Gripping the Hold with a force which is greater than the minimum force required to maintain StaticFriction between the Climber and RouteSurface.
     - Overgripping as a reaction to FearOfFalling
 
 ## RedHerring
@@ -243,7 +243,7 @@
     - “Don’t waste your time on that”
 - SkipHold
     - FarThenClose
-- LoadingSurfaces which are tempting to use because they are easy to Load, but have a negative effect on the Climber’s advancement of RoutePosition.
+- RouteSurfaces which are tempting to use because they are easy to Load, but have a negative effect on the Climber’s advancement of RoutePosition.
 - A JugHold which puts the Climber OffRoute and perhaps to a RouteDeadEnd.
 - BotchedMovementSequence
 - Counterintuitive

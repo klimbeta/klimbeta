@@ -73,7 +73,7 @@ High MoveIntensity increases NeuroIntensity
 ### Climber Height
 
 - RouteSurfaceDisplacement
-    - ClimberHeight is inversely proportional to LoadingSurfaceDisplacement.Intensity.
+    - ClimberHeight is inversely proportional to RouteSurfaceDisplacement.Intensity.
 
 - Torque
     - Leverage

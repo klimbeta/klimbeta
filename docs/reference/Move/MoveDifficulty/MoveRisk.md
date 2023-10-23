@@ -200,7 +200,7 @@ MoveRisk.ProprioceptiveMovement(+)
 - HiddenFootSwap
 - HiddenHandMatch
 - HiddenBumpMovement
-- HiddenLoadingSurface
+- HiddenRouteSurface
 
 MoveRisk.ProprioceptiveMovement(-)
 - HandSwap
@@ -223,7 +223,7 @@ Definition(NoRecovery)
 
     > “Crossed the line”
 
-    - LoadingSurface FrictionLine RangeOfRouteAnglesLimitLine
+    - RouteSurface FrictionLine RangeOfRouteAnglesLimitLine
 
     - GeometricalLimit
 
@@ -275,7 +275,7 @@ WallType can modify MoveRisk or RouteRisk.
 - Sit
 - JugGrip
     - JugGrip.Risk(+)
-        - WetLoadingSurface
+        - WetRouteSurface
     - JugGrip.Risk(-)
         - 2_JugGrip
 - Standing

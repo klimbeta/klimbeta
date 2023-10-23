@@ -6,11 +6,11 @@ Used to compare the RICscore values of RouteComponents.
 
 RouteRIC.Continuum
 - RouteComplexity.Low (R.C-)
-    - LadderRoute is Route.Complexity.Low (Route.C-) since all LoadingSurfaces are clearly visible and it’s clear how to Grip them.
+    - LadderRoute is Route.Complexity.Low (Route.C-) since all RouteSurfaces are clearly visible and it’s clear how to Grip them.
     - MovementClimbing is all about creating ComplexMovement on SimpleRoutes.
 
 - RouteIntensity.High (R.C+)
-    - A LadderRoute can have HighIntensityMovements if you don’t use all the LoadingSurfaces.  
+    - A LadderRoute can have HighIntensityMovements if you don’t use all the RouteSurfaces.  
     - SkipHold
 
 

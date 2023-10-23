@@ -59,19 +59,19 @@ RouteSurfaceSize
 
 - RouteSurfaceIntensity(-)
     - LargeContactSize
-    - Greater CoefficientOfFriction requires less Force to be Static. Climber doesn’t need to apply as much force into a RoughTexture LoadingSurface.
+    - Greater CoefficientOfFriction requires less Force to be Static. Climber doesn’t need to apply as much force into a RoughTexture RouteSurface.
     - DrySurface
   
     - RoughSurfaceTexture
 
 - KineticFriction
     - Definition(KineticFriction)
-        - A force that acts between Sliding ClimberContact and LoadingSurface.
+        - A force that acts between Sliding ClimberContact and RouteSurface.
     - SlideMovement
 
 - StaticFriction
     - Definition(StaticFriction)
-        - The Force that keeps ContactSurface and LoadingSurface from Sliding.
+        - The Force that keeps ContactSurface and RouteSurface from Sliding.
     - StaticContactMovement
         - Definition(StaticContactMovement)
             - Movements which don’t Slide. 
@@ -84,7 +84,7 @@ RouteSurfaceSize
 ### CoefficientOfFriction
 - Definition(CoefficientOfFriction)
     - The ratio of the Frictional resistance force to the normal force which presses the Surfaces together.
-    - A lower coefficient of Friction on a LoadingSurface increases the Intensity of the Grip.
+    - A lower coefficient of Friction on a RouteSurface increases the Intensity of the Grip.
 - Water
     - [Adam Ondra #28: Conditions matter](https://youtu.be/KGIxXZClkUM?list=PL4cmXgffCRMz9xMKxs0ftDJUH-n-WGTuy&t=70)
         - “In Tokyo at least we can finally see the sea but the fact that it's hundred meters away from the climbing venue it's not so nice for a climbing conditions is gonna be humid another kind of cloud or who is very sensitive to the perfect conditions I like it cold I like it windy”
@@ -93,7 +93,7 @@ RouteSurfaceSize
     - Humidity
         [Adam Ondra #27: One year before](https://youtu.be/0Mvx_htbcRw?list=PL4cmXgffCRMz9xMKxs0ftDJUH-n-WGTuy&t=90)
     - Sweat
-        - Climbers can make WetLoadingSurface by sweating on the LoadingSurface. AdamOndra waited for a Breeze for his 9a+ Flash attempt so that the wind could dry his sweat while climbing.
+        - Climbers can make WetRouteSurface by sweating on the RouteSurface. AdamOndra waited for a Breeze for his 9a+ Flash attempt so that the wind could dry his sweat while climbing.
 - SurfaceTexture
     - QualifyTexture
         - RoughTexture
@@ -136,9 +136,9 @@ RouteSurfaceSize
             - UnderclingGrip
 - SurfaceArea
     - Definition(SurfaceArea)
-        - The area of contact between Climber and a LoadingSurface of a Route.
+        - The area of contact between Climber and a RouteSurface of a Route.
     - Measurement
-    - Measurement usually refers to Depth (Z-axis) of LoadingSurface when describing an EdgeHold
+    - Measurement usually refers to Depth (Z-axis) of RouteSurface when describing an EdgeHold
         - FingerPad
             - HalfPad, FullPad, QuarterPad, TwoPad
     - Inch
@@ -148,7 +148,7 @@ RouteSurfaceSize
         - Measurement
         - Pressure(++)
             - ShoeSize
-        - MovementNameList of Movements which rely totally on LoadingSurfaceSize
+        - MovementNameList of Movements which rely totally on RouteSurfaceSize
             - SmearMovement
                 - HandSmear
                 - FootSmear

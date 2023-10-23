@@ -22,7 +22,7 @@
         >“I went into full blackout mode”
 
 - RehearsedMovement
-    - AdamOndra climbing the Routes with Klaus Isele, who mimics the LoadingSurfaces.
+    - AdamOndra climbing the Routes with Klaus Isele, who mimics the RouteSurfaces.
         - [Silence | World's Hardest Route 9c | Adam Ondra\](https://youtu.be/ZRTNHDd0gL8?t=560)(9:20)
         - [Adam Ondra #39: Visualization: A Crucial Part of Climbing](https://www.youtube.com/watch?v=3WO6rcosZ-o)
     - Miming
@@ -33,9 +33,11 @@
 
 ## CognitiveEase is Perceived by:
 ### Quote
-    “Easy”
-    “Easier”
-    “Easiest”
+> “Easy”
+
+> “Easier”
+
+>“Easiest”
 ### FeelsTrue
 - Correct
 - Right
@@ -169,3 +171,9 @@ Lazy Controller
 ## WYSIATI
 
 > **W**hat **Y**ou **S**ee **I**s **A**ll **T**here **I**s
+
+HiddenHold
+
+Onsight
+
+> I didn't even know that was possible until I saw you do it

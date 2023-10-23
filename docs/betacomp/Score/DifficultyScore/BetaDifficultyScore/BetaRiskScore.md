@@ -7,7 +7,7 @@ FamiliarityBias
     - Understand how competitions work.
     - Already know what to expect
 - FamiliarityEase
-- Risk decreases when Climber is familiar with the Holds in a Route, especially when HiddenLoadingSurface.
+- Risk decreases when Climber is familiar with the Holds in a Route, especially when HiddenRouteSurface.
 - Risk decreases after a Climber repeatedly successfully performs a Movement.
 
 

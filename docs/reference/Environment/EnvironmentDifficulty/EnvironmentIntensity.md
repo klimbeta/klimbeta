@@ -66,7 +66,7 @@ HighAltitude Acclimatization
     - AirTemperature
         - Sending Temps
         - Sweat affects Intensity.
-- WarmLoadingSurface
+- WarmRouteSurface
     - WallTemperature
         - WarmRock
             - SunExposure
