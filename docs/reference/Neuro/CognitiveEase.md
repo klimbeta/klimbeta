@@ -73,3 +73,12 @@ Joy
 - Analogy
 
 > “I’ve done a similar movement to this before”
+
+
+## Thinking Fast and Slow
+
+![ThinkingFastAndSlow](/Neuro/ThinkingFastAndSlow.png)
+- In 2011 Daniel Kahneman framed a way to understand cognition in  Thinking Fast and Slow. In the book he splits cognition into two systems, System1 and System2.
+- Here are some video explanations of the two systems.
+    - [Daniel Kahneman: Thinking Fast vs. Thinking Slow | Inc. Magazine](https://www.youtube.com/watch?v=PirFrDVRBo4&ab_channel=Inc.)
+    - [The Science of Thinking](https://www.youtube.com/watch?v=UBVV8pch1dM&t=15s&ab_channel=Veritasium)

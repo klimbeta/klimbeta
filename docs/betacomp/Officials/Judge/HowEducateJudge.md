@@ -5,22 +5,22 @@
 ### Freeski
 
 ::: tip FIS Online Education Platform
-![FIS_JudgeEducation](/FIS_JudgeEducation.png)
+![FIS_JudgeEducation](/Freeski/FIS_JudgeEducation.png)
 
 ---
 
-![FIS_JudgeEducation_01](/FIS_JudgeEducation_01.png)
+![FIS_JudgeEducation_01](/Freeski/FIS_JudgeEducation_01.png)
 - https://www.fis-edu.com/
 :::
 
 ### Gymnastics
 
 ::: tip USA School of Judging
-![GymUSA_School](/GymUSA_School.png)
+![GymUSA_School](/Gymnastics/GymUSA_School.png)
 
 ---
 
-![GymUSA_School_01](/GymUSA_School_01.png)
+![GymUSA_School_01](/Gymnastics/GymUSA_School_01.png)
 
 - https://usagym.org/education/courses/judging/
 :::
@@ -28,11 +28,11 @@
 
 ::: tip British Judging Qualifications
 
-![GymBritish_00](/GymBritish_00.png)
+![GymBritish_00](/Gymnastics/GymBritish_00.png)
 
 ---
 
-![GymBritish_01](/GymBritish_01.png)
+![GymBritish_01](/Gymnastics/GymBritish_01.png)
 
 - https://www.british-gymnastics.org/courses/search/judging
 :::

@@ -67,7 +67,7 @@ There is no opposition to the competitors of these sports. Each athelete or team
 :::
 
 ::: tip [Skateboarding](https://olympics.com/en/sports/skateboarding/)
-![InsertImage](/Skateboard.png)
+![InsertImage](/Skateboard/Skateboard.png)
 
 © Ezra Shaw/Getty Images
 :::

@@ -164,6 +164,7 @@ function sidebarReference() {
             { text: '🔷 MimeBeta', link: '/reference/Beta/BetaAction/MimeBeta' },
             { text: '🔷 ParseBeta', link: '/reference/Beta/BetaAction/ParseBeta' },
             { text: '🔷 PerformBeta', link: '/reference/Beta/BetaAction/PerformBeta' },
+            { text: '🔷 PlantBeta', link: '/reference/Beta/BetaAction/PlantBeta' },
             { text: '🔷 ReadBeta', link: '/reference/Beta/BetaAction/ReadBeta' },
             { text: '🔷 RecordBeta', link: '/reference/Beta/BetaAction/RecordBeta' },
             { text: '🔷 SprayBeta', link: '/reference/Beta/BetaAction/SprayBeta' },
