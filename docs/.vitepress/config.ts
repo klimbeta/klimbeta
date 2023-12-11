@@ -40,7 +40,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/Klimbeta',
+      link: '/guide/What/WhatKlimbeta',
       activeMatch: '/guide/'
     },
     {
